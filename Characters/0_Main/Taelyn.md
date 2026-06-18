@@ -1,0 +1,12 @@
+💎 Taelyn: The Vulnerability Armor
+
+> _"In this galaxy, you either hold the knife or you wear the collar. I don't need friends, I need leverage."_
+
+- **Enneagram:** **Type 8 (The Challenger) with a 7 Wing**
+- **The Overarching Theme Mirror:** He uses aggressive skepticism and anger to bury his own deep desire to protect others, pretending the galaxy is a cold transaction when he secretly knows it's a tragedy.
+- **Backstory & History:** A brutal survivor of a Syndicate labor camp who fought his way up to becoming a ruthless pirate captain. The labor camp he escaped from was a secret facility built to mine the raw, volatile fuel that powers _The Astraea_. He boards the ship planning a massive criminal coup to overthrow his bosses.
+- **The Internal Lie / Misbelief:** _"Empathy is a weakness that gets you killed. The only way to survive is to dominate every room and never trust a living soul."_
+- **The Vulnerable Virtue (Why Readers Love Him):** He talks like a cold-blooded crime boss, but his pirate crew is entirely made of refugees from the labor camp he escaped from. Every credit he steals goes to buying medicine and forged papers for them. He is aggressive because he refuses to let his found family ever be enslaved again.
+- **The Core Conflict & Exploitation:** The Aeliria exploit his need for dominance by letting him think he is an independent renegade, while using his criminal operations to destabilize planets and fuel the war. His desire for control makes him blind to how he is being puppeted.
+- **The Turning Point & Breaking the Illusion:** To allow _The Astraea_ to escape an inescapable trap, the ship’s hangar doors must be opened via a terminal that will violently burn out the user's nervous system. Taelyn intentionally shoves his cybernetic data-jack into the terminal, sacrificing his legendary combat reflexes and physical power to give the crew a chance.
+- **The Ultimate Epiphany:** True strength lies in vulnerability and mutual protection. The crew risks the entire mission to turn around and drag his paralyzed, twitching body back on board. Taelyn is forced to spend several episodes physically weak and completely dependent on the crew to feed and move him, shattering his Type 8 armor and forcing him to accept that he is loved for _who_ he is, not how dangerous he is.

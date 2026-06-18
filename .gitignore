@@ -1,0 +1,10 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code local/machine-specific settings
+.claude/settings.local.json
