@@ -5,6 +5,9 @@ RUBRIC
   resolved → delete immediately; partial clarity → update in place, no history
   section >5-6 items → consider moving settled nuance to character files
 
+## Blocking — Must Resolve Before Drafting
+- Aeliria interiority — why they do this in a way that makes horrible sense once understood; the antagonist force cannot remain a faceless mechanism for literary fiction at this level; needs motivation with internal logic, not just operational precision
+
 ## World & Conspiracy
 - Why humans have gap-detection sensitivity (not other species)
   - → Callum's hybrid biology relevant but unconfirmed as answer

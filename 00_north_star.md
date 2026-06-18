@@ -7,6 +7,10 @@ This doc holds the load-bearing truths of the series — the things that can't q
 
 A manufactured galactic war, kept alive for a millennium by a hidden third party erasing perception itself, is finally being unraveled by a crew who can't trust their own ship, their own eyes, or each other's memories.
 
+## Thematic Test
+
+Before any major new element is added to the vault, ask: *Does this serve the argument the series is making, or does it only fit the world?* Logical consistency with established canon is necessary but not sufficient — the element also has to pull toward the thematic core.
+
 ## Thematic Core
 
 The story is an allegory for misinformation, systemic manipulation, and the comfort of believing a clean lie over a messy truth. Every layer of the conspiracy mirrors this: the Vuquoi believe in the Ka'ar, the Ehmeya believe they control the Aeliria, humanity believes it's fighting a barbaric threat. Nobody at any level holds the real picture — control runs through layers of people who are themselves deceived. Self-deception and "surface-level truths" are the real enemy, not any single villain.
