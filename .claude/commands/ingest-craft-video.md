@@ -6,14 +6,23 @@ $ARGUMENTS is the YouTube URL (e.g., https://www.youtube.com/watch?v=VIDEO_ID or
 
 ## Step 1 — Fetch the transcript
 
-Use Bash to run yt-dlp and extract the transcript to a temp file, then read it:
+Use Bash to run yt-dlp and extract the transcript to a temp file:
 
 ```bash
 yt-dlp --skip-download --write-auto-subs --sub-langs en --convert-subs vtt \
   -o "/tmp/yt_transcript" "$ARGUMENTS"
 ```
 
-This writes `/tmp/yt_transcript.en.vtt`. Read that file, strip the VTT header and timestamp lines (lines matching `-->`, blank lines, and the `WEBVTT` header), and join the remaining text into a plain-text transcript.
+This writes `/tmp/yt_transcript.en.vtt`. Immediately clean it using Bash — do NOT read the raw VTT file:
+
+```bash
+grep -v "^WEBVTT\|^Kind:\|^Language:\|-->" /tmp/yt_transcript.en.vtt \
+  | sed 's/<[^>]*>//g' \
+  | awk 'NF && $0 != prev {print; prev=$0}' \
+  > /tmp/yt_transcript_clean.txt
+```
+
+Read `/tmp/yt_transcript_clean.txt` (the clean plain-text transcript).
 
 Also capture the video title:
 ```bash
@@ -22,7 +31,7 @@ yt-dlp --skip-download --print "%(title)s" "$ARGUMENTS"
 
 Clean up after reading:
 ```bash
-rm -f /tmp/yt_transcript.en.vtt
+rm -f /tmp/yt_transcript.en.vtt /tmp/yt_transcript_clean.txt
 ```
 
 **If yt-dlp fails or the .vtt file is empty:** Stop. Tell the user the transcript couldn't be fetched and ask them to paste it manually (YouTube → "..." menu below video → "Show transcript").
