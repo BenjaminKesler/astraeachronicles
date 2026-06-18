@@ -53,3 +53,23 @@ One number per cluster, ordered by dominance = character "barcode" (e.g., 3-5-1)
 - **Gut** = anger expression / boundary violation plane
 
 Primary type = the arc's argument (visible, structural — this is the misbelief and the turning point). Lower two = voice and texture, informing the writer more than the reader. All three converge at high-stakes thematic moments rather than driving separate arcs. If a reader can name the lower two types, they've been over-expressed into behavior rather than absorbed into texture.
+
+## Multi-Protagonist Series Architecture
+# source: session synthesis — https://youtu.be/kqyAEXLjfoU discussion
+
+SERIES-LEVEL MISBELIEF
+  one thematic claim running through all novels as the argument being tested
+  each protagonist holds an Enneagram-inflected flavor of it — not the same misbelief, a family
+  the type shapes HOW the misbelief is expressed, making each arc feel genuinely distinct
+  diagnostic: does each character's flavor feel like only they could hold it this way?
+
+READER TRIANGULATION (operative structure of a thematic series)
+  no single protagonist can access the full truth — each holds a partial, distorted view
+  reader accumulates all perspectives across novels and synthesizes what no character can
+  this is the difference between ensemble (more plot threads) and thematic series (reader does active synthesis)
+  antagonist force can embody the series misbelief at civilizational scale — personal arcs echo world-level allegory
+
+ENNEAGRAM AS DIFFERENTIATION ENGINE
+  same thematic misbelief looks entirely different across types — Type 1 version ≠ Type 3 version ≠ Type 4 version
+  tri-type adds further texture: same series misbelief, different crisis expression (Head), different anger pattern (Gut)
+  Type 4 caution: their flavor will always contain partial truth (subjectivity does matter) — misbelief = treating it as the only truth

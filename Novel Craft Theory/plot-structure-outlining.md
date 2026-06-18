@@ -28,3 +28,40 @@ CHARACTER LENS AUDIT (planning tool — use after plot structure is roughed out)
   or are they just doing the plot-correct thing?
   thriller genre helps: plot pressure is built in — extra work = calibrating each pressure point to the specific character facing it
   double-duty scene = plot does what sequence needs AND choice reveals inner state without telling
+
+---
+
+## Act 3 — Disaster & Dark Moment
+# source: "How To Write A DISASTER + DARK MOMENT (Destroy Your Characters!)" — https://youtu.be/kqyAEXLjfoU
+
+SWAPPABILITY TEST (primary diagnostic)
+  if disaster would be equally terrible for any character → wrong disaster
+  must be rooted in this protagonist's specific fear/misbelief to function
+  ask: what does this disaster specifically mean to my protagonist?
+
+SELF-CAUSER MECHANISM (reader satisfaction engine)
+  protagonist is to blame for their own ruin — not punching bag, but self-puncher
+  every decision throughout the story has led causally to this moment
+  reader satisfaction = watching causation accumulate, not watching suffering inflicted
+  reader has had front-row seat to the hole being dug; the disaster is the bottom
+
+MIRROR NEURONS VS. IDENTIFICATION (the stakes of getting it wrong)
+  generic disaster → reader feels biochemical reaction to peril (their own response to events)
+  character-specific disaster → reader inhabits the character's psychology
+  if the disaster doesn't hit the misbelief: reader cries, but isn't inside anyone
+
+KRYPTONITE (target of the disaster)
+  not the surface fear — "the thing behind the fear"
+  the deeper mechanism that emotionally disarms and leaves the protagonist hopeless
+  diagnostic: "How is my protagonist forced into the ring with their kryptonite?"
+  Enneagram kryptonite per type = springboard for disaster design; intensity should be scaled up
+
+SUPPOSED VICTORY BEAT (optional pre-disaster)
+  protagonist thinks they've already won; plan is working; confidence is high
+  makes the disaster more devastating by contrast
+  diagnostic: why does my protagonist think they will be victorious right now?
+
+DARK MOMENT
+  follows disaster — protagonist utterly broken, confused, lost, hopeless
+  required precondition for the "aha" moment; rock bottom enables revelation
+  satisfying only because it's the floor of the hole they dug themselves
