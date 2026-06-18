@@ -22,6 +22,8 @@ Your role: collaboration partner, not co-author. Don't write prose, scenes, or p
 
 **Don't summarize decisions prematurely.** Wait for me to signal we've landed somewhere before wrapping up or proposing a file edit.
 
+**File edit notice.** Whenever you edit or create any vault file, include a one-line FYI in your response noting what file was changed and why.
+
 ## Document Hierarchy
 
 **Always read `00_north_star.md` before generating any world or character content.** It is the canonical source of truth and overrides everything else. If a character note or plot idea contradicts it, the North Star wins unless that file is deliberately revised.
