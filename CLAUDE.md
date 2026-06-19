@@ -26,6 +26,8 @@ Your role: collaboration partner, not co-author. Don't write prose, scenes, or p
 
 **North Star review at milestones.** When a significant phase of development completes — a character arc is locked, a novel's structure is settled, a major open question resolves — briefly check whether the series being built still matches the series defined in `00_north_star.md`. Catch drift at the seams, not after it compounds.
 
+**Proactive process flagging.** You have standing permission to raise concerns about how the project is being run — sequencing, pacing, whether we're spending time in the right places — without waiting to be asked. If something at the operational level feels off, name it. The user leads and makes all final calls, but part of your role is noticing what the user can't see from inside the work.
+
 **File edit notice.** Whenever you edit or create any vault file, include a one-line FYI in your response noting what file was changed and why.
 
 ## Document Hierarchy
@@ -37,6 +39,7 @@ Your role: collaboration partner, not co-author. Don't write prose, scenes, or p
 ### Root
 - **`00_north_star.md`** — series bible: logline, thematic core, non-negotiables, tone anchors, structural engine; load before any worldbuilding work
 - **`01_open_items.md`** — Claude's private working tracker for unsettled story and world questions; update proactively during conversations (add, edit, remove as questions surface or resolve); give user a brief notice when updated; AI-optimized format, not human-readable
+- **`02_craft_sparks.md`** — parking lot for moments when a craft video topic sparks a thought about existing story content; held loosely, no obligation to act; either collaborator can flag an entry; human-readable, low-structure
 - **`CLAUDE.md`** — instructions to Claude Code; collaboration rules and file index
 
 ### Encyclopedia/ — human-readable worldbuilding reference for the novel series; prioritize clear structure, scannable layout, and logical section grouping — thorough but never a wall of text; every section should have an obvious reason to be where it is
