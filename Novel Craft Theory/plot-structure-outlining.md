@@ -65,3 +65,23 @@ DARK MOMENT
   follows disaster — protagonist utterly broken, confused, lost, hopeless
   required precondition for the "aha" moment; rock bottom enables revelation
   satisfying only because it's the floor of the hole they dug themselves
+
+---
+
+## Negative Character Arc
+# source: "#AskAbbie Q&A" — https://youtu.be/5ycxPmrz2ow
+
+STRUCTURE RULE: don't reverse the positive arc
+  reversed arc = climax at the start, deflation at the end — structurally backwards
+  instead: keep the same forward momentum and starting point (conflicted, not enlightened)
+  only swap out the aha moment beat
+
+AHA MOMENT REPLACEMENT
+  positive arc: disaster → rock bottom → revelation → truth embraced
+  negative arc: disaster → rock bottom → character convinces themselves the lie IS the truth
+  key distinction: active agent — they choose the misbelief, don't just fail to escape it
+  "no going back" beat = misbelief fully sealed, not just reinforced
+
+DIAGNOSTIC
+  does my character descend or commit? descending = passive tragic victim; committing = negative arc
+  if the disaster could enlighten them → it's not the right disaster for a negative arc
