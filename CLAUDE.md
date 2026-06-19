@@ -73,6 +73,8 @@ Your role: collaboration partner, not co-author. Don't write prose, scenes, or p
 - **`Novel Craft Theory/enneagram_type_9.md`** — Type 9 craft bible
 
 - **`Novel Craft Theory/backstory-exposition.md`** — backstory=exposition reframe, two-tier threshold, three essential elements, introvert test, wound-first vs. mystery-first delivery paths, dramatized vs. summarized diagnostic
+- **`Novel Craft Theory/character-profiles.md`** — STUB: ultimate character questionnaire; powerful vs. filler questions (Abbiee series, pending episode)
+- **`Novel Craft Theory/internal-conflict.md`** — STUB: fear vs. desire collision; reader relatability mechanism; page-1 hook (Abbiee series, pending episode)
 - **`Novel Craft Theory/plot-structure-outlining.md`** — Act 2B misbelief-steered plan, foreseeability hook, Act 3 disaster/dark moment mechanics, negative arc structure
 - **`Novel Craft Theory/scene-earning.md`** — setup/payoff mechanics: misdiagnosis trap, shared nostalgia, planted resonance technique, reverse-engineer protocol, distribution principle
 
