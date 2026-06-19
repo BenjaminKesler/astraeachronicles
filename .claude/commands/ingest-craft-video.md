@@ -34,7 +34,23 @@ Clean up after reading:
 rm -f /tmp/yt_transcript.en.vtt /tmp/yt_transcript_clean.txt
 ```
 
-**If yt-dlp fails or the .vtt file is empty:** Stop. Tell the user the transcript couldn't be fetched and ask them to paste it manually (YouTube → "..." menu below video → "Show transcript").
+**If yt-dlp fails or the .vtt file is empty — Whisper fallback:** Download the audio and transcribe locally:
+
+```bash
+yt-dlp -x --audio-format mp3 -o "/tmp/yt_audio.%(ext)s" "$ARGUMENTS"
+```
+
+Then transcribe (use the `base` model — fast and accurate enough for clear speech):
+```bash
+/c/Users/benlk/.local/bin/whisper /tmp/yt_audio.mp3 --output_dir /tmp/ --output_format txt --model base
+```
+
+This writes `/tmp/yt_audio.txt`. Read that file as the transcript. Clean up after reading:
+```bash
+rm -f /tmp/yt_audio.mp3 /tmp/yt_audio.txt
+```
+
+**If Whisper also fails:** Stop. Tell the user the transcript couldn't be fetched and ask them to paste it manually (YouTube → "..." menu below video → "Show transcript").
 
 ---
 

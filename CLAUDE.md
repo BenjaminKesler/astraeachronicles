@@ -72,6 +72,7 @@ Your role: collaboration partner, not co-author. Don't write prose, scenes, or p
 - **`Novel Craft Theory/enneagram_type_8.md`** — Type 8 craft bible
 - **`Novel Craft Theory/enneagram_type_9.md`** — Type 9 craft bible
 
+- **`Novel Craft Theory/backstory-exposition.md`** — backstory=exposition reframe, two-tier threshold, three essential elements, introvert test, wound-first vs. mystery-first delivery paths, dramatized vs. summarized diagnostic
 - **`Novel Craft Theory/plot-structure-outlining.md`** — Act 2B misbelief-steered plan, foreseeability hook, Act 3 disaster/dark moment mechanics, negative arc structure
 - **`Novel Craft Theory/scene-earning.md`** — setup/payoff mechanics: misdiagnosis trap, shared nostalgia, planted resonance technique, reverse-engineer protocol, distribution principle
 
