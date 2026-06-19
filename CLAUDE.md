@@ -72,6 +72,9 @@ Your role: collaboration partner, not co-author. Don't write prose, scenes, or p
 - **`Novel Craft Theory/enneagram_type_8.md`** — Type 8 craft bible
 - **`Novel Craft Theory/enneagram_type_9.md`** — Type 9 craft bible
 
+- **`Novel Craft Theory/plot-structure-outlining.md`** — Act 2B misbelief-steered plan, foreseeability hook, Act 3 disaster/dark moment mechanics, negative arc structure
+- **`Novel Craft Theory/scene-earning.md`** — setup/payoff mechanics: misdiagnosis trap, shared nostalgia, planted resonance technique, reverse-engineer protocol, distribution principle
+
 ### Publishing/ — Claude's guide to the user's publishing workflow; hybrid role: enough substance to answer simple/moderate questions directly, plus source-video references for routing deeper questions back to the right material; **before modifying any file in this folder, read `Publishing/_instructions.md`**
 - **`Publishing/_instructions.md`** — management rules for this folder: what to save, construction format, layout guidance
 - **`Publishing/ebook-formatting.md`** — ebook formatting with Vellum: why to DIY, tool overview, when to rewatch
