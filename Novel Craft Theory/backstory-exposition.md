@@ -18,6 +18,7 @@ THREE ESSENTIAL BACKSTORY ELEMENTS (Abbiee)
   what the character is afraid of / worst-case scenario
   what the character mistakenly believes is true + the past event that caused that misbelief
   note: causal event is a distinct element — not just having a misbelief, but the wound that created it
+  note: wound → fear → misbelief (fear is the intermediate mechanism; the wound doesn't produce the misbelief directly)
 
 INTROVERT TEST (diagnostic)
   if a reader could explain behavior as personality trait ("she's just an introvert")

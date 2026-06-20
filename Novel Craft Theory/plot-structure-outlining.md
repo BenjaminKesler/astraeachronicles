@@ -51,8 +51,8 @@ MIRROR NEURONS VS. IDENTIFICATION (the stakes of getting it wrong)
   if the disaster doesn't hit the misbelief: reader cries, but isn't inside anyone
 
 KRYPTONITE (target of the disaster)
-  not the surface fear — "the thing behind the fear"
-  the deeper mechanism that emotionally disarms and leaves the protagonist hopeless
+  not the surface fear — the raw wound when the wound-protective mechanism is stripped
+  bypassing the mechanism exposes the wound directly; this is what emotionally disarms the protagonist
   diagnostic: "How is my protagonist forced into the ring with their kryptonite?"
   Enneagram kryptonite per type = springboard for disaster design; intensity should be scaled up
 

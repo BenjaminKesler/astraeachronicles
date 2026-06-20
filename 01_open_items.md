@@ -55,3 +55,7 @@ RUBRIC
 ## Shaye
 - Shaye Turning Point reconciliation — data signature beat same event as initial capture attempt, or separate?
   - → full character pass needed; file currently unreconciled
+
+## Planned Theory Work
+- Story beats → wound model mapping: watch plotting video series, then cross-map each beat to [[wound-model-thesis]]
+  - beats in order: hook | inciting incident | build-up | first plot point | first pinch point | pre-midpoint reactionary hero | game-changing midpoint | post-midpoint action hero | second pinch point | supposed victory (optional) | disaster | dark moment | aha moment | climactic confrontation | victory | resolution

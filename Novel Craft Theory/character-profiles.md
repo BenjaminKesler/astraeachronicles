@@ -15,7 +15,3 @@ COMFORT → STRATEGIC DENIAL
   distinct from [[scene-earning]] planted resonance (that's seeding a payoff; this is mapping deprivation targets)
   author move: place comfort detail early → deny it at precisely the moments it would matter most
 
----
-
-PARTIAL — two more episodes pending (internal conflict; backstory)
-  expected additions: fear → misbelief construction rule; misbelief projects as contempt; dark moment pipeline

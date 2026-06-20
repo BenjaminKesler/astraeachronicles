@@ -1,5 +1,6 @@
 # Internal Conflict
 # source: "THE SECRET TO IRRESISTIBLE INTERNAL CONFLICT" — Abbiee — https://youtu.be/oiR42apkOy4
+# source: extended synthesis — see [[wound-model-thesis]]
 
 ---
 
@@ -9,40 +10,71 @@ CORE EQUATION
   universal relatability mechanism: desire-vs-fear is the ONE thing every reader shares
     unlike hobbies, jobs, interests — those are only relatable to some readers
 
-WOUND STRUCTURE (deep layer)
-  fear: raw core — what the character is most terrified of being or experiencing
-  misbelief: cognitive worldview built to manage that fear — "X is genuinely dangerous; avoiding X is wisdom"
-  symbiotic but distinct: fear makes misbelief feel necessary; misbelief makes fear feel rational
-  self-sealing: neither is readable without the other; can't fully separate them
-  wound also generates abstract desire — the wound's attempted self-solution
-    Enneagram types always pair core fear + core desire because they're co-produced by the same wound
+WOUND STRUCTURE (formation layer)
+  wound: formative experience of genuine threat, loss, humiliation, or destabilization
+  fear [+] abstract desire: co-produced simultaneously from wound — two poles of same wound response
+    fear: threat-pattern encoding — "this type of experience is dangerous"
+    abstract desire: the equal and opposite pull — "I need the antidote to this threat"
+    cannot have one without the other; Enneagram types always pair core fear + core desire for this reason
+  misbelief: forms under acute pressure — exposed, afraid, desperate — before distance is possible
+    hasty narrativization crystallizing into fixed cognitive rule
+    DUAL FUNCTION:
+      (1) manages fear: makes threat feel rational AND controllable ("if I do/avoid X I'll be safe")
+      (2) translation layer: converts abstract desire → surface desire (concrete, actionable, wrong goal)
+  self-sealing: fear makes misbelief feel necessary; misbelief makes fear feel rational
+    the chain traces historical origin — in the character's present the system activates as a whole
 
-MISBELIEF AS BRIDGE (translation layer — the key mechanism)
-  misbelief does double duty: wound component AND translator between layers
-  translates abstract desire → specific, external, actionable surface goal
-  surface desire arrives pre-loaded with:
-    (a) wrong-solution quality: goal can't actually address the wound
-    (b) fear-avoidance pre-baked: character believes they can reach it without confronting the fear
-  why a character's surface desire feels inevitable rather than assigned: it grew from the wound's inner logic
+MISBELIEF AS ACTIVE REFUGE
+  misbelief functions as psychological safety net, not only defensive wall
+  character runs TOWARD the misbelief as much as away from the wound (surrender mechanism)
+  provides active comfort that truth cannot yet offer
+  dissolution is structurally hard: character must give up safety net before a replacement exists
 
 SURFACE LAYER (what appears on the page)
-  visible desire: reader-accessible, creates forward pull; appears to be the core of what the character is about
-  at this layer, desire and wound are in opposition — character wants the thing; wound blocks clean pursuit
-  this opposition is where the push-pull drama lives
-  fear-shaped pursuit: fiction constraint — inciting incident pushes character past paralysis threshold
-    but every plan is secretly wound-avoidance dressed as goal-pursuit
-    reader can see the routing even when the character can't (dramatic irony)
-  character isn't passive — they act vigorously, but all action is wound-protective
+  surface desire = fear-avoidance wearing a costume
+    misbelief converts the avoidance impulse into a positive actionable goal
+    surface desire structured so pursuing it doesn't require wound confrontation
+    even perfect success can't address the wound — wrong solution by design, not by accident
+  story runs TWO TENSION TRACKS simultaneously:
+    (1) will they get the thing? — surface tension
+    (2) can they keep routing around the wound while trying? — deeper tension; game they don't know they're playing
+  reader can see the routing even when character can't (dramatic irony)
+  character isn't passive — acts vigorously, but all action is wound-protective
+  → for the three behavioral patterns this generates on the page: [[wound-protective-mechanisms]]
 
 STORY BEAT MAPPING
-  dark moment: last avoidance route closes; surface desire lost or proven hollow; wound directly exposed, unprotected
-  aha moment: misbelief dissolves (not the fear itself); abstract desire finally legible; new choices now possible
-  climax: character acts from dissolved-misbelief state; no routing; external confrontation requires and embodies the internal transformation
-  beat diagnostic: if a beat feels thin, check whether the wound structure is genuinely engaged — not just the external stakes
+  Act 2: one move that would work is always the move the character won't make
+    story = compression chamber; each beat exhausts another wound-safe option
+  disaster: must hit misbelief specifically — not just the surface desire
+    self-caused: wound-driven decisions have accumulated causally to this point
+    strips dominant wound-protective mechanism: armor cracks, safety net fails, avoidance route closes
+    exposes raw wound directly with all protection removed
+    generic disaster → reader feels peril; character-specific disaster → reader inhabits the psychology
+  dark moment: character without the belief system that organized their entire life
+    required precondition — revelation cannot land while misbelief is still providing cover
+  aha moment: misbelief dissolves (not the fear itself — the cognitive structure managing it)
+    abstract desire becomes legible: always existed, co-produced with fear at wound; misbelief was obscuring it
+  climax: action from dissolved-misbelief state; external confrontation requires and proves internal transformation
+  positive arc: abstract desire now pursuable honestly; wound's cycle of suffering ends
+  negative arc: character actively chooses misbelief as truth — agent not victim; misbelief fully seals
 
 DIAGNOSTIC TOOLS
-  question reframe (Abbiee): "what kept them from acting" → "how has their FEAR kept them"
-    first version invites external explanations; second forces the internal brake
-  motivation reads as purely external → fear routing is operating underneath, look for the misbelief
+  "what kept them from acting" → reframe to "how has their FEAR kept them" (forces internal brake)
+  motivation reads as purely external → fear routing underneath; look for the misbelief
   can't find the fear → look for the misbelief; it's the face the wound shows the world
-  surface desire feels arbitrarily assigned → it wasn't grown from the wound's inner logic; rework the misbelief first
+  surface desire feels arbitrarily assigned → not grown from wound's inner logic; rework the misbelief first
+  beat feels thin → check whether wound structure is genuinely engaged, not just external stakes
+  character doing same thing in Act 2 as Act 1 → dominant mechanism not degrading; arc not moving
+
+FULL ARC CHAIN
+  pain → wound → fear [+] abstract desire (co-produced simultaneously)
+  → misbelief (manages fear; translates abstract desire → surface desire)
+  → surface desire pursuit = wound-avoidance in disguise; two tension tracks
+  → wound-protective mechanisms active; dominant mechanism degrading under story pressure
+  → disaster: mechanism breaks; self-caused; wound directly exposed
+  → dark moment: misbelief-as-refuge gone; wound unprotected
+  → abstract desire becomes legible for first time
+  → misbelief dissolves toward truth (positive) OR character actively recommits (negative)
+  → climax: action from corrected or sealed belief state under external pressure
+  → positive: cycle ends; pain no longer controls behavior
+  → negative: misbelief sealed — chosen, not suffered
