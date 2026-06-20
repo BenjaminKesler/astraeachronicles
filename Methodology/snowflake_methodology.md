@@ -24,10 +24,16 @@ Fully iterative. Each stage adds one new step to the pass sequence. Within a sta
 2. Characters
 3. Series Arc
 4. World
-5. Novel A-Plots
+5. Novel Anchors
 6. *(additional steps TBD during revalidation)*
 
 **Note on ordering:** Characters precedes Series Arc intentionally — character psychology shapes the series arc, not the reverse. This is a deliberate departure from most outlining frameworks and consistent with the project's character-first design philosophy.
+
+**Novel Anchors output (per novel):**
+- Premise sentence
+- Protagonist arc entry/exit at wound-model level — where each protagonist is emotionally/psychologically at the start and end of this novel; not scene-specific, but enough for series coherence
+- Series-consequence events — the 2–3 facts the next novel depends on being true
+- Story beats worksheet — ~2 pages; major structural beats (hook → inciting incident → midpoint → disaster → dark moment → aha moment → climax → resolution) with a few sentences each, including wound-model rationale for character choices at each beat
 
 ### Stage Progression
 
@@ -37,7 +43,7 @@ Fully iterative. Each stage adds one new step to the pass sequence. Within a sta
 | 2 | Premise → Characters |
 | 3 | Premise → Characters → Series Arc |
 | 4 | Premise → Characters → Series Arc → World |
-| 5 | Premise → Characters → Series Arc → World → Novel A-Plots |
+| 5 | Premise → Characters → Series Arc → World → Novel Anchors |
 | + | *(additional stages TBD during revalidation)* |
 
 ### Stage Advancement Criteria
@@ -48,13 +54,14 @@ TBD during revalidation. Each stage should have defined criteria for when suffic
 
 ## Phase 2: Execution Pipeline
 
-Sequential, novel by novel. A novel enters Execution when it has reached sufficient Development Loop fidelity (criteria TBD). Novels are staggered — novel 1 may be in a later execution step while novel 2 is in an earlier one.
+Sequential, novel by novel. A novel enters Execution when its Novel Anchors artifact is complete. Novels are staggered — novel 1 may be in a later execution step while novel 2 is in an earlier one.
 
-Detailed steps TBD after craft video revalidation. Minimum known steps:
-
-1. Draft
-2. Edit
-3. Publish
+1. **Short Outline** (3–5k words) — scene-level, chronological, start-to-finish; story validation checkpoint before deeper investment
+2. **Long Outline** (15–20k words) — cause/effect per beat; nuanced emotions and dialogue fragments; psychology pass confirming every scene has a "why it matters" grounded in the wound model
+3. **Scene Cards** — per scene: what happens + consequence (plot layer); why it matters + realization (internal layer); "and so..." cause-effect connector to next scene
+4. **Draft**
+5. **Edit**
+6. **Publish**
 
 ---
 
@@ -62,8 +69,7 @@ Detailed steps TBD after craft video revalidation. Minimum known steps:
 
 - Define stage-advancement criteria for each stage
 - Confirm final step ordering after remaining craft videos are ingested
-- Determine remaining Development Loop steps beyond Novel A-Plots
-- Define Execution Pipeline steps in detail
+- Determine remaining Development Loop steps beyond Novel Anchors
 
 ---
 

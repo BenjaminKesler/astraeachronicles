@@ -79,6 +79,7 @@ Your role: collaboration partner, not co-author. Don't write prose, scenes, or p
 - **`Novel Craft Theory/character-profiles.md`** — character questionnaire principles: load-bearing filter, comfort-as-deprivation-target (Abbiee series, complete)
 - **`Novel Craft Theory/internal-conflict.md`** — wound structure model: co-produced fear + abstract desire, misbelief dual function (fear management + translation), active refuge mechanism, two-tension-track surface layer, story beat mapping, arc chain
 - **`Novel Craft Theory/plot-structure-outlining.md`** — Act 2B misbelief-steered plan, foreseeability hook, Act 3 disaster/dark moment mechanics, negative arc structure
+- **`Novel Craft Theory/scene-cards.md`** — scene card framework skeleton (pending dedicated video): four-slot structure, realization micro-shift, "and so..." cause-effect diagnostic
 - **`Novel Craft Theory/scene-earning.md`** — setup/payoff mechanics: misdiagnosis trap, shared nostalgia, planted resonance technique, reverse-engineer protocol, distribution principle
 - **`Novel Craft Theory/wound-model-thesis.md`** — full long-form unified thesis of the wound model; load for deep synthesis work; authoritative reference if files diverge
 - **`Novel Craft Theory/wound-protective-mechanisms.md`** — three wound-protective mechanisms (avoidance, surrender, overcompensation); dominant vs. context-sensitive activation; arc diagnostic; scene friction from mismatch
