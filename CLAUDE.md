@@ -42,6 +42,9 @@ Your role: collaboration partner, not co-author. Don't write prose, scenes, or p
 - **`02_craft_sparks.md`** — parking lot for moments when a craft video topic sparks a thought about existing story content; held loosely, no obligation to act; either collaborator can flag an entry; human-readable, low-structure
 - **`CLAUDE.md`** — instructions to Claude Code; collaboration rules and file index
 
+### Methodology/ — process documentation governing how we develop the series; distinct from craft theory (which is knowledge) — this is workflow; **skeleton only until craft video revalidation is complete**
+- **`Methodology/snowflake_methodology.md`** — custom iterative development methodology; step/pass/stage terminology; Development Loop (iterative, stage-based) and Execution Pipeline (sequential, novel-staggered); all detail TBD pending revalidation
+
 ### Encyclopedia/ — human-readable worldbuilding reference for the novel series; prioritize clear structure, scannable layout, and logical section grouping — thorough but never a wall of text; every section should have an obvious reason to be where it is
 - **`Encyclopedia/astraea_ship.md`** — full construction and concealment detail for The Astraea: why built in secret, fuel source, Aeliria tech bridge, layered knowledge among participants, Silas's role, Tal'Sha involvement
 - **`Encyclopedia/glossary.md`** — definitions of all world terms: factions, species, technologies, locations, and named concepts
