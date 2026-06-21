@@ -79,6 +79,7 @@ Your role: collaboration partner, not co-author. Don't write prose, scenes, or p
 - **`Novel Craft Theory/character-profiles.md`** — character questionnaire principles: load-bearing filter, comfort-as-deprivation-target (Abbiee series, complete)
 - **`Novel Craft Theory/internal-conflict.md`** — wound structure model: co-produced fear + abstract desire, misbelief dual function (fear management + translation), active refuge mechanism, two-tension-track surface layer, story beat mapping, arc chain
 - **`Novel Craft Theory/plot-structure-outlining.md`** — Act 2B misbelief-steered plan, foreseeability hook, Act 3 disaster/dark moment mechanics, negative arc structure
+- **`Novel Craft Theory/story-beats.md`** — beat-by-beat skeleton for Abbie's 3-act structure (12-video series); one stub per beat with misbelief state markers; fills in as videos complete; gaps flagged for external sourcing
 - **`Novel Craft Theory/scene-cards.md`** — scene card framework skeleton (pending dedicated video): four-slot structure, realization micro-shift, "and so..." cause-effect diagnostic
 - **`Novel Craft Theory/subplots.md`** — subplot mechanics: CRAI tracking method, anticipation mechanic (reader background thread), protagonist-as-yardstick with villain exception, floor/bonus framework, ensemble yardstick extension
 - **`Novel Craft Theory/scene-earning.md`** — setup/payoff mechanics: misdiagnosis trap, shared nostalgia, planted resonance technique, reverse-engineer protocol, distribution principle
