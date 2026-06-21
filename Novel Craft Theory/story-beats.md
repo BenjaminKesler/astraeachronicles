@@ -15,13 +15,12 @@ state: wound formed (backstory); misbelief operational; surface desire in active
 mechanism: ✓ → Beats/01_hook.md (wound layer, genre contract, sympathy layer, design requirements, diagnostics)
 
 ## INCITING INCIDENT — Pushed Outside Comfort Zone
-state: misbelief activated; fear response triggered by external event
-mechanism: [stub]
+state: dominant mechanism under active external threat for the first time; misbelief activates; wound-system engages; surface desire crystallizes into directional story goal; global value takes first swing; sympathy tested
+mechanism: ✓ → Beats/02_inciting_incident.md (wound layer: comfort zone as mechanism's defended territory, desire crystallization; genre layer: value swing, story question activation, world as delivery vehicle; sympathy layer: wound-specific calibration as multiplier, pity trap; failure mode: PLOT EVENT)
 
-## BUILD-UP — The Impossible Question
-state: misbelief framing the either/or trap
-mechanism: [stub]
-note: stay in comfort zone (lose desire) vs. venture out (risk fear) — not yet resolved
+## BUILD-UP — The Impossible Choice
+state: both fear layers simultaneously active; comfort zone band collapsed; misbelief at the crossroads; first wound-steered decision; first link in causal chain to disaster; fear architecture visible for the first time (abstract desire still subterranean); sympathy deepens to "aching for"
+mechanism: ✓ → Beats/03_build_up.md (wound layer: impossible choice structure, misbelief calculation, character as agent; genre layer: genre-colored choice, consequence architecture; sympathy layer: dramatic irony engine, retreat must be appealing, emotional specificity; failure mode: PUNCHING BAG; design: dramatized vs. internalized, two types of impossible choice)
 
 ## FIRST PLOT POINT — Protagonist Makes a Decision
 state: misbelief steers the decision; fear logic selects "least painful" path

@@ -17,6 +17,9 @@ state: wound already happened; misbelief operational; surface desire in active p
     this is the floor the arc degrades from across Acts 1–2
     mechanism already cracking at the hook = arc has nowhere to go
     → [[wound-protective-mechanisms]] for dominant mechanism baseline and arc diagnostic
+  character operating fully within comfort zone — both fear layer boundaries intact and actively maintained
+    inner boundary (raw wound) and outer boundary (misbelief's predicted consequences) both defended
+    → [[internal-conflict]] TWO FEAR LAYERS; [[Beats/02_inciting_incident]] for when outer boundary is first threatened
 
 FAILURE MODE: SURVIVAL MODE
   plot-only hook → reader fills in own psychology; biochemical response without inhabitation
@@ -46,6 +49,9 @@ DESIGN REQUIREMENTS
     → [[universal-diagnostics]] swappability test applied at hook
   delivery path selection: wound-first vs. mystery-first determines backstory placement
     → [[backstory-exposition]] for path selection rule and dramatized vs. summarized diagnostic
+  comfort zone forward dependency: hook must make the comfort zone feel real and worth having
+    feeds the Build-Up's retreat option — if the comfort zone has no genuine value, the impossible choice has no weight
+    → [[Beats/03_build_up]] sympathy layer (retreat must be genuinely appealing)
 
 ---
 

@@ -14,6 +14,12 @@ WOUND STRUCTURE (formation layer)
   wound: formative experience of genuine threat, loss, humiliation, or destabilization
   fear [+] abstract desire: co-produced simultaneously from wound — two poles of same wound response
     fear: threat-pattern encoding — "this type of experience is dangerous"
+    TWO FEAR LAYERS (same fear; two faces):
+      internal fear: wound-level, identity-level threat pattern — abstract, unmanageable ("I am fundamentally X")
+      external fear: misbelief's translation — specific predicted world-outcomes ("if I do X, Y will happen")
+      internal = uncontrollable terror; misbelief converts it to external = feels rational + controllable
+      this conversion is WHY the misbelief forms and WHY it persists — it makes the unmanageable manageable
+      both layers active simultaneously at the Build-Up beat → [[Beats/03_build_up]]
     abstract desire: the equal and opposite pull — "I need the antidote to this threat"
     cannot have one without the other; Enneagram types always pair core fear + core desire for this reason
   misbelief: forms under acute pressure — exposed, afraid, desperate — before distance is possible
