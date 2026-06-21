@@ -60,6 +60,29 @@ state: established sympathy tested for the first time
 
 ---
 
+RELATIONAL LAYER (the moral arc)
+function: FIRST CONTACT — mechanism's relational distortion meets the story's central stakes
+  the II disrupts the relational landscape established in the hook:
+    introduces a new relationship the arc will run through, OR activates/threatens an existing one
+  character's first mechanism-driven response to the II has an immediate relational consequence
+    someone absorbs the first cost of the wound behavior — often before anyone in the scene names it
+  reader can see the damage beginning; characters may not register it yet
+  note: pity trap (sympathy layer) has a relational parallel
+    passive character receiving the II has no relational behavior to show; first contact never happens
+  → [[Beats/01_hook]] relational layer (relationship established there is now in first contact)
+
+  CALIBRATION
+    subtext principle: relational consequence embedded in the mechanism-driven response — not stated
+    embed rule: relational moment lives within the scene's primary beat — not a standalone relationship scene
+    weight: LIGHT — a single specific moment plants the pattern without announcing it
+    → [[Beats/01_hook]] relational layer for universal calibration principles
+
+  RELATIONAL FAILURE MODE: MELODRAMA
+    over-dramatizing the first relational consequence before reader investment can hold it
+    other characters reacting with disproportionate emotional force to early-stage wound behavior
+
+---
+
 FAILURE MODE: PLOT EVENT (no wound contact)
   II lands as external event without engaging the character's specific psychology
   reader fills their own psychology into the gap — mirror neurons, not identification

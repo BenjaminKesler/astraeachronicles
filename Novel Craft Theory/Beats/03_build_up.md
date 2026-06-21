@@ -64,6 +64,27 @@ state: sympathy deepens from "rooting for" into "aching for"
 
 ---
 
+RELATIONAL LAYER (the moral arc)
+function: FIRST MORAL WEIGHT — the impossible choice carries a relational cost the character doesn't yet see
+  retreat option: often means protecting the distorted relational status quo the mechanism has built
+  venture option: means risking or disrupting those relationships in an unfamiliar way
+  either choice costs someone else something — the character cannot yet register this
+  reader can see that the wound-driven calculation has consequences for other people
+  the "impossible" quality of the choice is partly relational: no option leaves the relationships untouched
+  → [[Beats/02_inciting_incident]] relational layer (first contact now deepening into first moral weight)
+
+  CALIBRATION
+    subtext principle: relational cost of the choice lives in implication — reader infers; character doesn't see it
+    embed rule: relational dimension felt within the impossible choice — not a separate relationship scene
+    weight: SLIGHTLY MORE PRESENT than at the II; the pattern is beginning to be felt by the reader
+    → [[Beats/01_hook]] relational layer for universal calibration principles
+
+  RELATIONAL FAILURE MODE: MELODRAMA
+    other characters explicitly naming the moral cost of the protagonist's choice before the story has earned it
+    relational dimension foregrounded as the scene's purpose rather than felt as undercurrent
+
+---
+
 FAILURE MODE: PUNCHING BAG (no genuine choice)
   plot makes the choice for the character; OR obvious solution makes character look stupid rather than wounded
   no genuine choice → no unanswered question → curiosity engine fails to fire

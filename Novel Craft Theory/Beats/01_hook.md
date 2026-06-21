@@ -44,6 +44,34 @@ SYMPATHY LAYER (the invitation)
 
 ---
 
+RELATIONAL LAYER (the moral arc)
+function: ESTABLISH — show the relational landscape the mechanism has built inside the comfort zone
+  key relationships are shaped by the dominant mechanism — functional on the surface, quietly distorted
+    avoider: relationships maintained at managed distance; others sense unavailability but can't name it
+    overcompensator: relationships where character controls or leads; others feel subtly diminished or handled
+    surrenderer: relationships where co-dependence or enabling is normalized; wrong refuge shared, not private
+  reader can see the distortion; other characters cannot yet
+  DESIGN REQUIREMENT: introduce at least one relationship here that the relational arc will run through
+    relational investment at the hook is what makes the relational payoff at the climax land
+
+  CALIBRATION (universal — applies at every beat; weight shifts by arc position)
+    SUBTEXT PRINCIPLE: relational damage felt by reader before named by any character
+      moment characters articulate wound behavior out loud → melodrama
+      target: reader holds what the characters haven't spoken yet
+    EMBED RULE: relational moments live inside scenes doing other work — not dedicated drama scenes
+      dedicated confrontation scenes are high-commitment; rare and earned; almost never at early beats
+    ARC-POSITION CALIBRATION: weight is LIGHTEST here; accumulates gradually toward disaster and climax
+      forcing relational visibility early = melodrama; layer grows as mechanism degrades across the arc
+    → [[Beats/02_inciting_incident]], [[Beats/03_build_up]] relational layers for how weight shifts
+
+  RELATIONAL FAILURE MODE: MELODRAMA
+    relational damage made explicit before the story has earned it
+    characters naming the wound behavior to each other out loud
+    dedicated confrontation scenes without prior relational setup
+    repeated for emphasis when once was enough
+
+---
+
 DESIGN REQUIREMENTS
   "especially bad" principle: any external opening event must be especially bad for THIS character
     → [[universal-diagnostics]] swappability test applied at hook
