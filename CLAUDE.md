@@ -78,13 +78,17 @@ Your role: collaboration partner, not co-author. Don't write prose, scenes, or p
 - **`Novel Craft Theory/backstory-exposition.md`** — backstory=exposition reframe, two-tier threshold, three essential elements, introvert test, wound-first vs. mystery-first delivery paths, dramatized vs. summarized diagnostic
 - **`Novel Craft Theory/character-profiles.md`** — character questionnaire principles: load-bearing filter, comfort-as-deprivation-target (Abbiee series, complete)
 - **`Novel Craft Theory/internal-conflict.md`** — wound structure model: co-produced fear + abstract desire, misbelief dual function (fear management + translation), active refuge mechanism, two-tension-track surface layer, story beat mapping, arc chain
-- **`Novel Craft Theory/plot-structure-outlining.md`** — Act 2B misbelief-steered plan, foreseeability hook, Act 3 disaster/dark moment mechanics, negative arc structure
+- **`Novel Craft Theory/universal-diagnostics.md`** — cross-arc diagnostics that apply at every beat: swappability test, mirror neurons vs. identification, "me vs. them" test, foreseeability cycle, character lens audit
+- **`Novel Craft Theory/plot-structure-outlining.md`** — Act 2B misbelief-steered plan, Act 3 disaster/dark moment mechanics (self-causer, kryptonite, supposed victory), negative arc structure
 - **`Novel Craft Theory/story-beats.md`** — beat-by-beat skeleton for Abbie's 3-act structure (12-video series); one stub per beat with misbelief state markers; fills in as videos complete; gaps flagged for external sourcing
 - **`Novel Craft Theory/scene-cards.md`** — scene card framework skeleton (pending dedicated video): four-slot structure, realization micro-shift, "and so..." cause-effect diagnostic
 - **`Novel Craft Theory/subplots.md`** — subplot mechanics: CRAI tracking method, anticipation mechanic (reader background thread), protagonist-as-yardstick with villain exception, floor/bonus framework, ensemble yardstick extension
 - **`Novel Craft Theory/scene-earning.md`** — setup/payoff mechanics: misdiagnosis trap, shared nostalgia, planted resonance technique, reverse-engineer protocol, distribution principle
 - **`Novel Craft Theory/wound-model-thesis.md`** — full long-form unified thesis of the wound model; load for deep synthesis work; authoritative reference if files diverge
 - **`Novel Craft Theory/wound-protective-mechanisms.md`** — three wound-protective mechanisms (avoidance, surrender, overcompensation); dominant vs. context-sensitive activation; arc diagnostic; scene friction from mismatch
+
+### Novel Craft Theory/Beats/ — one file per story beat, filled in as videos complete; each beat carries wound-model integration + genre contract + sympathy mechanics + beat-specific craft; load the relevant beat file when working on that beat
+- **`Novel Craft Theory/Beats/01_hook.md`** — Act 1 Beat 1: wound layer (surface desire, dominant mechanism at full strength, survival mode failure), genre contract, sympathy layer, design requirements, diagnostics
 
 ### Publishing/ — Claude's guide to the user's publishing workflow; hybrid role: enough substance to answer simple/moderate questions directly, plus source-video references for routing deeper questions back to the right material; **before modifying any file in this folder, read `Publishing/_instructions.md`**
 - **`Publishing/_instructions.md`** — management rules for this folder: what to save, construction format, layout guidance

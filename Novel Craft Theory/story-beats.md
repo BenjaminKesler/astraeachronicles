@@ -11,8 +11,8 @@ CONVENTIONS
 ## ACT 1
 
 ## HOOK — Intro to Inner Conflict
-state: misbelief pre-active; desire + fear established but not yet pressured externally
-mechanism: [stub]
+state: wound formed (backstory); misbelief operational; surface desire in active pursuit; dominant mechanism at full strength; abstract desire subterranean
+mechanism: ✓ → Beats/01_hook.md (wound layer, genre contract, sympathy layer, design requirements, diagnostics)
 
 ## INCITING INCIDENT — Pushed Outside Comfort Zone
 state: misbelief activated; fear response triggered by external event

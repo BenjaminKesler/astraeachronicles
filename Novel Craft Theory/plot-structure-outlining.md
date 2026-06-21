@@ -15,40 +15,23 @@ MIDPOINT = Act 2's inciting incident
 MISBELIEF-STEERED PLAN (core mechanism)
   protagonist's post-midpoint plan must look smart to protagonist AND reader
   only wrong because the misbelief is wrong — not because the character is stupid
-  diagnostic: would a person who genuinely held this misbelief think this was the smart move?
   if the plan looks dumb → characterization failure, not dramatic irony — the mechanism collapses
 
-FORESEEABILITY IS THE HOOK (reader neurological cycle)
-  loop: impossible choice → question with partially visible answer → reader can foresee what might happen → need to find out if right
-  surprise ENDS the cycle; foreseeability SUSTAINS it
-  cliffhanger = not "you don't know what happens next" — "you can see what might happen and must find out"
-
-CHARACTER LENS AUDIT (planning tool — use after plot structure is roughed out)
-  for each major decision point: is the character's misbelief actually shaping the shape of their choice?
-  or are they just doing the plot-correct thing?
-  thriller genre helps: plot pressure is built in — extra work = calibrating each pressure point to the specific character facing it
-  double-duty scene = plot does what sequence needs AND choice reveals inner state without telling
+→ [[universal-diagnostics]] foreseeability cycle + character lens audit (apply throughout arc)
 
 ---
 
 ## Act 3 — Disaster & Dark Moment
 # source: "How To Write A DISASTER + DARK MOMENT (Destroy Your Characters!)" — https://youtu.be/kqyAEXLjfoU
 
-SWAPPABILITY TEST (primary diagnostic)
-  if disaster would be equally terrible for any character → wrong disaster
-  must be rooted in this protagonist's specific fear/misbelief to function
-  ask: what does this disaster specifically mean to my protagonist?
+→ [[universal-diagnostics]] swappability test (most critical deployment point)
+→ [[universal-diagnostics]] mirror neurons vs. identification (character-specific disaster requirement)
 
 SELF-CAUSER MECHANISM (reader satisfaction engine)
   protagonist is to blame for their own ruin — not punching bag, but self-puncher
   every decision throughout the story has led causally to this moment
   reader satisfaction = watching causation accumulate, not watching suffering inflicted
   reader has had front-row seat to the hole being dug; the disaster is the bottom
-
-MIRROR NEURONS VS. IDENTIFICATION (the stakes of getting it wrong)
-  generic disaster → reader feels biochemical reaction to peril (their own response to events)
-  character-specific disaster → reader inhabits the character's psychology
-  if the disaster doesn't hit the misbelief: reader cries, but isn't inside anyone
 
 KRYPTONITE (target of the disaster)
   not the surface fear — the raw wound when the wound-protective mechanism is stripped
