@@ -115,6 +115,7 @@ DESIGN REQUIREMENTS
     internal Act 2A pinches: not named beats; embedded in the Reactionary Hero phase; each closes one wound-avoidance path; escalate demonstrated capability progressively
     internal Act 2B pinches: same pattern with protagonist's mechanism visibly degrading; antagonist closer; shared suspense begins to enter
     Second PP: structural anchor; antagonist near-maximum proximity; mechanism degraded; shared suspense fully viable
+    → [[Beats/06_pre_midpoint_reactionary_hero]] for full Reactionary Hero phase mechanics
     → Second PP beat file (pending); [[story-beats.md]] for full arc state
 
   POSITION INHERITANCE

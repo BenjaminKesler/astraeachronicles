@@ -36,12 +36,12 @@ note: antagonist = person, force, or the protagonist's own misbelief
 ## ACT 2
 
 ## PRE-MIDPOINT REACTIONARY HERO — Fear-Based Goal Pursuit
-state: misbelief fully operational; every decision traceable to its logic
-mechanism: [stub]
-note: protagonist is running from or toward something — either way, motivation = avoid pain
+state: misbelief fully operational; stupid plan executing; "while still avoiding fear" as operative mode; mechanism intact but progressively strained by micro-cycle pressure; wound-safe route approaching termination; protagonist unaware
+mechanism: ✓ → Beats/06_pre_midpoint_reactionary_hero.md (stupid plan; misbelief-as-decision-engine; micro-cycle architecture: McKee gap + Weiland R→R→R; escalation requirement; phase-end exhaustion; genre delivery function; pity trap re-emergence; failure modes: swappable plan, punching bag re-emergence, flat knockbacks)
+note: protagonist is running from or toward something — either way, motivation = avoid pain; reactive in orientation, actively executing a plan
 
 ## GAME-CHANGING MIDPOINT — Goal Shift
-state: misbelief disrupted; original plan collapsed; new angle required
+state: misbelief disrupted; wound-safe route selected at FPP terminated; original plan collapsed; new angle required
 mechanism: [stub]
 xref: → plot-structure-outlining.md (Act 2's inciting incident; same forcing function as original II)
 note: must surprise protagonist + shift their goal; reader surprise is bonus not requirement
