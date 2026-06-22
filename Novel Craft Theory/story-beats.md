@@ -27,8 +27,8 @@ state: tipping point reached; inaction pain > perceived action pain; misbelief a
 mechanism: ✓ → Beats/04_first_plot_point.md (pain vs. pain + tipping point; "while still avoiding fear" as Act 2 engine; irreversibility; value charge shift; values revelation; stakes legibility; commitment cost; failure modes: punching bag + pain imbalance)
 
 ## FIRST PINCH POINT — Antagonist Looms
-state: misbelief unchallenged; protagonist unaware of approaching collision
-mechanism: [stub]
+state: misbelief unchallenged; protagonist in "while still avoiding fear" mode; mechanism intact; wound-safe route not yet tested; protagonist unaware; reader's information advantage given first concrete target
+mechanism: ✓ → Beats/05_first_pinch_point.md (reader-side beat; wound-calibrated antagonist; emergent vs. manufactured suspense; three delivery modes; loom not demonstrate; stakes activation; act 2 pinch four-grouping architecture)
 note: antagonist = person, force, or the protagonist's own misbelief
 
 ---

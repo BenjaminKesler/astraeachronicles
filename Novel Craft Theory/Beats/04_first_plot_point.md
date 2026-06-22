@@ -137,6 +137,7 @@ DESIGN REQUIREMENTS
     from II: crystallized surface desire as the specific goal being committed to; story question raised
     from Hook: comfort zone made real (feeds tipping point inaction side); mechanism at full strength (now navigating active commitment); abstract desire incongruity leak (seed of values revelation)
     what FPP opens: Act 2 compression chamber; the specific wound-safe route chosen here determines what Act 2 must systematically close off
+      → [[Beats/05_first_pinch_point]] (wound-safe route is the antagonist's calibration target at the First PP)
 
 ---
 
