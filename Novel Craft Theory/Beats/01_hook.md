@@ -2,6 +2,7 @@
 # source: "How to Write a Hook For Your Story" — Abbie Emmons — https://youtu.be/s7a6R5lVW3g
 # source: expert synthesis — Cron (Story Genius), Weiland (Creating Character Arcs), Hauge (Hero's 2 Journeys), Snyder (Save the Cat), McKee (Story)
 # cross-references: [[internal-conflict]], [[wound-protective-mechanisms]], [[backstory-exposition]], [[universal-diagnostics]], [[plot-structure-outlining]]
+# position: ~0–5% (opening pages; wound and mechanism must be operational before II lands)
 
 ---
 

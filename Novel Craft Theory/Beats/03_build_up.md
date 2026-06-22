@@ -2,6 +2,7 @@
 # source: "How to Write an INCITING INCIDENT" — Abbie Emmons — https://youtu.be/JW9D_Zu-GDQ
 # synthesis: [[wound-model-thesis]], [[internal-conflict]], [[universal-diagnostics]], [[plot-structure-outlining]]
 # cross-references: [[Beats/01_hook]], [[Beats/02_inciting_incident]]
+# position: ~15–25% (Act 1 closing stretch; feeds into First Plot Point at ~25%)
 
 ---
 

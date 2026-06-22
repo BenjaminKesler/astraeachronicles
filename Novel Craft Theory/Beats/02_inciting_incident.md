@@ -2,6 +2,7 @@
 # source: "How to Write an INCITING INCIDENT" — Abbie Emmons — https://youtu.be/JW9D_Zu-GDQ
 # synthesis: [[wound-model-thesis]], [[wound-protective-mechanisms]], [[internal-conflict]], [[universal-diagnostics]]
 # cross-references: [[Beats/01_hook]], [[Beats/03_build_up]]
+# position: ~10–15% (first quarter; wound context from hook must be in place before this lands)
 
 ---
 
