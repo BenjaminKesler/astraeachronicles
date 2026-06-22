@@ -115,6 +115,8 @@ DESIGN REQUIREMENTS
   escalation: each cycle must close a sub-route and raise the stakes; flat repetition is a failure mode
   phase-end exhaustion: late scenes push the reactive mode to its limit; protagonist working hardest as options narrow
   genre delivery: wound-model mechanics and genre satisfaction must coexist; don't let one crowd out the other
+  seeding obligation: pre-midpoint scenes carry double-coded meaning the GCM will retroactively re-key; design each scene not only for forward plan execution but for what it will mean when re-read after the midpoint; re-key depth = GCM depth; conspiracy thriller: two-track seeding (world-level + character-level)
+    → [[Beats/07_game_changing_midpoint]] retroactive re-examination
 
   POSITION INHERITANCE
     from First PP: antagonist wound-calibrated and targeting the wound-safe route; reader information advantage with concrete target; Act 2A internal pinch architecture active
@@ -123,6 +125,7 @@ DESIGN REQUIREMENTS
     from II: crystallized desire = the specific goal the stupid plan is pursuing
     from Hook: mechanism at full strength at phase entry; relational landscape established; genre/value context
     what this phase opens: midpoint terminates the wound-safe route selected at FPP; post-midpoint protagonist doubles down at higher urgency (overcompensation at peak) before eventual mechanism collapse
+      → [[Beats/07_game_changing_midpoint]] for midpoint mechanics, charge polarity, and retroactive re-examination
 
 ---
 

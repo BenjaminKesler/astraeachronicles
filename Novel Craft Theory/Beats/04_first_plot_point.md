@@ -35,7 +35,7 @@ state: tipping point reached; inaction pain > perceived action pain; misbelief a
     chain: Hook (incongruity leak, Hauge) → II/Build-up (subterranean) → FPP (opaque) → aha (fully legible)
     → [[Beats/01_hook]] Hauge nuance (abstract desire leak as incongruity); [[wound-model-thesis]] Part 4
 
-  IRREVERSIBILITY (structural property)
+  IRREVERSIBILITY — DOORWAY OF NO RETURN #1 (Bell)
     FPP closes a door the protagonist doesn't know has closed
     protagonist believes Option A (retreat) is still available if the plan fails — the Build-up's refusal stage made it feel viable
     structurally: the ordinary world is now inaccessible; the story has permanently foreclosed retreat
@@ -43,6 +43,7 @@ state: tipping point reached; inaction pain > perceived action pain; misbelief a
     this gap is the engine of Act 2 desperation: protagonist keeps trying to find an exit that no longer exists
     Weiland / Bell / Vogler converge independently: FPP is a doorway of no return, regardless of character's perception
     → [[Beats/03_build_up]] retreat option seeding mistaken belief in reversibility
+    → [[Beats/07_game_changing_midpoint]] Doorway #2 — second irreversibility closes the wound-safe route at the midpoint
 
 ---
 
@@ -57,7 +58,7 @@ state: genre is still actively defining what the commitment means; after FPP, ge
 VALUE CHARGE SHIFT (McKee — distinct from genre promise)
   every structural turning point produces a reader-perceivable shift in the global value charge
   without this shift, FPP can be mechanically correct but not felt as a structural beat by the reader
-  II produced the first value swing (global value put in play); FPP produces the second, irreversible swing
+  II produced the first value swing (global value put in play); FPP produces the second, irreversible swing; GCM produces the third → [[Beats/07_game_changing_midpoint]] value charge shift
   shift doesn't have to be simple positive↔negative: charge within same pole counts (stable-negative → committed-danger)
   diagnostic: what was the charge before? what is it after? can the reader feel the difference without being told?
   → [[Beats/02_inciting_incident]] genre layer (first value swing); [[Beats/01_hook]] genre layer (global value established)
@@ -139,6 +140,7 @@ DESIGN REQUIREMENTS
     what FPP opens: Act 2 compression chamber; the specific wound-safe route chosen here determines what Act 2 must systematically close off
       → [[Beats/05_first_pinch_point]] (wound-safe route is the antagonist's calibration target at the First PP)
       → [[Beats/06_pre_midpoint_reactionary_hero]] (wound-safe route becomes the stupid plan; executes through this phase; terminates at midpoint)
+      → [[Beats/07_game_changing_midpoint]] (Doorway #2 — wound-safe route terminated here; protagonist state first shifts in Act 2)
 
 ---
 

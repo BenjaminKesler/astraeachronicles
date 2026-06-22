@@ -41,10 +41,10 @@ mechanism: ✓ → Beats/06_pre_midpoint_reactionary_hero.md (stupid plan; misbe
 note: protagonist is running from or toward something — either way, motivation = avoid pain; reactive in orientation, actively executing a plan
 
 ## GAME-CHANGING MIDPOINT — Goal Shift
-state: misbelief disrupted; wound-safe route selected at FPP terminated; original plan collapsed; new angle required
-mechanism: [stub]
+state: misbelief disrupted at plan level; wound-safe route terminated; protagonist surprised (misbelief-surprise — wound's own plan failed on its own terms); goal shift forced; misbelief INTENSIFIES not weakens; overcompensation peaks; false victory → maximum misbelief commitment; false defeat → crisis pivot; Doorway #2 (Bell)
+mechanism: ✓ → Beats/07_game_changing_midpoint.md (misbelief-surprise; protagonist-side beat; Doorway #2; charge polarity: false victory vs. false defeat; series/novel hierarchy; two-track retroactive re-key; aha moment protection; relational: first visible cost; failure modes: external twist + reader-only surprise + aha moment theft)
 xref: → plot-structure-outlining.md (Act 2's inciting incident; same forcing function as original II)
-note: must surprise protagonist + shift their goal; reader surprise is bonus not requirement
+note: first Act 2 beat where protagonist state shifts; reader surprise is bonus; scale criterion = wound-engagement not external magnitude
 
 ## POST-MIDPOINT ACTION HERO — New Angle on Goal
 state: misbelief still operative under new plan; stakes higher from accumulated investment
