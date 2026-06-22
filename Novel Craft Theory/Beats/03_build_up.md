@@ -14,11 +14,13 @@ state: both fear layers engaged simultaneously; comfort zone band collapsed; mis
     two options, both painful; both touch the wound from different directions:
       OPTION A — retreat: return to comfort zone → surface desire abandoned; abstract desire permanently deferred (inner fear)
       OPTION B — venture out: cross outer boundary → misbelief-predicted outcomes become possible (outer fear)
+        character perceives Option B as fear-safe: misbelief tells them they can win without confronting the wound
     "impossible" = no painless exit; retreating and venturing both threaten the wound
     → [[internal-conflict]] TWO FEAR LAYERS; [[wound-model-thesis]] Part 3
   MISBELIEF AT THE CROSSROADS
     misbelief calculates "least painful" option — calculation is wrong by design
     tends toward retreat: external fear feels more manageable than wound re-triggering
+    pain-floor exception: character picks Option B when status quo pain exceeds risk pain — not courage; lesser pain
     if venture out: misbelief immediately seeks a wound-safe route → Act 2 obstacle chain begins
     THIS IS THE FIRST LINK IN THE CAUSAL CHAIN ENDING AT THE DISASTER
       every wound-driven decision from here accumulates causally toward self-caused ruin

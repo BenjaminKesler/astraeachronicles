@@ -97,6 +97,7 @@ DESIGN REQUIREMENTS
   genre-level swappability: would this II belong to a different genre? → wrong II
   causality requirement: II must grow from the story's world and characters — not arrive arbitrarily
   hook←II dependency: wound context must be established before II lands; absent wound = plot event only
+  scale independence: II does not need to be epic; wound-calibration trumps external scope; mundane II can outperform an epic event if better wound-matched (call-to-adventure trap — writers of quiet/contemporary stories often self-disqualify here)
   → [[universal-diagnostics]] swappability test; [[Beats/01_hook]] wound layer
 
 ---
