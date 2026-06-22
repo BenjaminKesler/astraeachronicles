@@ -11,6 +11,8 @@ state: wound already happened; misbelief operational; surface desire in active p
   surface desire + dominant mechanism visible → reader infers misbelief without it being named
   abstract desire: subterranean — NOT established here; reserved for aha moment payoff
     Hauge nuance: abstract desire may leak as incongruity (glimpse of essence through identity); latent, never stated
+    this incongruity leak is the first link in a chain: Hook (leak) → II/Build-up (subterranean) → FPP (opaque exposure through values filter) → aha (full legibility)
+    → [[Beats/04_first_plot_point]] values revelation
   internal conflict MUST pre-exist the II
     if not: II matters only abstractly — not to this character's specific wound
     reader has no wound-context through which to receive the II; it becomes a plot event, not a story event
@@ -29,11 +31,16 @@ FAILURE MODE: SURVIVAL MODE
 
 ---
 
-GENRE LAYER (the contract)
-  signal genre world within opening pages — reader must know what kind of story they're in
-  establish global value at stake: life/death (thriller/action), love (romance), truth (mystery), justice (moral/legal), etc.
-  world-building serves genre signaling; no world-building disconnected from wound-driven character behavior
-  world-building timing rule: world earns its place only as the arena where surface desire is actively pursued
+GENRE LAYER (the contract — constitutive)
+  GENRE PROMISE: signal genre world within opening pages — reader must know what kind of story they're in
+    world-building serves genre signaling; no world-building disconnected from wound-driven character behavior
+    world-building timing rule: world earns its place only as the arena where surface desire is actively pursued
+  GLOBAL VALUE (McKee — distinct from genre promise): establish which human value this story trades in
+    life/death (thriller/action), love/loneliness (romance), truth/deception (mystery), justice/injustice (moral/legal), etc.
+    genre determines which value; the global value charge is what shifts at structural turning points — genre promise and value charge are related but not the same mechanism
+    genre is CONSTITUTIVE here and through FPP: actively defining what events mean and what's at stake, not merely signaling
+    after FPP: genre becomes validating (consistency check), not load-bearing — see [[Beats/04_first_plot_point]] genre layer
+    → [[Beats/02_inciting_incident]] genre layer (first value swing); [[Beats/04_first_plot_point]] genre layer + value charge shift
 
 ---
 

@@ -23,9 +23,8 @@ state: both fear layers simultaneously active; comfort zone band collapsed; misb
 mechanism: ✓ → Beats/03_build_up.md (wound layer: impossible choice structure, misbelief calculation, character as agent; genre layer: genre-colored choice, consequence architecture; sympathy layer: dramatic irony engine, retreat must be appealing, emotional specificity; relational layer: first moral weight, both options carry relational cost; failure mode: PUNCHING BAG; design: dramatized vs. internalized, two types of impossible choice)
 
 ## FIRST PLOT POINT — Protagonist Makes a Decision
-state: misbelief steers the decision; fear logic selects "least painful" path
-mechanism: [stub]
-note: decision must look rational from inside the misbelief; sets the obstacle chain for Act 2
+state: tipping point reached; inaction pain > perceived action pain; misbelief at the wheel; commits while still believing wound-avoidance is achievable; first link in causal chain; door closes (protagonist unaware)
+mechanism: ✓ → Beats/04_first_plot_point.md (pain vs. pain + tipping point; "while still avoiding fear" as Act 2 engine; irreversibility; value charge shift; values revelation; stakes legibility; commitment cost; failure modes: punching bag + pain imbalance)
 
 ## FIRST PINCH POINT — Antagonist Looms
 state: misbelief unchallenged; protagonist unaware of approaching collision

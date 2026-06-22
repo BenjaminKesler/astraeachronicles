@@ -88,7 +88,11 @@ Your role: collaboration partner, not co-author. Don't write prose, scenes, or p
 - **`Novel Craft Theory/wound-protective-mechanisms.md`** — three wound-protective mechanisms (avoidance, surrender, overcompensation); dominant vs. context-sensitive activation; arc diagnostic; scene friction from mismatch
 
 ### Novel Craft Theory/Beats/ — one file per story beat, filled in as videos complete; each beat carries wound-model integration + genre contract + sympathy mechanics + beat-specific craft; load the relevant beat file when working on that beat
+- **`Novel Craft Theory/Beats/_process.md`** — TEMPORARY: 7-phase deep ingest process for story beat videos with confirmation checkpoints; archive after all Abbie beat videos are ingested
 - **`Novel Craft Theory/Beats/01_hook.md`** — Act 1 Beat 1: wound layer (surface desire, dominant mechanism at full strength, survival mode failure), genre contract, sympathy layer, design requirements, diagnostics
+- **`Novel Craft Theory/Beats/02_inciting_incident.md`** — Act 1 Beat 2: comfort zone as mechanism's defended territory, desire crystallization, genre-appropriate event, story question activation, pity trap, first contact relational function
+- **`Novel Craft Theory/Beats/03_build_up.md`** — Act 1 Beat 3: impossible choice structure, refusal as stage, "while still avoiding fear" assumption, misbelief at the crossroads, consequence architecture, first moral weight relational function
+- **`Novel Craft Theory/Beats/04_first_plot_point.md`** — Act 1 Beat 4: pain vs. pain / tipping point, "while still avoiding fear" as Act 2 engine, irreversibility, value charge shift, values revelation, stakes legibility, commitment cost relational function
 
 ### Publishing/ — Claude's guide to the user's publishing workflow; hybrid role: enough substance to answer simple/moderate questions directly, plus source-video references for routing deeper questions back to the right material; **before modifying any file in this folder, read `Publishing/_instructions.md`**
 - **`Publishing/_instructions.md`** — management rules for this folder: what to save, construction format, layout guidance

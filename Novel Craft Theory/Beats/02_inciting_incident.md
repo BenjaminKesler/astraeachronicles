@@ -8,7 +8,9 @@
 
 WOUND LAYER
 state: dominant mechanism under active external threat for the first time; misbelief activates; wound-system engages as a whole
-  abstract desire: still subterranean — NOT established here; first surfaces at aha moment
+  abstract desire: still subterranean — NOT established here
+    chain: Hook (incongruity leak) → II/Build-up (subterranean) → FPP (opaque exposure) → aha (full legibility)
+    → [[Beats/01_hook]] Hauge nuance; [[Beats/04_first_plot_point]] values revelation
   COMFORT ZONE = MECHANISM'S DEFENDED TERRITORY
     the narrow band the dominant mechanism has actively maintained between two fear layers:
       inner boundary: raw wound (going deeper = wound directly re-triggered; internal fear)
@@ -27,17 +29,23 @@ state: dominant mechanism under active external threat for the first time; misbe
 
 ---
 
-GENRE LAYER
-state: genre contract activated; global value takes first swing (McKee)
-  hook signaled genre world and global value at stake; II activates that contract for the first time
-  global value swings — positive to negative or negative to positive — at this beat
-  II must be a GENRE-APPROPRIATE EVENT: an event that belongs to this specific genre world
-    wrong: an event that could incite any story in any genre
-    right: an event that could only belong to this genre's value system
+GENRE LAYER (constitutive)
+state: genre promise activated; global value takes first swing (McKee)
+  GENRE PROMISE: hook established the reader contract; II is the first event that makes good on it
+    II must be a GENRE-APPROPRIATE EVENT: an event that belongs to this specific genre world
+      wrong: an event that could incite any story in any genre
+      right: an event that could only belong to this genre's value system
+    genre is CONSTITUTIVE here: the II's genre-fit determines whether it can carry the weight of the story's first turn
+  GLOBAL VALUE CHARGE (McKee — distinct from genre promise)
+    global value swings — positive to negative or negative to positive — at this beat; this is the first swing
+    FPP will produce the second, larger, irreversible swing
+    → [[Beats/04_first_plot_point]] value charge shift (second irreversible swing)
   STORY QUESTION ACTIVATION (Weiland)
     hook introduced character and wound; II is where the novel's SPECIFIC story question is raised
     not the genre question ("will love prevail?") but THIS story's version:
     "will THIS person risk X to get Y without losing Z?"
+    FPP is where this question receives its first answer: "yes — on my terms, while still avoiding fear"
+    → [[Beats/04_first_plot_point]] stakes legibility (story question answer + price of failure)
   WORLD-BUILDING ROLE: DELIVERY VEHICLE
     the II must grow causally from the story's world and its inhabitants — not arrive as convenience
     world-building earns its place here as the mechanism that makes the II feel inevitable
