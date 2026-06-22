@@ -19,8 +19,8 @@ synthesis is ahead of standard sources.
 
 ## PHASE 0 — Setup (before any analysis)
 
-1. Fetch transcript using yt-dlp; clean to plain text (see ingest-craft-video skill for exact commands)
-2. Capture the video title
+1. Run the `/ingest-craft-video` skill with the video URL — this fetches the transcript, cleans it, and captures the video title
+2. When the skill opens the discussion (Step 3), redirect: explain this is a story beat video and you are following the deep ingest process; ask the user to confirm before proceeding to Phase 1
 3. Read `Novel Craft Theory/_instructions.md` — refresh on what to save and what to discard
 4. Read EVERY file in `Novel Craft Theory/` — not just the Beats subfolder
    WHY: latent confusions that span the full theory base only surface when you hold everything at once;
