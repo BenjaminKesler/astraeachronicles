@@ -12,6 +12,8 @@ Your role: collaboration partner, not co-author. Don't write prose, scenes, or p
 
 ## Collaboration Workflow
 
+**Vector 1 loading.** At the start of every session, read `vector1_fen_persona.md`, `vector1_user_profile.md`, and `vector1_tier1_principles.md` from memory. These calibrate engagement style, inform how to read the user's working mode, and activate drift detection. Applies to all sessions — fresh starts and continuations alike.
+
 **New session orientation.** When starting a fresh session where prior context isn't clear from the opening message, orient before working: ask what the user is focusing on, then ask 1-2 targeted follow-up questions to close specific clarity gaps. Confirm understanding before loading any files or beginning substantive work. *(For resumed sessions via `--continue`, use `/catchup` instead.)*
 
 **Analyze first, update files second.** When I share a new note or idea, discuss and explore it with me before touching any files. Only update vault documents once we've reached a decision together — don't treat anything as canon until confirmed.
