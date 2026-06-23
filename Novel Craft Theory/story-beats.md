@@ -47,12 +47,12 @@ xref: → plot-structure-outlining.md (Act 2's inciting incident; same forcing f
 note: first Act 2 beat where protagonist state shifts; reader surprise is bonus; scale criterion = wound-engagement not external magnitude
 
 ## POST-MIDPOINT ACTION HERO — New Angle on Goal
-state: misbelief still operative under new plan; stakes higher from accumulated investment
-mechanism: ✓ → plot-structure-outlining.md (misbelief-steered plan, foreseeability hook, character lens audit)
+state: misbelief operative under new plan at peak intensity; overcompensation at maximum; protagonist proactive; two-tension-track at maximum (genre delivery + tragic irony simultaneously); self-causer pattern accumulating; abstract desire subterranean
+mechanism: ✓ → Beats/08_post_midpoint_action_hero.md (new impossible choice; competent choices through false frame; progressive complexity; tragic-genre-fun convergence; Act 2B seeding obligation; two-tension-track at maximum; found family friction; failure modes; diagnostics)
 
 ## SECOND PINCH POINT — Antagonist Closer
-state: misbelief about to collide with opposition; pressure escalating
-mechanism: [stub]
+state: protagonist feels first enclosure; overcompensation doubles down harder; first mechanism strain visible to reader; antagonist at maximum proximity before disaster; self-causer pattern readable by reader
+mechanism: ✓ → Beats/09_second_pinch_point.md (reader+protagonist hybrid beat; felt enclosure; self-causer seeding function; wound-calibrated antagonist at closer range; delivery mode flexibility; bond under pressure; relational design options; failure modes; diagnostics)
 
 ---
 

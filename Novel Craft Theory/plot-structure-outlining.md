@@ -5,19 +5,8 @@
 ---
 
 ## Act 2B — Post-Midpoint to Disaster
-# source: "How to Write The SECOND HALF of Your Novel (POST-MIDPOINT Action Hero)" — https://youtu.be/xI-qswBxSUo
-
-MIDPOINT = Act 2's inciting incident
-  same forcing function as original inciting incident: impossible choice, pushed outside comfort zone
-  difference: protagonist now has more to lose (investment accumulated since Act 1)
-  Act 2B IS the response to this — not just complications, but a second act-opening engine
-
-MISBELIEF-STEERED PLAN (core mechanism)
-  protagonist's post-midpoint plan must look smart to protagonist AND reader
-  only wrong because the misbelief is wrong — not because the character is stupid
-  if the plan looks dumb → characterization failure, not dramatic irony — the mechanism collapses
-
-→ [[universal-diagnostics]] foreseeability cycle + character lens audit (apply throughout arc)
+→ [[Beats/08_post_midpoint_action_hero]] (Post-Midpoint Action Hero — full beat mechanics)
+→ [[Beats/09_second_pinch_point]] (Second Pinch Point — full beat mechanics)
 
 ---
 

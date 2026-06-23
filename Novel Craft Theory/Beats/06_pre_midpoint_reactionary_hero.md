@@ -126,6 +126,7 @@ DESIGN REQUIREMENTS
     from Hook: mechanism at full strength at phase entry; relational landscape established; genre/value context
     what this phase opens: midpoint terminates the wound-safe route selected at FPP; post-midpoint protagonist doubles down at higher urgency (overcompensation at peak) before eventual mechanism collapse
       → [[Beats/07_game_changing_midpoint]] for midpoint mechanics, charge polarity, and retroactive re-examination
+      → [[Beats/08_post_midpoint_action_hero]] for post-midpoint phase mechanics, progressive complexity, and Act 2B seeding obligation
 
 ---
 

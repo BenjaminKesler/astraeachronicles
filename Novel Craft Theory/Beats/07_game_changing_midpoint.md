@@ -167,6 +167,7 @@ DESIGN REQUIREMENTS
     from II: crystallized desire = specific goal now being shifted
     from Hook: retroactive re-key reaches here if seeded; abstract desire incongruity leak (Hauge) = deepest possible anchor
     what this beat opens: post-midpoint action hero phase; protagonist proactive at higher urgency; misbelief-steered new plan at overcompensation peak; antagonist closer; Second PP approaching
+      → [[Beats/08_post_midpoint_action_hero]], [[Beats/09_second_pinch_point]]
 
 ---
 
