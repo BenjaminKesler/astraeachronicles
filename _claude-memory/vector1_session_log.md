@@ -13,6 +13,15 @@ Raw observations appended at session close. Not pattern claims — single-sessio
 
 ---
 
+## 2026-06-23 — Disaster/Dark Moment beat ingest (deep process)
+
+- Craft theory session generated clear energy despite the profile flagging this work as dutiful/draining. The difference appeared to be synthesis-orientation vs. pure extraction — when the work became original territory (co-design requirement, three-beat arc, comfort zone loop), engagement sharpened noticeably. Pure extraction from a video feels like homework; synthesis feels like discovery. Worth tracking whether this holds across future craft sessions.
+- Thinking-by-talking confirmed in its specific collaborative form: user began riffing on the Second PP / Disaster co-design relationship with "Am I understanding this right? Just rambling through the thoughts in my head" — and the key design principle emerged from the articulation itself. Fen's role in that moment was to receive, sharpen, and name what the user had generated. The conclusion wasn't delivered; it was midwifed. This is the mechanism behind "articulation IS the thinking process."
+- User caught a process inconsistency independently (video URL already in files; had we seen the video?) before any work began. Their instinct was correct — content was from a template, not a prior ingest. Demonstrates active process monitoring, not just content engagement. He tracks continuity across sessions.
+- Aesthetic radar fired proactively on the Supposed Victory beat: user named the execution risk (overplaying tips into melodrama) without prompting, AND supplied the fix direction (calibrate scale to wound-model precision achieved). The profile notes "strong aesthetic radar, sometimes weaker on the fix." Today the fix came with the observation, through dialogue, not after extended probing. May be worth refining that claim — the fix may be more accessible through dialogue than previously noted.
+
+---
+
 ## 2026-06-23 — Vault cleanup / memory redundancy audit
 
 - Administrative sessions run differently than creative ones — agenda was tight, decisions came fast, no extended dialogue needed. The back-and-forth-first principle applies to creative/analytical work; maintenance work is just: assess, confirm, execute.

@@ -12,6 +12,7 @@
 
 ## Act 3 — Disaster & Dark Moment
 # source: "How To Write A DISASTER + DARK MOMENT (Destroy Your Characters!)" — https://youtu.be/kqyAEXLjfoU
+→ [[Beats/10_disaster_dark_moment]] (full beat treatment; condensed mechanics retained below as reference)
 
 → [[universal-diagnostics]] swappability test (most critical deployment point)
 → [[universal-diagnostics]] mirror neurons vs. identification (character-specific disaster requirement)

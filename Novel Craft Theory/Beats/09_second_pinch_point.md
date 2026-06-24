@@ -117,13 +117,20 @@ DESIGN REQUIREMENTS
   delivery mode selection: vicarious, shared, or hybrid — no single correct method; match to protagonist awareness level
   relational design: one of three options or combination; found family context favors external pressure or mechanism mismatch over internal betrayal
 
+  CO-DESIGN WITH DISASTER (non-negotiable)
+    Second PP must set the board for protagonist's final all-in commitment
+    felt enclosure + harder doubling down should leave only one available misbelief-driven move: go all in
+    Disaster is custom-crafted to meet that commitment and detonate it specifically
+    design Second PP and Disaster in concert — they form one sequence, not two sequential beats
+    → [[Beats/10_disaster_dark_moment]] co-design requirement
+
   POSITION INHERITANCE
     from Post-Midpoint Action Hero: protagonist's competent-false-framed choices in Act 2B are what antagonist's gained ground is partially built on; two-tension-track at maximum entering here; progressive complexity has expanded the problem map; relational bonds being tested under increasing pressure; protagonist at overcompensation peak entering felt enclosure
     from Game-Changing Midpoint: Doorway #2 committed; protagonist on new wound-safe angle; first visible cost = relational starting point
     from First Pinch Point: wound-calibrated antagonist established there; delivery mode contrast (vicarious default there; flexibility here); loom principle carries forward unchanged
     from FPP: wound-safe route (updated at GCM) still executing; "while still avoiding fear" still operative; commitment cost compounding
-    what this beat opens: Disaster — mechanism breaks; self-causer pattern becomes fully visible and unavoidable; protagonist's wound directly exposed; relational cost loading since FPP becomes explicit crisis
-      → [[plot-structure-outlining]] SELF-CAUSER MECHANISM, KRYPTONITE, DARK MOMENT
+    what this beat opens: Disaster — mechanism breaks; self-causer chain completes; protagonist's wound directly exposed; relational cost loading since FPP becomes moral reckoning; dark moment follows immediately
+      → [[Beats/10_disaster_dark_moment]] (full beat treatment; co-designed with this beat)
 
 ---
 

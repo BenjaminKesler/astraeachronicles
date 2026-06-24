@@ -87,7 +87,9 @@ DESIGN REQUIREMENTS
     → [[backstory-exposition]] for path selection rule and dramatized vs. summarized diagnostic
   comfort zone forward dependency: hook must make the comfort zone feel real and worth having
     feeds the Build-Up's retreat option — if the comfort zone has no genuine value, the impossible choice has no weight
+    structural echo: what the hook makes real, the disaster violates at its deepest level — this thread is designed
     → [[Beats/03_build_up]] sympathy layer (retreat must be genuinely appealing)
+    → [[Beats/10_disaster_dark_moment]] comfort zone → disaster loop (terminal destination of this dependency)
 
 ---
 

@@ -59,16 +59,16 @@ mechanism: ✓ → Beats/09_second_pinch_point.md (reader+protagonist hybrid bea
 ## ACT 3
 
 ## SUPPOSED VICTORY (optional) — False Confidence
-state: misbelief at peak; protagonist believes the plan has worked
-mechanism: ✓ → plot-structure-outlining.md (contrast setup; makes disaster more devastating by inversion)
+state: misbelief at maximum commitment; protagonist believes they've proven the misbelief true; most certain = most exposed
+mechanism: ✓ → Beats/10_disaster_dark_moment.md (maximum misbelief commitment; calibration demand; execution risk)
 
 ## DISASTER — Everything Goes Wrong
-state: misbelief exposed as the causal engine of ruin; protagonist is self-causer
-mechanism: ✓ → plot-structure-outlining.md (swappability test, self-causer mechanism, kryptonite target)
+state: "while still avoiding fear" finally disproved; dominant mechanism breaks; self-causer chain completes; final wound-driven decision made; both fear layers hit simultaneously; raw wound directly exposed
+mechanism: ✓ → Beats/10_disaster_dark_moment.md (self-causer completion, kryptonite, two-fear-layer convergence, whiff of death, moral reckoning, co-design with Second PP, value floor, crisis as decision)
 
 ## DARK MOMENT — Hopeless
-state: wound-protective mechanism stripped; raw wound exposed; protagonist disarmed
-mechanism: ✓ → plot-structure-outlining.md
+state: misbelief-as-refuge gone; dominant mechanism stripped; forced confrontation with kryptonite — cannot route or defend; abstract desire obstruction removed but not yet legible
+mechanism: ✓ → Beats/10_disaster_dark_moment.md (forced confrontation not just despair; required precondition for aha)
 
 ## AHA MOMENT — Revelation
 state: misbelief recognized and rejected; truth seen for the first time
