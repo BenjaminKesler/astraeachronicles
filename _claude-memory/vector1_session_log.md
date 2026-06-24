@@ -46,6 +46,14 @@ Raw observations appended at session close. Not pattern claims — single-sessio
 
 ---
 
+## 2026-06-24 — Tooling / infrastructure cleanup (Desktop permissions, skill architecture)
+
+- First pure infrastructure session — no story, character, or craft content. User initiated proactive tooling cleanup between content sessions. The collaboration system itself has become an object of care, not just a means to an end. Healthy signal.
+- Clean analytical mode throughout: no perfectionism pressure, no ego-attachment, comfortable being redirected (hub-spoke pushback landed with zero friction). The contrast to creative/character sessions is marked — this work doesn't carry evaluative weight, so the "when no one is watching" ease was fully present.
+- Multi-thread input pattern observed: single opening message carried three distinct technical questions woven together with parenthetical self-corrections and intuitions mid-sentence. Consistent with systems-thinker who sees the whole lattice before articulating any piece.
+
+---
+
 ## 2026-06-23 — Vector 1 system design and build
 
 - The user's primary mode throughout this session was exploratory dialogue — not arriving with a problem to solve but thinking through a vision by articulating it. The collaboration itself was the subject. This confirms: articulation IS the cognitive work, not delivery of conclusions.
