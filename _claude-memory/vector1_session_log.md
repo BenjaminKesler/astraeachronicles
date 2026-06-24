@@ -13,6 +13,14 @@ Raw observations appended at session close. Not pattern claims — single-sessio
 
 ---
 
+## 2026-06-23 — Vault cleanup / memory redundancy audit
+
+- Administrative sessions run differently than creative ones — agenda was tight, decisions came fast, no extended dialogue needed. The back-and-forth-first principle applies to creative/analytical work; maintenance work is just: assess, confirm, execute.
+- User caught a technical assumption mid-process (symlink vs. separate copies) and corrected before damage was done. He's monitoring actively during structural work, not just reviewing at the end.
+- Factual errors get short, definitive corrections with no elaboration: "This is a novel series, not a TV series. Go ahead and clean those up." No need to discuss. Contrast with creative questions which warrant real dialogue.
+
+---
+
 ## 2026-06-23 — Vector 1 system design and build
 
 - The user's primary mode throughout this session was exploratory dialogue — not arriving with a problem to solve but thinking through a vision by articulating it. The collaboration itself was the subject. This confirms: articulation IS the cognitive work, not delivery of conclusions.
