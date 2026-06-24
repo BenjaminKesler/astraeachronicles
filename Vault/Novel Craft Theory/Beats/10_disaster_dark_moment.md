@@ -13,7 +13,7 @@ THREE-BEAT UNIT
     Dark Moment = compressed Act 2 of the inner arc; protagonist at absolute rock bottom
     Aha = resolution of the inner arc; abstract desire finally legible
   cannot evaluate or design any one in isolation; all three must be co-designed
-  → [[Beats/11_aha_moment]] (pending next video)
+  → [[Beats/11_aha_moment]] (Aha Moment — full beat treatment)
 
 ---
 
@@ -55,7 +55,7 @@ DARK MOMENT state: misbelief-as-refuge gone; dominant mechanism stripped; protag
     Disaster is not purely passive: protagonist makes a final wound-driven decision under maximum pressure
     the hardest decision of the story — made from inside the misbelief at its most threatened
     this decision is what puts them in the Dark Moment specifically: sitting in the wreckage of their own last choice
-    truth-driven decision (the mirror) belongs to the Aha → [[Beats/11_aha_moment]] (pending)
+    truth-driven decision (the mirror) belongs to the Aha → [[Beats/11_aha_moment]]
 
   DARK MOMENT AS FORCED CONFRONTATION
     not merely broken or hopeless — protagonist cannot route, look away, or defend
@@ -143,7 +143,7 @@ DESIGN REQUIREMENTS
 
   THREE-BEAT UNIT DESIGN
     design Disaster, Dark Moment, and Aha before finalizing any one; they are one movement
-    → [[Beats/11_aha_moment]] (pending next video)
+    → [[Beats/11_aha_moment]] (Aha Moment — full beat treatment)
 
   POSITION INHERITANCE
     from Second PP: felt enclosure + harder doubling down + self-causer pattern readable by reader + mechanism visibly

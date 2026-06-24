@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f47d69385aa8fde3",
+        "id": "69fd20a481d3a19c",
         "type": "tabs",
         "children": [
           {
-            "id": "dc84ddbae673ac1b",
+            "id": "d657858a56630996",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters/0_Main/Alistair Bram Verhayen.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Alistair Bram Verhayen"
+              "title": "New tab"
             }
           }
         ],
@@ -181,8 +177,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "dc84ddbae673ac1b",
+  "active": "d657858a56630996",
   "lastOpenFiles": [
+    "Novel Craft Theory/Beats/11_aha_moment.md",
+    "desktop.ini",
+    "CLAUDE.md",
+    "Characters/0_Main/Alistair Bram Verhayen.md",
     "Novel Craft Theory/Beats/_process.md",
     "_claude-memory/vector1_session_log.md.tmp.32884.e87d035e867d",
     "Novel Craft Theory/plot-structure-outlining.md.tmp.32884.a261bc992716",
@@ -200,7 +200,6 @@
     "_claude-memory/MEMORY.md.tmp.30688.bcc7858acabd",
     "_claude-memory/feedback_file_size.md",
     "02_craft_sparks.md",
-    "_claude-memory/vector1_session_log.md.tmp.30688.351af6289332",
     "_claude-memory/vector1_onboarding.md",
     "_claude-memory/vector1_session_log.md",
     "_claude-memory/vector1_tier1_principles.md",
@@ -209,7 +208,6 @@
     "00_north_star.md",
     "01_open_items.md",
     "Novel Craft Theory/enneagram_type_1.md",
-    "CLAUDE.md",
     "Novel Craft Theory/Beats/09_second_pinch_point.md",
     "Novel Craft Theory/Beats/08_post_midpoint_action_hero.md",
     "Novel Craft Theory/Beats/01_hook.md",
@@ -217,7 +215,6 @@
     "Novel Craft Theory/Beats/03_build_up.md",
     "Novel Craft Theory/Beats/04_first_plot_point.md",
     "Novel Craft Theory/Beats/05_first_pinch_point.md",
-    "Novel Craft Theory/Beats/06_pre_midpoint_reactionary_hero.md",
     "Images/Characters/Alistair_Portrait.jpg"
   ]
 }

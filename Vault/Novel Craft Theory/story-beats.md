@@ -71,10 +71,10 @@ state: misbelief-as-refuge gone; dominant mechanism stripped; forced confrontati
 mechanism: ✓ → Beats/10_disaster_dark_moment.md (forced confrontation not just despair; required precondition for aha)
 
 ## AHA MOMENT — Revelation
-state: misbelief recognized and rejected; truth seen for the first time
-mechanism: [stub]
+state: misbelief recognized and dissolved (amplification structure gone — not the fear itself); abstract desire fully legible ("good worth fighting for" finally visible); wound-constructed identity seen through; protagonist chooses to act through remaining fear; internal war won; new story forms; first truth-driven decision possible
+mechanism: ✓ → Beats/11_aha_moment.md (three-shift structure: cognitive + epistemic + volitional; identity layer; self-revelation: psychological + moral required; author-truth selection criterion; one person diagnostic; value floor reversal; sympathy: vindication/hope; relational: reconciliation/opening; failure modes: deus ex machina + surprise depleted + psychological only + emotional uplift only + generic truth + premature)
 alt path: TEMPTATION-AHA — everything goes right instead; protagonist turns down misbelief-based prize
-xref: negative arc variant → plot-structure-outlining.md (misbelief sealed, not rejected)
+xref: negative arc variant → plot-structure-outlining.md (protagonist forms new story that misbelief IS truth — active commitment, not failure to escape)
 
 ## CLIMACTIC CONFRONTATION — External Proof of Internal Change
 state: misbelief destroyed; protagonist acts from truth for first time
