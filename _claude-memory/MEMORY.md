@@ -8,7 +8,7 @@
 - [Vector 1: Onboarding](vector1_onboarding.md) — permanent record of seed questionnaire and answers; do not update; baseline reference only
 
 ## Infrastructure
-- [Reference: Memory Folder](reference_memory_folder.md) — `_claude-memory` in the vault is the real folder; Claude memory path is a symlink to it; edit in the vault
+- [Reference: Memory Folder](reference_memory_folder.md) — slug is git-root-derived (not working directory); Claude memory path symlinks to `_claude-memory` at repo root
 
 ## Project & Collaboration
 - [Feedback: File Size](feedback_file_size.md) — when a vault file gets cluttered, ask whether to split it rather than reorganizing silently

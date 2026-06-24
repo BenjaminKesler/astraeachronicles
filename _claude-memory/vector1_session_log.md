@@ -38,6 +38,14 @@ Raw observations appended at session close. Not pattern claims — single-sessio
 
 ---
 
+## 2026-06-24 — Memory symlink repair + session-close PS1 script
+
+- Stated agenda (PS1 script for session-close) diverged almost immediately into infrastructure investigation (memory path discrepancy, symlink setup, harness slug behavior). User engaged with the detour fully — no frustration or urgency to return to the original task. Operational health work appears to genuinely interest him, not just register as duty.
+- Verification over assertion: when I offered a confident inference about git root vs. working directory slug computation, the immediate response was "let's see if we can get confirmation." He pushed for empirical verification even when my confidence was high. Consistent with the integrity value — worth flagging as a confirmed behavioral pattern rather than a one-time signal.
+- Systems thinking held the thread through a long rabbit hole (symlinks, harness internals, agent consultation, two corrections to reference_memory_folder.md) without losing the original agenda. Completed the PS1 work at the end. The "works all the way to the bottom before resetting" pattern was visible — he wanted the slug question understood before accepting any fix.
+
+---
+
 ## 2026-06-23 — Vector 1 system design and build
 
 - The user's primary mode throughout this session was exploratory dialogue — not arriving with a problem to solve but thinking through a vision by articulating it. The collaboration itself was the subject. This confirms: articulation IS the cognitive work, not delivery of conclusions.
