@@ -135,12 +135,23 @@ DESIGN REQUIREMENTS
     if payoff reads as intellectual not felt → look upstream for planted resonance deficit, not inside the aha scene
     → [[scene-earning]] reverse-engineer protocol; distribution principle
 
+  AHA MOMENT DURATION (pacing variable)
+    the aha beat's required duration is proportional to upstream seeding deficit
+    thorough abstract desire seeding across Acts 1–2 earns a compressed aha — a single moment, a beat within a scene — that flows immediately into the Climax
+    compressed aha → reader experiences aha and climax as one unified transformative movement; this is a valid and powerful design choice
+    insufficient upstream seeding → aha must do more work on the page; but cannot be extended to compensate for planted resonance deficit without reading as forced
+    fix direction if aha feels thin: look upstream at abstract desire seeding, not inside the aha scene
+    → [[scene-earning]] distribution principle; [[Beats/12_climactic_confrontation]] dual-battle structure
+
   POSITION INHERITANCE
     from Dark Moment: mechanism stripped; misbelief-as-refuge gone; protagonist in most unfamiliar state; abstract desire obstruction removed but not yet legible; three-beat unit ready for resolution; relational moral reckoning begun
     from Disaster: self-causer chain complete; kryptonite exposed; both fear layers hit simultaneously; "while still avoiding fear" finally and completely disproved; comfort zone loop closing
     from FPP: abstract desire chain (opaque values revelation → fully legible here); "while still avoiding fear" — committed there, disproved at Disaster, transcended here
     from Hook: abstract desire incongruity leak (Hauge) — chain origin; comfort zone made real at Hook, violated at Disaster, echoed at Aha (protagonist sees what they were always reaching for)
     what this beat opens: Climax — first action taken from dissolved-misbelief state under external pressure; internal war already won; Climax = external proof that the transformation holds
+      arc conclusion is a constrained variable, not a free choice: 2x2 (internal outcome × external outcome); story's accumulated decisions narrow the viable quadrant before climax design; if quadrant feels open, an upstream constraint is not yet settled
+      relational repair opened here executes through Climax and Resolution
+      → [[Beats/12_climactic_confrontation]], [[Beats/13_victory]], [[Beats/14_resolution]]
 
 ---
 

@@ -77,15 +77,13 @@ alt path: TEMPTATION-AHA — everything goes right instead; protagonist turns do
 xref: negative arc variant → plot-structure-outlining.md (protagonist forms new story that misbelief IS truth — active commitment, not failure to escape)
 
 ## CLIMACTIC CONFRONTATION — External Proof of Internal Change
-state: misbelief destroyed; protagonist acts from truth for first time
-mechanism: [stub]
-note: internal battle already won at Aha Moment; climax = external demonstration, not internal event
+state: misbelief dissolved (Aha); protagonist acts from dissolved-misbelief state under external pressure for first time; fear remains as felt response but no longer controls; kryptonite faced without armor; proof function active; global value charge at maximum
+mechanism: ✓ → Beats/12_climactic_confrontation.md (proof function, dual-battle structure, excitement trap, kryptonite revisited, whiff of death constraint, 2x2 arc conclusion design, constraint principle, comfort zone as measurement instrument, McKee Crisis Question, lead dominance, genre independence, value maximum)
 
 ## VICTORY — Transformation Complete
-state: arc closed; character is no longer who they were in the Hook
-mechanism: [stub]
-note: external win is optional; internal transformation is non-negotiable
+state: arc closed; external outcome landed; personal victory confirmed (misbelief crushed, fear faced with courage); reader emotional register settled (vindication or melancholy-catharsis per arc conclusion path taken)
+mechanism: ✓ → Beats/13_victory.md (personal victory non-negotiable, two emotional registers, author-truth weight distribution, sacrifice requirement on external loss path, failure modes)
 
-## RESOLUTION — Loose Ends
-state: post-transformation life established for the reader
-mechanism: [stub — no dedicated video; supplement from external sources]
+## RESOLUTION — Loose Ends (optional)
+state: post-transformation life establishing; new equilibrium forming; protagonist operating from dissolved-misbelief state in ordinary life; relational repair completing
+mechanism: ✓ → Beats/14_resolution.md (new equilibrium, Return with the Elixir, final image bookending, standalone vs. series options, cliffhanger constraint, epilogue caution)

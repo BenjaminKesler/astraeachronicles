@@ -68,6 +68,14 @@ In a **positive arc**, the character acts from truth. The wound's cycle of suffe
 
 In a **negative arc**, the character actively chooses the misbelief as the truth. This is not passive failure or tragic victimhood — it is an act of will. The character convinces themselves that the lie is the truth. The misbelief fully seals. The distinction between descending into darkness and committing to it is the line between a tragedy and a negative arc: one is something that happens to the character; the other is something the character does.
 
+**Within each arc, external outcome is a variable.** Both positive and negative arcs can conclude with external victory or external loss — producing four possible arc conclusions:
+- positive arc + external win: full victory; reader vindication; thematic claim that transformation produces rightness
+- positive arc + external loss: melancholy-catharsis; transformation complete and sufficient regardless of the world's response
+- negative arc + external loss: tragedy; world punishes the wrong choice; moral order visible through consequence
+- negative arc + external win: hollow victory / moral horror; the lie succeeds externally; author-truth transmitted through the reader's discomfort at watching the wrong choice rewarded
+The emotional weight of the resolution must land on the internal outcome regardless of which external outcome occurs. If the external win or loss is doing the emotional work, the arc's internal logic has not been made legible enough.
+→ [[Beats/12_climactic_confrontation]] two-path design; [[Beats/13_victory]] two emotional registers
+
 ---
 
 ## Part 5: Cross-Cutting Properties

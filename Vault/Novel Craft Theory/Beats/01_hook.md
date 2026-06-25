@@ -88,8 +88,10 @@ DESIGN REQUIREMENTS
   comfort zone forward dependency: hook must make the comfort zone feel real and worth having
     feeds the Build-Up's retreat option — if the comfort zone has no genuine value, the impossible choice has no weight
     structural echo: what the hook makes real, the disaster violates at its deepest level — this thread is designed
+    measurement instrument: comfort zone established here is the calibration device against which the climax's stakes are measured — the gap between the Hook comfort zone and what the Climax demands of the protagonist IS the story's stakes magnitude
     → [[Beats/03_build_up]] sympathy layer (retreat must be genuinely appealing)
     → [[Beats/10_disaster_dark_moment]] comfort zone → disaster loop (terminal destination of this dependency)
+    → [[Beats/12_climactic_confrontation]] comfort zone as measurement instrument
 
 ---
 

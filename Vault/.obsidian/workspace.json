@@ -11,10 +11,14 @@
             "id": "d657858a56630996",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Novel Craft Theory/Beats/_process.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "_process"
             }
           }
         ],
@@ -177,13 +181,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "d657858a56630996",
+  "active": "56645838df8dda90",
   "lastOpenFiles": [
+    "Novel Craft Theory/Beats/01_hook.md.tmp.31624.ef9c1e3c6e2a",
+    "Novel Craft Theory/Beats/14_resolution.md",
+    "Novel Craft Theory/Beats/12_climactic_confrontation.md",
+    "Novel Craft Theory/Beats/13_victory.md",
+    "Novel Craft Theory/Beats/_process.md",
     "Novel Craft Theory/Beats/11_aha_moment.md",
     "desktop.ini",
     "CLAUDE.md",
     "Characters/0_Main/Alistair Bram Verhayen.md",
-    "Novel Craft Theory/Beats/_process.md",
     "_claude-memory/vector1_session_log.md.tmp.32884.e87d035e867d",
     "Novel Craft Theory/plot-structure-outlining.md.tmp.32884.a261bc992716",
     "Novel Craft Theory/story-beats.md.tmp.32884.f6ca277e2f9d",
@@ -211,10 +219,6 @@
     "Novel Craft Theory/Beats/09_second_pinch_point.md",
     "Novel Craft Theory/Beats/08_post_midpoint_action_hero.md",
     "Novel Craft Theory/Beats/01_hook.md",
-    "Novel Craft Theory/Beats/02_inciting_incident.md",
-    "Novel Craft Theory/Beats/03_build_up.md",
-    "Novel Craft Theory/Beats/04_first_plot_point.md",
-    "Novel Craft Theory/Beats/05_first_pinch_point.md",
     "Images/Characters/Alistair_Portrait.jpg"
   ]
 }
