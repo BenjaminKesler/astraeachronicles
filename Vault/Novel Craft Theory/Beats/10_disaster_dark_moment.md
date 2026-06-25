@@ -15,6 +15,12 @@ THREE-BEAT UNIT
   cannot evaluate or design any one in isolation; all three must be co-designed
   → [[Beats/11_aha_moment]] (Aha Moment — full beat treatment)
 
+ALT PATH: TEMPTATION
+  instead of everything going wrong, everything goes RIGHT — protagonist offered the misbelief-based goal-object; turns it down because desire has already changed through the journey
+  Temptation + Aha replaces this entire Disaster + Dark Moment + Aha unit
+  path selection criterion: "found something truer" story shapes → Temptation path; "stripped of the lie" shapes → this path
+  → [[Beats/10b_temptation]] (full Temptation beat treatment)
+
 ---
 
 SUPPOSED VICTORY (optional pre-Disaster)

@@ -107,6 +107,9 @@ DESIGN REQUIREMENTS
   hook←II dependency: wound context must be established before II lands; absent wound = plot event only
   scale independence: II does not need to be epic; wound-calibration trumps external scope; mundane II can outperform an epic event if better wound-matched (call-to-adventure trap — writers of quiet/contemporary stories often self-disqualify here)
   → [[universal-diagnostics]] swappability test; [[Beats/01_hook]] wound layer
+  TEMPTATION PATH DEPENDENCY: the goal-object crystallizing here is the specific thing the Temptation will offer back at ~75%
+    precision at this beat is load-bearing — reader must recognize the offered object as exactly what was established here
+    → [[Beats/10b_temptation]] external goal-object design requirement
 
 ---
 

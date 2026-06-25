@@ -49,6 +49,14 @@ state: misbelief operative under new plan at peak intensity; overcompensation at
     this convergence is what makes Act 2B feel like the meat and potatoes of the story
     → [[internal-conflict]] SURFACE LAYER (two tension tracks); [[wound-model-thesis]] Part 3
 
+  TEMPTATION PATH FORK — DUAL-DESIRE TENSION TRACK:
+    standard path: misbelief operative under new plan at peak intensity; overcompensation at maximum; abstract desire subterranean
+    temptation path: surface desire still being pursued AND abstract desire actively surfacing alongside it — two desires in tension growing toward a crossing point; not a compression chamber but a dual-desire escalation
+    resentment about the misbelief-based goal-object: active at baseline (established at FPP); beginning to fade across this phase as abstract desire grows more real
+    wound-driven journey note: protagonist's surface desire pursuit accidentally produces transformation conditions — puts protagonist in proximity with what they actually need
+    seeding implication: Temptation path does NOT protect abstract desire from legibility here — active surfacing is required
+    → [[Beats/10b_temptation]] endogenous dissolution; resentment-fading mechanism; abstract desire seeding requirement
+
 ---
 
 GENRE LAYER

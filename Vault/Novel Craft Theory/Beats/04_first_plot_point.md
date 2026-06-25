@@ -25,6 +25,7 @@ state: tipping point reached; inaction pain > perceived action pain; misbelief a
     "the one move that would actually work is always the move they won't make" → [[wound-model-thesis]] Part 3
     the FPP commitment doesn't just open Act 2 — it specifies what Act 2 must disprove; the route chosen here determines the obstacle chain
     → [[Beats/03_build_up]] "while still avoiding fear" note (seeded there; structural engine named here)
+    TEMPTATION PATH FORK: in the Temptation path this assumption is SUPERSEDED — becomes irrelevant as abstract desire grows more compelling through the journey — not disproved by catastrophic failure; Act 2 can either DISPROVE (standard path) or PROGRESSIVELY SUPERSEDE (Temptation path) this assumption → [[Beats/10b_temptation]]
 
   VALUES REVELATION (opaque abstract desire exposure)
     FPP = first moment abstract desire becomes faintly legible — not stated, not conscious, not named
@@ -33,7 +34,8 @@ state: tipping point reached; inaction pain > perceived action pain; misbelief a
     mechanism: kernel of genuine value buried inside the misbelief-steered choice — "right reason, wrong method"
     distinct from aha moment: FPP = opaque single note; aha = full dissolution and clear sight
     chain: Hook (incongruity leak, Hauge) → II/Build-up (subterranean) → FPP (opaque) → aha (fully legible)
-    → [[Beats/01_hook]] Hauge nuance (abstract desire leak as incongruity); [[wound-model-thesis]] Part 4
+    TEMPTATION PATH FORK: Hook (leak) → II/Build-up (subterranean) → FPP (opaque) → Acts 2-3 progressive surfacing → Temptation (semi-legible; goal-object refused) → Aha (crystallized through act of refusal)
+    → [[Beats/01_hook]] Hauge nuance (abstract desire leak as incongruity); [[wound-model-thesis]] Part 4; [[Beats/10b_temptation]] abstract desire seeding requirement
 
   IRREVERSIBILITY — DOORWAY OF NO RETURN #1 (Bell)
     FPP closes a door the protagonist doesn't know has closed

@@ -82,3 +82,11 @@ Raw observations appended at session close. Not pattern claims — single-sessio
 - Multiple character identifications (Alistair/Shaye/Karae across 1/3/4) were named naturally, not extracted. He has more self-knowledge than he thinks he does — it surfaces through the characters rather than through direct introspection.
 - Completion drive confirmed strongly: when all conceptual pieces were designed, he pushed to keep building rather than stopping at a good milestone ("let's keep going so we don't lose track"). The "energized by seeing things come to fruition" profile claim is real — the files needed to exist before the session felt done.
 - Some self-knowledge takes a second approach to surface: Q24 (what doesn't work in a thinking partner) was a blank on first ask; named clearly later when reframed and given more context. Indirect or second-pass questions may reach things the direct version misses.
+
+---
+
+## 2026-06-25 — Temptation beat ingest (deep process, Phase 7 + close)
+
+- Thinking-by-talking generating original theory again, strongly. The resentment-fading mechanism and two-beat structure claim both arrived unprompted from the user — full structural claims, not intuitions to probe. "I feel like one thing that gets seeded earlier is some sort of sensation of resentment..." and "It almost feels like 2 beats jammed together back to back..." were theory outputs, not questions. Now a consistent pattern across multiple craft sessions: articulation IS generation, not delivery.
+- Karae self-moderation: user identified the Temptation path application to Karae's arc in the first exchange, then immediately self-governed ("I don't know if I'm ready to dive to deep into that right now"). No redirection needed. Suggests developing instincts for when to bracket application work vs. follow it — an operational shift worth tracking in someone the profile flags as potentially inspiration-first.
+- System-level recognition before it was named: user observed "I feel like this temptation beat analysis is actually creating an entire alternative story path for every story beat" before Fen had framed the parallel-path structure. The full lattice implication was visible before the single-concept analysis was complete. Accurate, and characteristically ahead of the explicit framing.

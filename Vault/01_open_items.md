@@ -45,6 +45,8 @@ RUBRIC
 - Intelligence Karae passed to her brother — what specifically she observed re: Tal'Sha/Astraea
   - → must read as concrete intelligence, not suspicion
 - Karae — gap between Syndicate bar escape and arriving at Taelyn's crew
+- Karae's found-family arc may have Temptation path shape — "found something truer" as she discovers crew matters more than reclaiming Tal'Sha standing
+  - → not pursued yet; surfaced during Temptation beat ingest; park until Karae novel pass
 
 ## Roan
 - Why a human family was on a Vuqtai settlement — load-bearing for Alistair/Roan reveal
@@ -56,6 +58,3 @@ RUBRIC
 - Shaye Turning Point reconciliation — data signature beat same event as initial capture attempt, or separate?
   - → full character pass needed; file currently unreconciled
 
-## Planned Theory Work
-- Story beats → wound model mapping: watch plotting video series, then cross-map each beat to [[wound-model-thesis]]
-  - beats in order: hook | inciting incident | build-up | first plot point | first pinch point | pre-midpoint reactionary hero | game-changing midpoint | post-midpoint action hero | second pinch point | supposed victory (optional) | disaster | dark moment | aha moment | climactic confrontation | victory | resolution

@@ -58,6 +58,18 @@ mechanism: ✓ → Beats/09_second_pinch_point.md (reader+protagonist hybrid bea
 
 ## ACT 3
 
+## ACT 3 — PATH SELECTOR
+  STANDARD PATH ("stripped of the lie"): exogenous destruction; mechanism broken by accumulated self-caused events
+    Supposed Victory (optional) → Disaster → Dark Moment → Aha → [[Beats/10_disaster_dark_moment]]
+  TEMPTATION PATH ("found something truer"): endogenous dissolution; mechanism eroded as abstract desire grows real
+    Temptation → Aha (Supposed Victory / Disaster / Dark Moment do not apply) → [[Beats/10b_temptation]]
+  selection criterion: does transformation arrive through catastrophic stripping or through finding something genuinely better?
+
+## TEMPTATION — Alternative to Disaster + Dark Moment (Temptation path only)
+state: mechanism endogenously dissolved; abstract desire semi-legible; offered exact goal-object (crystallized at II); double discovery (resentment gone + desire deflated); voluntary irreversibility; Temptation dwell as Aha precondition; no value floor; complex bittersweet charge; co-transformation reader mechanic
+mechanism: ✓ → Beats/10b_temptation.md (endogenous dissolution; resentment-fading; double discovery; voluntary irreversibility; co-transformation; relational integrity collapse; goal-object requirement; Hero's Journey disambiguation; failure modes)
+note: Climax may collapse with turning-down if staged at maximum external pressure → [[Beats/12_climactic_confrontation]]
+
 ## SUPPOSED VICTORY (optional) — False Confidence
 state: misbelief at maximum commitment; protagonist believes they've proven the misbelief true; most certain = most exposed
 mechanism: ✓ → Beats/10_disaster_dark_moment.md (maximum misbelief commitment; calibration demand; execution risk)
@@ -73,7 +85,7 @@ mechanism: ✓ → Beats/10_disaster_dark_moment.md (forced confrontation not ju
 ## AHA MOMENT — Revelation
 state: misbelief recognized and dissolved (amplification structure gone — not the fear itself); abstract desire fully legible ("good worth fighting for" finally visible); wound-constructed identity seen through; protagonist chooses to act through remaining fear; internal war won; new story forms; first truth-driven decision possible
 mechanism: ✓ → Beats/11_aha_moment.md (three-shift structure: cognitive + epistemic + volitional; identity layer; self-revelation: psychological + moral required; author-truth selection criterion; one person diagnostic; value floor reversal; sympathy: vindication/hope; relational: reconciliation/opening; failure modes: deus ex machina + surprise depleted + psychological only + emotional uplift only + generic truth + premature)
-alt path: TEMPTATION-AHA — everything goes right instead; protagonist turns down misbelief-based prize
+alt path: TEMPTATION-AHA — see PATH SELECTOR above → Beats/10b_temptation.md
 xref: negative arc variant → plot-structure-outlining.md (protagonist forms new story that misbelief IS truth — active commitment, not failure to escape)
 
 ## CLIMACTIC CONFRONTATION — External Proof of Internal Change

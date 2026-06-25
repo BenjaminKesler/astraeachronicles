@@ -23,6 +23,11 @@ state: misbelief recognized and dissolved (cognitive amplification structure gon
       always co-produced with fear at wound formation; misbelief was obscuring it, not replacing it
       abstract desire chain completes: Hook (incongruity leak) → II/Build-up (subterranean) → FPP (opaque) → Disaster (obstruction stripped) → Aha (fully legible)
       → [[Beats/01_hook]] Hauge nuance (chain origin); [[wound-model-thesis]] Part 4
+    TEMPTATION PATH VARIANT — THREE-SHIFT SEQUENCE INVERTED:
+      standard path sequence: cognitive → epistemic → volitional
+      temptation path: epistemic already partially complete (abstract desire was progressively surfacing across Acts 2-3) → VOLITIONAL ACT occurs at Temptation beat (turning down the goal-object) → COGNITIVE crystallization arrives as the pull breaks: "the desire is gone; the amplification was the wound's — not mine"
+      the cognitive shift is not "my misbelief was wrong" but "the pull just broke — and that reveals the amplification has already dissolved"
+      → [[Beats/10b_temptation]] two-beat structure; dwell time requirement
     VOLITIONAL: protagonist chooses to act through remaining fear — courage as act of will, not absence of fear
       old story (misbelief) required fear to be managed; new story holds fear AND action simultaneously
       forming the new story IS the act of courage — cognitive restructuring and bravery are the same event (Cron)
@@ -74,6 +79,7 @@ state: genre validating (consistency check), not constitutive
     Aha = first positive charge shift in Act 3; structural reversal that makes the Climax possible
     without this shift: Climax has no internal foundation; external action cannot prove a transformation that hasn't happened
   → [[Beats/10_disaster_dark_moment]] value charge shift (floor established and held through Dark Moment)
+  TEMPTATION PATH FORK: no floor in the Temptation path; Aha charge is not "first reversal from the most negative" but "cognitive crystallization of what has been building positively since midpoint"; complex bittersweet charge at Temptation converts to clear positive at Aha → [[Beats/10b_temptation]] value chain
 
 ---
 
@@ -98,6 +104,10 @@ function: RECONCILIATION/OPENING — protagonist can see wound-driven relational
   wound-protective relational patterns recognized as wrong solutions; character can now engage without routing through the mechanism
   relational repair doesn't complete here — it opens at Aha, executes through Climax and Resolution
   → [[Beats/10_disaster_dark_moment]] relational layer (moral reckoning this beat follows from)
+  TEMPTATION PATH FORK — RELATIONAL COLLAPSE:
+    standard path: moral reckoning at Disaster (backward-facing) + reconciliation/opening at Aha (forward-facing) = two distinct beats
+    temptation path: both collapse into the Temptation/Aha unit; the refusal IS the act of relational integrity that simultaneously acknowledges cost and opens genuine engagement
+    the relationship that grew during abstract desire surfacing is typically what the refusal protects
 
   CALIBRATION
     subtext principle may relax slightly — one of the few beats where internal shift can surface more directly
@@ -144,7 +154,8 @@ DESIGN REQUIREMENTS
     → [[scene-earning]] distribution principle; [[Beats/12_climactic_confrontation]] dual-battle structure
 
   POSITION INHERITANCE
-    from Dark Moment: mechanism stripped; misbelief-as-refuge gone; protagonist in most unfamiliar state; abstract desire obstruction removed but not yet legible; three-beat unit ready for resolution; relational moral reckoning begun
+    STANDARD PATH — from Dark Moment: mechanism stripped; misbelief-as-refuge gone; protagonist in most unfamiliar state; abstract desire obstruction removed but not yet legible; three-beat unit ready for resolution; relational moral reckoning begun
+    TEMPTATION PATH — from Temptation beat: pull felt and grappled with; Temptation dwell complete (precondition); volitional act (turn-down) has occurred; double discovery in process (resentment gone + desire deflated); voluntary irreversibility enacted; abstract desire semi-legible; cognitive crystallization arriving as pull breaks → [[Beats/10b_temptation]] two-beat structure
     from Disaster: self-causer chain complete; kryptonite exposed; both fear layers hit simultaneously; "while still avoiding fear" finally and completely disproved; comfort zone loop closing
     from FPP: abstract desire chain (opaque values revelation → fully legible here); "while still avoiding fear" — committed there, disproved at Disaster, transcended here
     from Hook: abstract desire incongruity leak (Hauge) — chain origin; comfort zone made real at Hook, violated at Disaster, echoed at Aha (protagonist sees what they were always reaching for)

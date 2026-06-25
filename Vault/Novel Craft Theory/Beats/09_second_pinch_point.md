@@ -44,6 +44,11 @@ state: protagonist feels first enclosure; overcompensation responds with harder 
 
   abstract desire: still subterranean; no approach toward aha moment territory
 
+  TEMPTATION PATH FORK — SECOND PP FUNCTION:
+    standard path: felt enclosure; harder doubling down; mechanism visibly strained; board set for final all-in commitment toward Disaster; abstract desire still subterranean
+    temptation path: abstract desire has grown nearly equal to surface desire; mechanism progressively irrelevant (not strained under pressure — eroded from within); resentment about goal-object now significantly faded; felt enclosure absent or minimal; board being set for the Temptation offer, not for final all-in toward Disaster
+    → [[Beats/10b_temptation]] endogenous dissolution; position inheritance
+
 ---
 
 GENRE LAYER

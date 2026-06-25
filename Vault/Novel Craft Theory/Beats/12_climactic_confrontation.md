@@ -124,6 +124,13 @@ DESIGN REQUIREMENTS
     → [[Beats/11_aha_moment]] author-truth selection criterion (upstream constraint)
     → [[Beats/13_victory]] two emotional registers; sacrifice requirement
 
+  TEMPTATION PATH CLIMAX OPTION:
+    the turning-down of the goal-object CAN function as the Climax if staged under maximum external pressure
+    minimum requirements: refusal is the story's highest-stakes external confrontation; protagonist acts against old wound-driven identity consequentially; visible to characters who matter; refusal at these stakes = acting from dissolved-misbelief state under max pressure — proof function fires
+    if refusal happens in low-stakes circumstances: Aha function only; Climax still owed as a separate beat
+    Roman Holiday model: private decision (Aha) → public press conference refusal (Climax) — confirm these are distinct beats in your design
+    → [[Beats/10b_temptation]] climax design note
+
   POSITION INHERITANCE
     from Aha Moment: dissolved misbelief; three-shift structure complete (all three required); abstract desire fully legible; first truth-driven decision possible; reconciliation/opening initiated; first positive value swing in Act 3; fear remains but no longer controls
     from Disaster + Dark Moment: kryptonite exposed; dominant mechanism broken; self-causer chain complete; value floor established; whiff of death (irrevocable loss — climax must not undo); moral reckoning begun

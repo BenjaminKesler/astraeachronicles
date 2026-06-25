@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Novel Craft Theory/Beats/_process.md",
+                "file": "Novel Craft Theory/story-beats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_process"
+              "title": "story-beats"
             }
           }
         ],
@@ -183,29 +183,29 @@
   },
   "active": "56645838df8dda90",
   "lastOpenFiles": [
+    "Novel Craft Theory/Beats/10b_temptation.md",
+    "Novel Craft Theory/Beats/_process.md",
+    "01_open_items.md.tmp.23180.a15375c6a3a2",
+    "01_open_items.md.tmp.23180.538e36f4909e",
+    "Novel Craft Theory/story-beats.md.tmp.23180.a72682033018",
+    "Novel Craft Theory/story-beats.md.tmp.23180.49fe44f37858",
+    "Novel Craft Theory/Beats/08_post_midpoint_action_hero.md.tmp.23180.7cfde7a2b630",
+    "Novel Craft Theory/Beats/07_game_changing_midpoint.md.tmp.23180.c224ce32c0f5",
+    "Novel Craft Theory/Beats/02_inciting_incident.md.tmp.23180.23f30e867f23",
     "Novel Craft Theory/Beats/01_hook.md.tmp.31624.ef9c1e3c6e2a",
     "Novel Craft Theory/Beats/14_resolution.md",
     "Novel Craft Theory/Beats/12_climactic_confrontation.md",
     "Novel Craft Theory/Beats/13_victory.md",
-    "Novel Craft Theory/Beats/_process.md",
     "Novel Craft Theory/Beats/11_aha_moment.md",
     "desktop.ini",
     "CLAUDE.md",
     "Characters/0_Main/Alistair Bram Verhayen.md",
     "_claude-memory/vector1_session_log.md.tmp.32884.e87d035e867d",
-    "Novel Craft Theory/plot-structure-outlining.md.tmp.32884.a261bc992716",
-    "Novel Craft Theory/story-beats.md.tmp.32884.f6ca277e2f9d",
-    "Novel Craft Theory/Beats/09_second_pinch_point.md.tmp.32884.6a0bc03a4c7c",
-    "Novel Craft Theory/Beats/01_hook.md.tmp.32884.1bdb5652973d",
     "Novel Craft Theory/Beats/10_disaster_dark_moment.md",
-    "Novel Craft Theory/Beats/10_disaster_dark_moment.md.tmp.32884.793f1334a8c5",
     "Novel Craft Theory/_instructions.md",
     "Novel Craft Theory/story-beats.md",
     "Novel Craft Theory/plot-structure-outlining.md",
-    "_claude-memory/MEMORY.md.tmp.30688.bd7119505589",
     "_claude-memory/reference_memory_folder.md",
-    "_claude-memory/reference_memory_folder.md.tmp.30688.00b54bad4c27",
-    "_claude-memory/MEMORY.md.tmp.30688.bcc7858acabd",
     "_claude-memory/feedback_file_size.md",
     "02_craft_sparks.md",
     "_claude-memory/vector1_onboarding.md",
@@ -218,7 +218,6 @@
     "Novel Craft Theory/enneagram_type_1.md",
     "Novel Craft Theory/Beats/09_second_pinch_point.md",
     "Novel Craft Theory/Beats/08_post_midpoint_action_hero.md",
-    "Novel Craft Theory/Beats/01_hook.md",
     "Images/Characters/Alistair_Portrait.jpg"
   ]
 }

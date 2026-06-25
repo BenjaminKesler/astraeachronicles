@@ -39,6 +39,11 @@ state: misbelief disrupted at plan level; wound-safe route selected at FPP termi
 
   abstract desire: still subterranean; GCM does not approach aha moment territory
 
+  TEMPTATION PATH FORK — MIDPOINT FUNCTION:
+    standard path: misbelief INTENSIFIES; protagonist doubles down harder; Doorway #2 = wound-safe route terminated; abstract desire remains subterranean
+    temptation path: abstract desire FIRST CONSCIOUSLY FELT here; surface desire's grip weakens for the first time; Doorway #2 = protagonist can no longer pretend they don't want something different (irreversibility runs toward the abstract desire, not away from the wound-safe route); misbelief does not intensify — it begins eroding
+    → [[Beats/10b_temptation]] endogenous dissolution; position inheritance
+
 ---
 
 GENRE LAYER
