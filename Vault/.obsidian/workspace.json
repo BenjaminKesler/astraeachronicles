@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4f69af0202c9524f",
+        "id": "d677671ca68a361f",
         "type": "tabs",
         "children": [
           {
-            "id": "b19d039926b89a50",
+            "id": "c80e5ea32df09fb8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Publishing/_instructions.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "_instructions"
+              "title": "New tab"
             }
           }
         ],
@@ -181,8 +177,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "b19d039926b89a50",
+  "active": "c80e5ea32df09fb8",
   "lastOpenFiles": [
+    "_execution_plan.md.tmp.22436.c17c5a600175",
+    "_execution_plan.md.tmp.22436.624f0e61c462",
+    "_execution_plan.md.tmp.22436.98eaad68b89e",
+    "_execution_plan.md.tmp.22436.8b0fbcef445b",
+    "_execution_plan.md",
+    "Publishing/_instructions.md",
     "_guidance_inventory.md.tmp.8340.aaa226cdf174",
     "_guidance_inventory.md",
     "_guidance_inventory.md.tmp.8340.38b5153e4202",
@@ -192,10 +194,6 @@
     "_guidance_inventory.md.tmp.8340.af8fcf0dbe20",
     "_guidance_inventory.md.tmp.8340.95df9f1560ca",
     "CLAUDE.md",
-    "_guidance_inventory.md.tmp.8340.1cb2a589e40c",
-    "_guidance_inventory.md.tmp.8340.08b9d74d0b71",
-    "_guidance_inventory.md.tmp.23508.52b600bd5d73",
-    "_guidance_inventory.md.tmp.23508.fafb2f6831c7",
     "_vault_architecture.md",
     "01_open_items.md",
     "Novel Craft Theory/arc-architecture.md",
@@ -217,8 +215,6 @@
     "Characters/0_Main/Alistair Bram Verhayen.md",
     "Novel Craft Theory/plot-structure-outlining.md",
     "_claude-memory/reference_memory_folder.md",
-    "_claude-memory/feedback_file_size.md",
-    "02_craft_sparks.md",
     "Images/Characters/Alistair_Portrait.jpg"
   ]
 }
