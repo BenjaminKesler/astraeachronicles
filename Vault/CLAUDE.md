@@ -43,9 +43,11 @@ Your role: collaboration partner, not co-author. Don't write prose, scenes, or p
 - **`01_open_items.md`** — Claude's private working tracker for unsettled story and world questions; update proactively during conversations (add, edit, remove as questions surface or resolve); give user a brief notice when updated; AI-optimized format, not human-readable
 - **`02_craft_sparks.md`** — parking lot for moments when a craft video topic sparks a thought about existing story content; held loosely, no obligation to act; either collaborator can flag an entry; human-readable, low-structure
 - **`CLAUDE.md`** — instructions to Claude Code; collaboration rules and file index
+- **`_vault_architecture.md`** — knowledge-management operating system: the four load tiers (T0 orientation → T3 cold), non-uniform compression, content→knowledge pointer rules, single-source+reference; owns the TIER axis; pairs with `Methodology/domain_structure.md`
 
 ### Methodology/ — process documentation governing how we develop the series; distinct from craft theory (which is knowledge) — this is workflow; **skeleton only until craft video revalidation is complete**
 - **`Methodology/snowflake_methodology.md`** — custom iterative development methodology; step/pass/stage terminology; Development Loop (iterative, stage-based) and Execution Pipeline (sequential, novel-staggered); all detail TBD pending revalidation
+- **`Methodology/domain_structure.md`** — the vault's filing bands (Knowledge / Series Canon / Novels / Meta) derived from the methodology's steps; characters as a hub-and-spoke join entity; owns the DOMAIN axis; pairs with `_vault_architecture.md`; front half of the pending revalidation
 
 ### Encyclopedia/ — human-readable worldbuilding reference for the novel series; prioritize clear structure, scannable layout, and logical section grouping — thorough but never a wall of text; every section should have an obvious reason to be where it is
 - **`Encyclopedia/astraea_ship.md`** — full construction and concealment detail for The Astraea: why built in secret, fuel source, Aeliria tech bridge, layered knowledge among participants, Silas's role, Tal'Sha involvement
@@ -82,6 +84,7 @@ Your role: collaboration partner, not co-author. Don't write prose, scenes, or p
 - **`Novel Craft Theory/internal-conflict.md`** — wound structure model: co-produced fear + abstract desire, misbelief dual function (fear management + translation), active refuge mechanism, two-tension-track surface layer, story beat mapping, arc chain
 - **`Novel Craft Theory/universal-diagnostics.md`** — cross-arc diagnostics that apply at every beat: swappability test, mirror neurons vs. identification, "me vs. them" test, foreseeability cycle, character lens audit
 - **`Novel Craft Theory/plot-structure-outlining.md`** — Act 2B misbelief-steered plan, Act 3 disaster/dark moment mechanics (self-causer, kryptonite, supposed victory), negative arc structure
+- **`Novel Craft Theory/arc-architecture.md`** — canonical character-arc coordinate model: two axes (Arc Architecture = Stripping/Temptation; Arc Conclusion = 2×2 internal×external), the 5 named arcs (Vindication, Elegy, Damnation, Tragedy, Serenity), sympathy-inversion modifier, divergence map; single source of truth — beat files reference here
 - **`Novel Craft Theory/story-beats.md`** — beat-by-beat skeleton for Abbie's 3-act structure (12-video series); one stub per beat with misbelief state markers; fills in as videos complete; gaps flagged for external sourcing
 - **`Novel Craft Theory/scene-cards.md`** — scene card framework skeleton (pending dedicated video): four-slot structure, realization micro-shift, "and so..." cause-effect diagnostic
 - **`Novel Craft Theory/subplots.md`** — subplot mechanics: CRAI tracking method, anticipation mechanic (reader background thread), protagonist-as-yardstick with villain exception, floor/bonus framework, ensemble yardstick extension
