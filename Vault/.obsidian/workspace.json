@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_guidance_inventory.md",
+                "file": "Publishing/_instructions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_guidance_inventory"
+              "title": "_instructions"
             }
           }
         ],
@@ -183,20 +183,20 @@
   },
   "active": "b19d039926b89a50",
   "lastOpenFiles": [
+    "_guidance_inventory.md.tmp.8340.aaa226cdf174",
+    "_guidance_inventory.md",
+    "_guidance_inventory.md.tmp.8340.38b5153e4202",
+    "_guidance_inventory.md.tmp.8340.7047ff26010a",
+    "_guidance_inventory.md.tmp.8340.82c4ddd90b0f",
+    "_guidance_inventory.md.tmp.8340.5d812bb6be2e",
+    "_guidance_inventory.md.tmp.8340.af8fcf0dbe20",
     "_guidance_inventory.md.tmp.8340.95df9f1560ca",
     "CLAUDE.md",
     "_guidance_inventory.md.tmp.8340.1cb2a589e40c",
     "_guidance_inventory.md.tmp.8340.08b9d74d0b71",
-    "_guidance_inventory.md",
     "_guidance_inventory.md.tmp.23508.52b600bd5d73",
     "_guidance_inventory.md.tmp.23508.fafb2f6831c7",
-    "_guidance_inventory.md.tmp.23508.ace8ca808d9c",
-    "_guidance_inventory.md.tmp.23508.ee964c5fc6ac",
-    "_guidance_inventory.md.tmp.23508.a78005d56359",
     "_vault_architecture.md",
-    "_guidance_inventory.md.tmp.23508.b44c381e87df",
-    "_guidance_inventory.md.tmp.23508.88d711dc6938",
-    "_guidance_inventory.md.tmp.23508.c2aec650f5fc",
     "01_open_items.md",
     "Novel Craft Theory/arc-architecture.md",
     "Methodology/domain_structure.md",
