@@ -1,5 +1,7 @@
 # Execution Plan — WORKING / TEMPORARY
 
+> **✅ LAYER B COMPLETE & VERIFIED — 2026-06-26.** The physical band restructure (waves B1–B5) is executed *and* independently re-audited clean — references, content-consistency, and gap-check all pass (see Wave B5). **The only remaining work is the M2 revalidation bundle** — inner-band subfolders, parked-file migration, and retiring these two artifacts — gated on the full Abbie Emmons video queue being ingested. That is the final part; this file stays alive until then.
+
 > **Status:** transition artifact for the guidance-reorg execution phase. Not canon. **Retire at the methodology-revalidation milestone (M2)** — trigger: Abbie ingestion queue clears → SM-04 unfreeze. The inner-band restructure is the *last consumer* of this file's content (the Deferral Manifest). Do NOT retire at Layer A *or* Layer B close.
 > **Source of decisions:** `_guidance_inventory.md` (D1–D15). This file holds the *sequencing + status*; the inventory holds the *rulings*. When they touch the same unit, the inventory is authoritative on *what*, this file on *when*.
 > **Scope:** **Layer A only** — content rewrites, in place. No folder moves. The physical band restructure is **Layer B**, deferred (see manifest at bottom).
@@ -192,6 +194,13 @@
 - [x] Full sweep ✅: change-set coherent (53 renames, **0 deletions** — no content dropped); all 31 distinct wikilink targets resolve to existing files (incl. path-qualified `[[Beats/…]]`); CLAUDE.md + `.claude/` locations unchanged (harness pins intact). Caught + fixed one pre-existing inconsistency: `[[story-beats.md]]` → `[[story-beats]]`.
 - [x] Single Layer B commit — ✅ **Layer B executed 2026-06-26 (waves B1–B5).** The vault is physically restructured into Knowledge / Series Canon / Novels / Meta(=root). Remaining = the **M2 revalidation bundle** (inner-band subfolders, parked-file migration, artifact retirement) — gated on the full Abbie Emmons video queue clearing.
 - **Gate:** clean audit; committed. **Artifacts are NOT retired here** — see the revalidation bundle.
+
+**Post-restructure verification — 2026-06-26 (independent pass, beyond the in-flight wave checks):**
+- **References (5 types) — all clean:** wikilinks (31 distinct targets resolve, incl. path-qualified `[[Beats/…]]`); prose folder-paths (every hit Knowledge-prefixed / band-doc relative / artifact doc); markdown links (none exist — wikilink-only vault); memory→vault refs (none stale); image/binary refs (none).
+- **Content-edit integrity — no new conflicts:** the north_star CM-02 merge reads coherently (no duplication/contradiction); `domain_structure`'s 6 edits cohere; the **three structure-describers** (CLAUDE.md map · `domain_structure` THE BANDS · band-docs) are mutually consistent; the map matches reality (every named folder/file exists).
+- **Gap-check — nothing dropped:** all 8 deferred-manifest ops accounted for; both Layer A interim seams (interim file-index skeleton; CM-02 in CLAUDE.md) now *resolved* by Layer B; M1/M2 correctly deferred.
+- **Result: zero broken refs · zero new conflicts · zero dropped items.** Two pre-existing non-defects noted only for transparency: `_instructions` ×2 basename (by-design folder-doc convention, never bare-wikilinked); one memory file softly references `[[_vault_architecture]]` by vault basename (resolves; that file never moved).
+- **Validated the core bet:** the name-based-wikilink guardrail from Layer A held — every pointer wired by name survived the physical moves. **Layer B is closed; the next and final part is M2, after the remaining videos are ingested.**
 
 ## Deferred to the methodology-revalidation milestone (M2)  *(trigger: Abbie ingestion queue clears → SM-04 unfreeze)*
 
