@@ -28,3 +28,14 @@ Full-time job is IT Server Administrator. The dream is to quit that job and writ
 
 ## Worked Examples
 - *Productive stuck:* the wound-model-thesis session — looped until it yielded more than the source material. The idea was actually there, just unformed; more pulling was the right move.
+
+## Origin: Inspiration Without Structure
+Started his first novel on pure inspiration — opened MS Word and typed, reached chapter 4 with inspiration spent and no idea where to go. This is why the methodology commitment is real and personal. The structure is protection for the creative work, not a constraint on it. *(Demoted from core Blindspots 2026-06-27: the commitment is settled and the risk no longer manifests session-to-session; kept here as the load-bearing "why" behind the methodology.)*
+
+## Behavioral Patterns
+
+**Continuity-engineering for future-self.** Distinct from completion drive: he optimizes not just for finishing but for a cold future session resuming without loss. Reaches for durable artifacts unprompted — breadcrumb trails, dated banners, explicit done-vs-gated boundaries — and is meticulous about labeling what's *closed* vs. what's *deferred on a trigger*. When work spans a seam, leaving the trail legible matters to him as much as the work itself.
+
+**He reaches for the stress-test, not just tolerates it.** Beyond "okay being wrong if heard first": he actively invites dissent ("do you have a different perspective?"), brings brainstorms expecting them to be tested, and asks for the cop-out to be named. The judgment-free-workshop atmosphere is something he uses deliberately — withholding critique to be agreeable reads as a failure to engage, not as kindness.
+
+**Execution/admin sessions = precise delegation, not blanket trust.** These run fast — tight agenda, decisions land quickly, little extended dialogue — but the speed is targeted, not a lowered bar. He stays in low-friction approve-and-proceed mode on mechanical steps (especially when a verification scaffold he designed is doing the reassuring) and reserves real engagement for the load-bearing judgment forks. Don't read the fast cadence as disengagement; his attention is reserved, not absent.
