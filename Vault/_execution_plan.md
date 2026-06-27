@@ -1,6 +1,6 @@
 # Execution Plan — WORKING / TEMPORARY
 
-> **Status:** transition artifact for the guidance-reorg execution phase. Not canon. **Retire after Layer B lands** — this file holds the Layer B Deferral Manifest + the deferral re-files Layer B needs; do NOT retire at Layer A close.
+> **Status:** transition artifact for the guidance-reorg execution phase. Not canon. **Retire at the methodology-revalidation milestone (M2)** — trigger: Abbie ingestion queue clears → SM-04 unfreeze. The inner-band restructure is the *last consumer* of this file's content (the Deferral Manifest). Do NOT retire at Layer A *or* Layer B close.
 > **Source of decisions:** `_guidance_inventory.md` (D1–D15). This file holds the *sequencing + status*; the inventory holds the *rulings*. When they touch the same unit, the inventory is authoritative on *what*, this file on *when*.
 > **Scope:** **Layer A only** — content rewrites, in place. No folder moves. The physical band restructure is **Layer B**, deferred (see manifest at bottom).
 > **Checkbox legend:** `[ ]` not started · `[~]` in progress · `[x]` done.
@@ -91,7 +91,7 @@
 
 - [ ] Final consistency sweep (every dropped unit gone; every pointer resolves; no orphaned references)
 - [ ] Session-close commit (the single Layer A commit)
-- [~] ~~Retire `_guidance_inventory.md` and this `_execution_plan.md`~~ — **DEFERRED to post-Layer B.** Both hold context Layer B needs: the inventory's Forward-work + decision rationale, and this file's **Layer B Deferral Manifest** (retiring it now would delete the breadcrumb built for Layer B). Retire after Layer B lands.
+- [~] ~~Retire `_guidance_inventory.md` and this `_execution_plan.md`~~ — **DEFERRED past Layer B to the revalidation milestone (M2).** Both hold context that survives Layer B and is consumed by the inner-band restructure (the inventory's Forward-work + decision rationale; this file's Deferral Manifest). Retiring at M2 — not Layer B close — avoids a risky "rehome the forward-context then delete" step: the artifacts simply live in original form until their last reader. See the Layer B Execution Sequence → *Deferred to the revalidation milestone*.
 
 ---
 
@@ -107,12 +107,13 @@
 5. Rebuild the file-index T0 skeleton from current-folders → band-regions. *(Layer A's skeleton is interim.)*
 6. Within each band, loose-file the frozen-inner content + manifest — no Premise / Series-Arc / Novel-Anchors subfolders until the methodology unfreezes.
 7. **DS-04 prune** — delete the STATUS/DEFERRED block in `domain_structure` once the band folders exist and files are moved (its own condition: "delete once the reorg lands"). *Re-filed here from Wave 2 during execution — the note is still true until Layer B.*
-8. **Retire the working artifacts** — archive/delete `_guidance_inventory.md` and `_execution_plan.md` after Layer B lands. *Re-filed from Wave 5: both hold Layer-B-relevant context (Forward-work, decision rationale, and this file's Deferral Manifest).*
+8. **Retire the working artifacts** — archive/delete `_guidance_inventory.md` and `_execution_plan.md`. **Moved OUT of Layer B → the revalidation milestone (M2)** (user call): M2's inner-band restructure is the last consumer of their content, so they live untouched until then. No longer a Layer B op — see the Execution Sequence's revalidation bundle.
 
-**Open questions to resolve at Layer B:**
-- Publishing's band (Knowledge vs. Meta?)
-- north_star's band (D7 leans Series Canon T1 content + a T0 authority-pointer)
-- the inner-band loose-file + manifest format
+**Open questions to resolve at Layer B — ✅ ALL RESOLVED** (see the Layer B Execution Sequence below):
+- ~~Publishing's band~~ → **Knowledge** (kind/change-trigger: reusable series-agnostic reference, maintained like Novel Craft Theory; *not* timing).
+- ~~north_star's band~~ → **Series Canon** (band content anchor, T1; the supremacy *pointer* stays in CLAUDE.md's Meta T0 skeleton; hand-verify that pointer at move-time).
+- ~~inner-band loose-file + manifest format~~ → a **Series Canon band-doc** with a central `## Deferred inner structure` ledger (a DS-04-class transient note, retired at M2; central not frontmatter — deferral bookkeeping isn't navigation, so D14 doesn't govern).
+- *Plus resolved during sequencing:* **Meta = root** (no `Meta/` folder — CLAUDE.md + `.claude/` are harness-pinned to root); **`Images/Characters/` → Series Canon** (art supporting character/encyclopedia text).
 
 **Layer A interim seams (placeholders Layer B revisits):**
 - the file-index skeleton (built against current folders)
@@ -123,3 +124,69 @@
 **Cross-links:**
 - the Series Canon tiering pass (Forward work in the inventory — content T-levels; complements the physical move)
 - the methodology revalidation (unfreezes the inner bands)
+
+---
+
+# Layer B — Execution Sequence  *(planned; not started)*
+
+> Operationalizes the Deferral Manifest above into ordered waves. The manifest holds the *why*; this section holds the *how + when*. Same discipline as Layer A: decide the whole shape on paper, move nothing until a wave's gate is green. Obey the governing name-link guardrail throughout.
+
+## Locked band map
+
+| Current location | → Band | Handling |
+|---|---|---|
+| `Novel Craft Theory/` | Knowledge | intact `git mv` |
+| `Publishing/` | Knowledge | intact `git mv` |
+| `Methodology/snowflake_methodology` | Knowledge | folder **SPLITS** ↓ (relocation ≠ edit; the freeze is respected) |
+| `Methodology/domain_structure` | Meta = root | OS spec — goes the *other* way; stays at root |
+| `Characters/` | Series Canon | intact `git mv` (hub-spoke, DS-03) |
+| `Encyclopedia/` | Series Canon | intact `git mv` |
+| `Images/Characters/` | Series Canon | series art supporting character/encyclopedia text |
+| `00_north_star` | Series Canon | band anchor (top of band); **HAND-VERIFY** the CLAUDE.md supremacy pointer |
+| CM-02 episodic structure (in CLAUDE.md) | Series Canon | extract → loose file + ledger entry |
+| `_vault_architecture`, `domain_structure`, `01_open_items`, `02_craft_sparks` | Meta = root | stay at root (Meta is the root band, not a folder) |
+| `CLAUDE.md`, `.claude/` | Meta = root (pinned) | harness-pinned; never move |
+| `_guidance_inventory`, `_execution_plan` | — | retire at M2 (see revalidation bundle) |
+
+> **Meta = root** — no `Meta/` folder is created. CLAUDE.md + `.claude/` are harness-pinned to root, so root *is* the Meta band. Only **three** new folders get created (Knowledge / Series Canon / Novels).
+> **`Methodology/` dissolves** — its two files split across bands; the empty folder is removed.
+
+## Waves
+
+### Wave B1 — Finalize the band map *(paper, no moves)*
+- [ ] Lock the band map above; confirm no file is unassigned or double-assigned
+- [ ] Snapshot current wikilinks as a baseline to diff against post-move
+- **Gate:** complete, conflict-free map.
+
+### Wave B2 — Scaffold the bands *(empty structure; no content moves)*
+- [ ] Create `Knowledge/`, `Series Canon/`, `Novels/`
+- [ ] Write the Series Canon band-doc with an empty `## Deferred inner structure` ledger (records the frozen Premise / Series-Arc / Novel-Anchors triad + the M2 unfreeze trigger)
+- [ ] Novels stub note (band exists, unbuilt)
+- **Gate:** empty scaffolding exists; Obsidian sees it.
+
+### Wave B3 — Migrate *(the breakage-prone wave — verify aggressively)*
+- [ ] `git mv` intact folders → bands (NCT, Publishing, snowflake → Knowledge; Characters, Encyclopedia, Images → Series Canon)
+- [ ] north_star → top of Series Canon; **hand-verify the CLAUDE.md supremacy pointer resolves** (highest-stakes pointer in the vault)
+- [ ] Extract CM-02 episodic structure from CLAUDE.md → loose file in Series Canon + ledger entry
+- [ ] Verify wikilinks resolve after each batch (incl. memory-system `[[ ]]` slug links + `.claude` command refs)
+- **Gate:** all content homed; every link resolves.
+
+### Wave B4 — Re-map + prune
+- [ ] Rebuild CLAUDE.md's folder-map skeleton → band-regions (manifest item 5)
+- [ ] Prune DS-04's STATUS/DEFERRED block — its "once the reorg lands" condition is now met (manifest item 7)
+- [ ] Update the navigation note / map lines to the new structure
+- **Gate:** the map matches the new territory.
+
+### Wave B5 — Audit + commit
+- [ ] Full sweep: every wikilink resolves; CLAUDE.md + commands still load (harness pins intact); no orphaned references
+- [ ] Single Layer B commit
+- **Gate:** clean audit; committed. **Artifacts are NOT retired here** — see the revalidation bundle.
+
+## Deferred to the methodology-revalidation milestone (M2)  *(trigger: Abbie ingestion queue clears → SM-04 unfreeze)*
+
+Bundled because the inner-band restructure is the *last consumer* of the working artifacts:
+1. Build the inner-band subfolders (Premise / Series-Arc / Novel-Anchors) once the methodology validates them.
+2. Migrate the parked loose files (from the Series Canon ledger) into their validated inner homes.
+3. **Retire `_guidance_inventory.md` + `_execution_plan.md`** — their last live content (the inner-band manifest) is now spent.
+
+> *Separate, earlier trigger (M1 — "after the Meta reorg lands"):* the **Series Canon tiering pass** (content T-levels, incl. VT-05 true-evacuation) may run before M2; it does **not** require artifact retirement.
