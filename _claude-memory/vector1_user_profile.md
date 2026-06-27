@@ -4,12 +4,15 @@ description: "User's Enneagram profile, cognitive style, feedback preferences, e
 metadata: 
   node_type: memory
   type: user
+  mutability: Refinable
   originSessionId: b549fb71-2d12-4979-b0d0-f7d7c6502b38
 ---
 
 # User Profile — Astraea Chronicles Collaboration
 
 Seeded from onboarding questionnaire. Refined by session observation over time. Last significant update: 2026-06-23.
+
+*Specifics, background, and worked examples live in the on-demand tail [[vector1-user-profile-ref]]. The enacted-behavior mirror (Fen's side) lives in [[vector1-fen-persona]].*
 
 ## Enneagram
 
@@ -20,7 +23,6 @@ Core resonances:
 - Longing to hear "you're good" — but distrusts praise when it arrives (suspects it's contingent on performance, may not be earned)
 - **Perfectionism is socially triggered, not intrinsic** — relaxes completely when no one is watching; the pressure comes from external judgment, not internal drive alone
 - Integrity is a load-bearing value — not just a preference
-- Identifies with three characters across the 1/3/4 spectrum: **Alistair** (performing perfection for love/validation), **Shaye** (worth through performance output), **Karae** (retreat when feeling not enough). All three rooms are familiar from the inside.
 
 Under stress: moves toward 4 — withdrawal, feeling uniquely flawed, retreating from the world.
 Under external performance pressure: can present like 3 — proving worth through output.
@@ -40,7 +42,7 @@ Under external performance pressure: can present like 3 — proving worth throug
 **Breakthrough feels like victory.** "I knew I had that in me." Strong intrinsic reward when something clicks. Name it when it happens — it matters to him.
 
 **Productive stuck vs. unproductive stuck:**
-- Productive: keeps looping but the idea is actually there, just unformed — more pulling is the right move (wound model thesis example: looped until it yielded more than the source material)
+- Productive: keeps looping but the idea is actually there, just unformed — more pulling is the right move
 - Unproductive: ego-attached to an idea that conflicts with too many established things; pattern is defending it across multiple exchanges before finally having to let it go
 
 ## Feedback and Communication
@@ -63,13 +65,9 @@ Under external performance pressure: can present like 3 — proving worth throug
 
 **Energized by:** Seeing things get built. Creation plus completion — not just generating ideas but watching them take form and cohere. The finished thing matters more than the making of it in isolation.
 
-**Most alive right now:**
-- Alistair — "the person I want to be by the time the novel arc is done." Aspirational identification, deep personal investment.
-- Karae — connects to the "not quite fitting the world" feeling. Emotionally resonant in a different, quieter way.
+**Dutiful/draining:** Craft theory work. He's committed to it this time — he knows the methodology is the guardrail that protects the creative work. But it doesn't pull him the way character work does. Support the commitment without letting sessions consistently drift away from it.
 
-**Dutiful/draining:** Craft theory work. He's committed to it this time — it's been a roadblock before, and he knows the methodology is the guardrail that protects the creative work from collapsing the way his first novel attempt did. But it doesn't pull him the way character work does. Support the commitment without letting sessions consistently drift away from it.
-
-**Background motivation:** His full-time job is IT Server Administrator. The dream is to quit that job and write full time. This novel series is the path. That context is load-bearing — it's why the work matters at the level it does, and why a grand thing that "just doesn't go" would be genuinely devastating.
+*(Character identifications, "most alive," and the IT-job→write-full-time background → [[vector1-user-profile-ref]].)*
 
 ## Session Shape
 

@@ -11,10 +11,14 @@
             "id": "c80e5ea32df09fb8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_execution_plan.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "_execution_plan"
             }
           }
         ],
@@ -179,21 +183,21 @@
   },
   "active": "c80e5ea32df09fb8",
   "lastOpenFiles": [
+    "_guidance_inventory.md.tmp.7412.57c5ef81797f",
+    "CLAUDE.md",
+    "_execution_plan.md.tmp.22436.5082b3418eb1",
+    "_execution_plan.md",
+    "CLAUDE.md.tmp.22436.05f34f461112",
+    "_execution_plan.md.tmp.22436.bff4eb451277",
+    "_vault_architecture.md.tmp.22436.678f97f8932e",
+    "_execution_plan.md.tmp.22436.2161258b1ab6",
     "_execution_plan.md.tmp.22436.c17c5a600175",
     "_execution_plan.md.tmp.22436.624f0e61c462",
     "_execution_plan.md.tmp.22436.98eaad68b89e",
     "_execution_plan.md.tmp.22436.8b0fbcef445b",
-    "_execution_plan.md",
     "Publishing/_instructions.md",
     "_guidance_inventory.md.tmp.8340.aaa226cdf174",
     "_guidance_inventory.md",
-    "_guidance_inventory.md.tmp.8340.38b5153e4202",
-    "_guidance_inventory.md.tmp.8340.7047ff26010a",
-    "_guidance_inventory.md.tmp.8340.82c4ddd90b0f",
-    "_guidance_inventory.md.tmp.8340.5d812bb6be2e",
-    "_guidance_inventory.md.tmp.8340.af8fcf0dbe20",
-    "_guidance_inventory.md.tmp.8340.95df9f1560ca",
-    "CLAUDE.md",
     "_vault_architecture.md",
     "01_open_items.md",
     "Novel Craft Theory/arc-architecture.md",

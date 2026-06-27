@@ -1,6 +1,6 @@
 # Execution Plan — WORKING / TEMPORARY
 
-> **Status:** transition artifact for the guidance-reorg execution phase. Not canon. Delete or archive once Layer A lands (wave 5).
+> **Status:** transition artifact for the guidance-reorg execution phase. Not canon. **Retire after Layer B lands** — this file holds the Layer B Deferral Manifest + the deferral re-files Layer B needs; do NOT retire at Layer A close.
 > **Source of decisions:** `_guidance_inventory.md` (D1–D15). This file holds the *sequencing + status*; the inventory holds the *rulings*. When they touch the same unit, the inventory is authoritative on *what*, this file on *when*.
 > **Scope:** **Layer A only** — content rewrites, in place. No folder moves. The physical band restructure is **Layer B**, deferred (see manifest at bottom).
 > **Checkbox legend:** `[ ]` not started · `[~]` in progress · `[x]` done.
@@ -16,77 +16,82 @@
 
 ## Wave 1 — Foundation  *(rename + Mutability; ripples widest, do first)*
 
-- [ ] Memory folder: rename `vector1_tier1_principles.md` → `vector1_protected_principles.md`
-- [ ] In that file: swap internal "Tier 1" protection-sense language → "Protected" (header already reads "Protected Collaboration Principles")
-- [ ] Update `MEMORY.md` index line (name + link)
-- [ ] Update every reference to the old name/term:
-  - [ ] CLAUDE.md Vector 1 loading line (CM-04)
-  - [ ] session-close skill ("Tier 1 drift" → "Protected-principle …")
-  - [ ] vector1-synthesis skill (VS-02 "do not modify tier1_principles")
-- [ ] Formalize the Mutability axis (Permanent · Protected · Refinable · Ephemeral) + one-line note in VA-01 (`_vault_architecture`) that a 3rd coordinate exists — sparse/optional, not retrofitted everywhere
-  - **OPEN (resolve at wave head):** where Mutability gets tagged — per-file header tag vs. one central note
+- [x] Memory folder: rename `vector1_tier1_principles.md` → `vector1_protected_principles.md` *(via git mv — history preserved)*
+- [x] In that file: swap internal "Tier 1" protection-sense language → "Protected" (header now "Protected Collaboration Principles"; `name:` slug + 5× "Why it's Protected"); added Mutability-class header note
+- [x] Update `MEMORY.md` index line (name + link)
+- [x] Update every reference to the old name/term:
+  - [x] CLAUDE.md Vector 1 loading line (CM-04 — filename only; 3-core rewrite deferred to wave 3)
+  - [x] session-close skill ("Tier 1 drift" → "Protected-principle …")
+  - [x] vector1-synthesis skill (5× term swaps + filename; VS-02 structural rewrite deferred to wave 3)
+- [x] Formalize the Mutability axis — **RESOLVED: per-file frontmatter tag (`metadata.mutability`); axis *definition* single-sourced in VA-01.** Note added to VA-01; tags applied: protected_principles=Protected · onboarding=Permanent · user_profile=Refinable · fen_persona=Refinable · session_log=Ephemeral
+
+**✅ WAVE 1 COMPLETE.** Verified: no live pointer to the old filename remains (only historical records in this plan, the inventory, and the session log). Two items intentionally left minimal for wave 3's structural rewrites: the CLAUDE.md load line (→ "3 cores") and VS-02 (→ Mutability rule).
 
 ---
 
 ## Wave 2 — Canonical homes settle
 
-- [ ] Split each identity file → lean T0 **core** + `_ref` **tail** (per D3: levers stay in core; rationale / examples / contrast table / sample jokes / per-principle "why" → tail):
-  - [ ] `vector1_user_profile.md` + `vector1_user_profile_ref.md`
-  - [ ] `vector1_fen_persona.md` + `vector1_fen_persona_ref.md`
-  - [ ] `vector1_protected_principles.md` + `vector1_protected_principles_ref.md`
-- [ ] Absorptions:
-  - [ ] VF-01 ← CM-03 active job-desc ("stress-test, flag contradictions, name plainly / don't quietly resolve")
-  - [ ] VF-04 ← CM-12 (proactive process flagging) + CM-13 (file-edit notice) + canonical dialogue behaviors
-  - [ ] VU-02 → trim to the user-needs half; cross-ref VF-04
-  - [ ] VT-05 ← CM-10's "internal lie" phrasing; relocate VT-05 → **T1** — must sit **physically outside the auto-loaded core** (in the tail / a story-grounding spot), not just be labeled, so it doesn't load at session start
-- [ ] OS spec:
-  - [ ] VA-04 absorbs the AU-01 reliance-gate spec
-  - [ ] DS-04 prune (ephemeral status note)
-  - [ ] author the canonical layout procedure into `domain_structure` (compiled how-to of DS-01 cohesion)
-  - [ ] **record the D15 light-template convention** alongside it: folder `_instructions` = purpose · what-to-save · construction + a layout pointer (so future folders stay consistent — applied to NI/PI, but written down here for the next folder)
-  - **OPEN (resolve at wave head):** physical home of the D2 T0 reliance-gate slogan (which hot-loaded file)
+- [x] Split each identity file → lean T0 **core** + `_ref` **tail** (per D3: levers stay in core; rationale / examples / contrast table / sample jokes / per-principle "why" → tail):
+  - [x] `vector1_user_profile.md` + `vector1_user_profile_ref.md` *(demoted: 1/3/4 char IDs, "most alive," IT-job background, worked examples; pointer added)*
+  - [x] `vector1_fen_persona.md` + `vector1_fen_persona_ref.md` *(demoted: 3 sample jokes, contrast table; pointers added)*
+  - [x] `vector1_protected_principles.md` + `vector1_protected_principles_ref.md` *(demoted: refinement governance + 5× "Why it's Protected"; core split into T0-universal + T1-domain sections)*
+  - [x] 3 new `_ref` files: memory frontmatter + matching mutability + MEMORY.md on-demand index entries
+- [x] Absorptions:
+  - [x] VF-01 ← CM-03 active job-desc ("The working job: stress-test, flag contradictions, name plainly / don't quietly resolve")
+  - [x] VF-04 ← CM-12 (proactive process flagging) + CM-13 (file-edit notice)
+  - [x] VU-02 → kept canonical user-needs; added cross-ref to VF-04 (no heavy trim needed — already need-framed)
+  - [x] VT-05 ← CM-10's "internal lie" phrasing; **staged** → moved to a marked "T1 — Domain-Scoped" section physically separate from the T0 core. *True evacuation (so it doesn't auto-load) deferred to the Series Canon tiering pass, when a story-grounding home exists. Noted in-file.*
+- [x] OS spec:
+  - [x] VA-04 absorbs the AU-01 reliance-gate spec (RELIANCE GATE block added to the RETRIEVAL section; notes the T0 slogan ships from CLAUDE.md)
+  - [~] ~~DS-04 prune~~ — **RE-FILED to Layer B.** Its own condition is "delete once the reorg lands"; the reorg is Layer B (still deferred), and the STATUS/DEFERRED block is currently *true*. Pruning now would erase live deferral info. Moved to the Layer B manifest.
+  - [x] authored the canonical LAYOUT PROCEDURE into `domain_structure` (single home; folder `_instructions` point here)
+  - [x] recorded the D15 light-template convention alongside it (FOLDER _INSTRUCTIONS — TEMPLATE CONVENTION block)
+  - **RESOLVED:** D2 T0 slogan home = **CLAUDE.md**, co-located with the nav section; *deployed in wave 4* (it's a T0 orientation instrument, not Vector-1 material). VA-04 holds the spec; the slogan ships later.
+
+**✅ WAVE 2 COMPLETE.** Identity files now lean T0 cores + on-demand `_ref` tails; absorptions folded; OS spec carries the reliance-gate spec + the layout procedure + template convention. Two deferrals logged: DS-04 prune → Layer B; VT-05 true-evacuation → Series Canon tiering pass. *Memory-file `[[ ]]` links use name-slugs (hyphens), per the memory-system convention — distinct from Obsidian basename links in the vault.*
 
 ---
 
 ## Wave 3 — Wiring  *(points at the wave-2 homes; obey the name-link guardrail)*
 
-- [ ] CLAUDE.md collaboration section:
-  - [ ] collapse → one consolidated principles-pointer + one explicit Soul line (VT-04)
-  - [ ] drop CM-03, CM-06, CM-07, CM-08, CM-09, CM-10, CM-12
-  - [ ] load ritual (CM-04) → "load the 3 cores; tails gated by the reliance gate"
-  - [ ] CM-14 → T0 north-star authority-pointer; CM-11 stays (T1 milestone)
-  - [ ] remove CM-13 (now in persona); keep CM-01, CM-05
-- [ ] Commands:
-  - [ ] IC-01 — de-hardcode `/tmp` → session scratchpad
-  - [ ] IC-02 → pointer to VF-04
-  - [ ] IC-03 → pointer to NI-02 (keep command-specific process: save mode, destination, source line)
-  - [ ] SC-01 → reliance-gate pointer to the routing rule + reference VT-02 detection (not restated)
-  - [ ] VS-01 → **hosts** the core/tail routing rule (D12, *which tier within a file*) **+ the D4 filing rule** (*which file* — Facts→profile · Principles→protected · Behaviors→persona · CLAUDE.md/commands→pointers) + reference VT-01 governance
-  - [ ] VS-02 → pointer to VT-01 + 1-line Mutability rule (Refinable w/ confirm · Protected tail-only · never Permanent); keep onboarding-permanent specific
-- [ ] Folder `_instructions`: NI-04 / PI-04 trim restatements → layout pointer to the `domain_structure` procedure
+- [x] CLAUDE.md collaboration section:
+  - [x] collapse → one consolidated principles-pointer + one explicit Soul line (VT-04) + "Your role" para collapsed to a pointer
+  - [x] drop CM-03, CM-06, CM-07, CM-08, CM-09, CM-10, CM-12
+  - [x] load ritual (CM-04) → "load the 3 cores; tails gated by the reliance gate"
+  - [x] CM-14 — left as-is: it already reads as the T0 north-star authority-pointer D7 calls for; CM-11 stays (T1 milestone)
+  - [x] remove CM-13 (now in persona); keep CM-01, CM-05
+- [x] Commands:
+  - [x] IC-01 — de-hardcode `/tmp` → `$SCRATCH` session scratchpad (with a note: shell state doesn't persist, substitute inline)
+  - [x] IC-02 → Step 3 points to the Vector 1 persona for general conduct; keeps command-specific framing
+  - [x] IC-03 → Step 5 points to NI-02 as the single source; KEEP/DISCARD restatement removed; destination/source-line process kept
+  - [x] SC-01 → item 3 points to the core/tail routing rule (fetch-on-use); item 4 references the drift-detection protocol
+  - [x] VS-01 → Phase 2 now **hosts** the core/tail routing rule + the D4 filing rule
+  - [x] VS-02 → guardrail rewritten as "synthesis obeys the Mutability axis" (Refinable w/ confirm · Protected statements untouched/clarify-only · Permanent never)
+- [x] Folder `_instructions`: NI-04 / PI-04 restatements replaced with a `[[domain_structure]]` LAYOUT PROCEDURE pointer
+
+**✅ WAVE 3 COMPLETE.** CLAUDE.md's front door is now pointers + the Soul keystone; the commands point at the canonical homes instead of restating; the Vector-1-maintenance machinery (routing rule + Mutability guardrail) is hosted in synthesis; folder layout rules single-sourced to `domain_structure`.
 
 ---
 
 ## Wave 4 — Navigation
 
-- [ ] One-line self-describing headers on files (Option B)
-  - **OPEN (resolve at wave head):** scope — every file vs. only files whose names aren't self-evident
-- [ ] **Preserve the conditional load-rules** currently braided into CLAUDE.md's file-index prose — relocate into the distributed headers / folder-docs, do NOT drop them in the rebuild:
-  - *"load `enneagram_approach.md` before any Enneagram character analysis"*
-  - *"before modifying any file in this folder, read `…/_instructions.md`"* (both folders)
-  - *"load the relevant beat file when working on that beat"*
-  - *"skeleton only until craft video revalidation is complete"* (Methodology)
-- [ ] Folder-docs (NI-01 / PI-01 purpose lines double as these; other folders get a folder-note as needed)
-- [ ] Navigation guidance note (drafted in D14) → CLAUDE.md, with the T0 skeleton
-- [ ] Rebuild the file-index **T0 skeleton** against **current folders** (interim — Layer B re-maps to bands); fixes the drift: `_process.md` is gone, beats now run 01–14 (incl. 10b)
+- [x] ~~One-line self-describing headers on files~~ — **D14 AMENDED (no in-file headers).** A header can't be read without opening the file, so it can't do a folder-doc's survey-from-outside job; its only gain is marginal and it adds a stale-cache liability. The honest Option B: **the filename IS the file-level index** (zero-cache, always true). Folder-docs cover folders; names cover files. *Name audit run against the current vault → every filename already sufficient; zero renames. Rename only if a future file's name is insufficient.*
+- [x] **Preserved the conditional load-rules** — folded into the always-loaded map lines (stronger than a folder-doc, which only loads on entry): `enneagram_approach`-before-Enneagram + read-`_instructions`-before-modifying (Novel Craft Theory line), load-relevant-beat (Beats), frozen-until-revalidation (Methodology line).
+- [x] Folder-docs — `_instructions` serve Novel Craft Theory + Publishing; Characters/Encyclopedia carry their description in the map line (no new folder-note files, per the sub-decision).
+- [x] Navigation guidance note → CLAUDE.md (updated for the no-headers amendment: names index files; insufficient name = rename signal).
+- [x] Rebuilt the file-index → **T0 skeleton / folder map** against current folders; per-file descriptions dropped; **D2 reliance slogan deployed**; drift fixed (`_process.md` gone, no more stale 01–04-only beat list).
+
+**✅ WAVE 4 COMPLETE.** CLAUDE.md's index is now a lean folder map + navigation note + reliance slogan; files are indexed by name, folders by `_instructions`/map line; the per-file prose and the documented drift are both gone.
+
+**✅ ALL SUBSTANTIVE WAVES (1–4) COMPLETE.** Remaining: Wave 5 — the consolidated audit (changes vs. inventory + plan), gap sanity-check, then the single Layer A commit.
 
 ---
 
 ## Wave 5 — Cleanup
 
 - [ ] Final consistency sweep (every dropped unit gone; every pointer resolves; no orphaned references)
-- [ ] Retire `_guidance_inventory.md` and this `_execution_plan.md` (archive or delete)
-- [ ] Session-close commit
+- [ ] Session-close commit (the single Layer A commit)
+- [~] ~~Retire `_guidance_inventory.md` and this `_execution_plan.md`~~ — **DEFERRED to post-Layer B.** Both hold context Layer B needs: the inventory's Forward-work + decision rationale, and this file's **Layer B Deferral Manifest** (retiring it now would delete the breadcrumb built for Layer B). Retire after Layer B lands.
 
 ---
 
@@ -101,6 +106,8 @@
 4. **CM-02** (episodic structure) physical relocation → Series Canon, loose-file + manifest. *(Parked in CLAUDE.md during Layer A, tagged.)*
 5. Rebuild the file-index T0 skeleton from current-folders → band-regions. *(Layer A's skeleton is interim.)*
 6. Within each band, loose-file the frozen-inner content + manifest — no Premise / Series-Arc / Novel-Anchors subfolders until the methodology unfreezes.
+7. **DS-04 prune** — delete the STATUS/DEFERRED block in `domain_structure` once the band folders exist and files are moved (its own condition: "delete once the reorg lands"). *Re-filed here from Wave 2 during execution — the note is still true until Layer B.*
+8. **Retire the working artifacts** — archive/delete `_guidance_inventory.md` and `_execution_plan.md` after Layer B lands. *Re-filed from Wave 5: both hold Layer-B-relevant context (Forward-work, decision rationale, and this file's Deferral Manifest).*
 
 **Open questions to resolve at Layer B:**
 - Publishing's band (Knowledge vs. Meta?)

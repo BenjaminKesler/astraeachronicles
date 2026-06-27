@@ -1,6 +1,6 @@
 # Guidance Inventory — WORKING / TEMPORARY
 
-> **Status:** transition artifact for the OS-layer + bridge reorg. Not canon. Delete or archive once the guidance reorg lands.
+> **Status:** transition artifact for the OS-layer + bridge reorg. Not canon. **Retire after Layer B lands** — the Forward-work section + decision rationale inform Layer B; do NOT retire at Layer A close.
 > **Grain heuristic:** a context unit = the smallest chunk that could be relocated, kept, or pruned *independently* of its neighbors. Coarse where fineness would only add noise (e.g. the file index travels as one block).
 > **Column trust:** Collection columns (`ID`, `Statement`, `Source`, `Type`) are real. Judgment columns (`Domain?`, `Tier?`, `Verdict?`, `Group`, `Merge/Split`) are **draft react-bait**, not decisions — set together in the judgment passes. Rows promoted to a logged decision are marked ✓.
 > **Merge-group key (`Group`):** stable tag shared by every instance of the same principle across files (e.g. the CLAUDE.md copy and the Vector1 copy both carry `G-analyze-first`). Turns the eventual dedup pass from a hunt into a sort. Blank = no known duplicate yet.

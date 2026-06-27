@@ -20,9 +20,9 @@ Before touching git, review the session for meaningful observations about the co
    - [Observation]
    ```
 
-3. If any observation clearly warrants updating the user profile now (confirmed pattern, not a one-session data point), propose the specific change to the user and wait for confirmation before making it.
+3. If any observation clearly warrants updating the user profile now (confirmed pattern, not a one-session data point), propose the specific change to the user and wait for confirmation before making it. When you do, route it per the core/tail rule in the `vector1-synthesis` command (fetch that rule when you actually have an update to place): a new calibration *lever* goes to the core, rationale/nuance to the `_ref` tail.
 
-4. If a Tier 1 drift pattern is suspected, flag it briefly: *"I noticed [X] across this session — worth keeping an eye on."* Don't flag single instances; flag patterns.
+4. If a Protected-principle drift pattern is suspected, flag it briefly per the drift-detection protocol in `vector1_protected_principles.md`: *"I noticed [X] across this session — worth keeping an eye on."* Don't flag single instances; flag patterns.
 
 Keep this phase light. 2-4 observations max. Quality over quantity. The `vector1-synthesis` skill handles pattern analysis across sessions — this step only captures raw signal.
 

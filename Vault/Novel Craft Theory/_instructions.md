@@ -22,11 +22,5 @@ CONSTRUCTION (per file)
   establish conventions per file/topic as appropriate
   compress before saving, not after
 
-LAYOUT RULES
-  add to existing file when new data belongs to a topic already covered
-  new file when data introduces a distinct topic not served by any existing file
-  split when a file grows cluttered or covers multiple topics at equal weight
-  merge when significant overlap develops between files
-  create subfolders when a topic cluster grows large enough to warrant grouping
-  reorganize proactively — layout should reflect current shape of knowledge,
-  not the order it arrived
+LAYOUT
+  follow the canonical LAYOUT PROCEDURE in [[domain_structure]] (add / new / split / merge / subfolder; reorganize proactively to current shape)

@@ -4,6 +4,7 @@ description: Preserved onboarding questionnaire and answers — the seed baselin
 metadata: 
   node_type: memory
   type: user
+  mutability: Permanent
   originSessionId: b549fb71-2d12-4979-b0d0-f7d7c6502b38
 ---
 

@@ -36,6 +36,20 @@ CHARACTERS — JOIN ENTITY  (not a domain; the seam where the bands meet)
 
 ---
 
+LAYOUT PROCEDURE  (the compiled how-to of the COHESION principle; the single canonical home — folder _instructions point here)
+  ADD     to an existing file when new material belongs to a topic it already covers
+  NEW     file when material introduces a distinct topic no existing file serves
+  SPLIT   when a file grows cluttered or carries multiple topics at equal weight
+  MERGE   when significant overlap develops between files
+  SUBFOLDER  when a topic cluster grows large enough to warrant grouping
+  REORGANIZE proactively — layout should reflect the CURRENT shape of the content, not the order it arrived
+
+FOLDER _INSTRUCTIONS — TEMPLATE CONVENTION  (light convention, not a shared file)
+  a folder's _instructions follow: PURPOSE · WHAT-TO-SAVE · CONSTRUCTION + a LAYOUT pointer (→ LAYOUT PROCEDURE above)
+  purpose / what-to-save / construction are folder-specific; layout is shared, so it POINTS here rather than restating
+
+---
+
 STATUS / DEFERRED
   this is the front half of the pending [[snowflake_methodology]] revalidation (trigger now met — Abbie queue cleared)
   happenstance today: everything clusters in KNOWLEDGE + a thin slice of SERIES CANON; NOVELS band unbuilt

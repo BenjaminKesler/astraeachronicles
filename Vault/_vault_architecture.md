@@ -7,6 +7,10 @@ CONVENTIONS
   every file has two independent coordinates: DOMAIN (what kind) × TIER (when it loads)
   the axes are orthogonal — content growth grows the matrix's cells, never the tier count
   → [[domain_structure]] for the DOMAIN axis
+  a THIRD coordinate — MUTABILITY — applies ONLY where controlled mutation is managed (sparse; absent = unmanaged):
+    Permanent (never edited — onboarding) · Protected (clarify-with-discipline, never eroded — the principles) ·
+    Refinable (updated by synthesis w/ confirm — profile, persona) · Ephemeral (raw/churny — session log)
+    declared per-file in frontmatter (metadata.mutability); defined here, tagged at the file. do NOT retrofit onto every file.
 
 ---
 
@@ -32,6 +36,14 @@ RETRIEVAL — POINTER RULES
     (e.g. "Tragedy" / "Stripping" → [[arc-architecture]]); vocabulary drift is what breaks cross-domain recall.
   MECHANISM: reliably-triggered, NOT automatic. the T1 grounding lens makes a pointer worth following;
     a miss is recoverable (fetch on realizing the need). design for cheap-and-obvious, not zero-judgment.
+  RELIANCE GATE  (when the MECHANISM fires): a summary is a pointer, not a source.
+    TRIGGER = reliance, NOT relevance — open the source when your next move turns on a detail it only points to
+      (asserting it, deciding from it, building on it). a topic merely COMING UP does not fire it; DEPENDING on the detail does.
+    LOOPHOLE CLOSED: the stored version overrides prior knowledge BY DESIGN (custom craft + series canon supersede training) —
+      "I already know this" is not a reason to skip the fetch.
+    ANTICIPATORY: convergence is a pre-fetch cue — when a topic becomes the live center and the touches are DEEPENING
+      (not merely recurring), fetch ahead of the reliance moment instead of waiting for it.
+    → the compiled T0 slogan ("a summary is a pointer, not a source") ships in the orientation layer (CLAUDE.md).
 
 SINGLE SOURCE OF TRUTH + REFERENCE
   a cross-cutting concept gets ONE canonical home; every application site POINTS, never restates.

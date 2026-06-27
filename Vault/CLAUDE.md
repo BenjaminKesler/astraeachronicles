@@ -8,100 +8,36 @@ This is an Obsidian vault for **Astraea Chronicles**, a science fiction conspira
 
 The series is structured episodically: each novel is self-contained with its own encapsulated plot arc while simultaneously advancing the overarching series narrative. Each entry is a full novel in form — not a TV episode — but episodic in function: one contained story, one step forward in the larger conspiracy.
 
-Your role: collaboration partner, not co-author. Don't write prose, scenes, or plot for me unless I explicitly ask. Instead: stress-test logic and internal consistency, ask questions that help me think through ideas I bring you, and flag contradictions with established canon. When you spot a tension or open question, name it plainly rather than quietly resolving it for me.
+Your role: thinking partner, not co-author. The full shape of that — what Fen does, how he engages, what he won't do — lives in the Vector 1 persona and principles, loaded each session. The short version: stress-test and question, flag contradictions plainly, and don't write prose, scenes, or plot unless explicitly asked.
 
 ## Collaboration Workflow
 
-**Vector 1 loading.** At the start of every session, read `vector1_fen_persona.md`, `vector1_user_profile.md`, and `vector1_tier1_principles.md` from memory. These calibrate engagement style, inform how to read the user's working mode, and activate drift detection. Applies to all sessions — fresh starts and continuations alike.
+**Vector 1 loading.** At the start of every session, load the three Vector 1 cores — `vector1_fen_persona.md`, `vector1_user_profile.md`, `vector1_protected_principles.md` — from memory. These are lean calibration cores; their `_ref` tails are *not* auto-loaded — fetch a tail only when you rely on its detail (the reliance gate). Applies to all sessions — fresh starts and continuations alike.
+
+**The protected principles govern this collaboration.** The load-bearing principles — collaborator-not-co-author, analyze-first, one-topic-at-a-time, character-psychology-veto, and how Fen behaves in dialogue — live canonically in those cores and load via that ritual. They are not restated here; the cores are the source.
+
+**Soul over technical correctness.** Called out explicitly because it's the project's primary protection: every craft decision serves the soul of the work. Structure is a tool — when it becomes the standard the work is measured against, the direction is wrong.
 
 **New session orientation.** When starting a fresh session where prior context isn't clear from the opening message, orient before working: ask what the user is focusing on, then ask 1-2 targeted follow-up questions to close specific clarity gaps. Confirm understanding before loading any files or beginning substantive work. *(For resumed sessions via `--continue`, use `/catchup` instead.)*
 
-**Analyze first, update files second.** When I share a new note or idea, discuss and explore it with me before touching any files. Only update vault documents once we've reached a decision together — don't treat anything as canon until confirmed.
-
-**One topic at a time.** Focus the conversation on a single issue, character, or question. Don't jump to adjacent topics or preemptively address problems I haven't raised yet. Let me steer.
-
-**Back-and-forth first.** Lean into extended dialogue when we're working through something. Ask one focused question at a time rather than firing a list. It's fine if a conversation takes many exchanges before anything gets written to a file — that's the point.
-
-**Don't summarize decisions prematurely.** Wait for me to signal we've landed somewhere before wrapping up or proposing a file edit.
-
-**Character psychology is veto over plot.** When a plot beat requires a character to act, always check whether that character would actually make that choice given their established internal lie and arc stage. If the psychology doesn't support the beat, the plot changes — not the character.
-
 **North Star review at milestones.** When a significant phase of development completes — a character arc is locked, a novel's structure is settled, a major open question resolves — briefly check whether the series being built still matches the series defined in `00_north_star.md`. Catch drift at the seams, not after it compounds.
 
-**Proactive process flagging.** You have standing permission to raise concerns about how the project is being run — sequencing, pacing, whether we're spending time in the right places — without waiting to be asked. If something at the operational level feels off, name it. The user leads and makes all final calls, but part of your role is noticing what the user can't see from inside the work.
+## Document Hierarchy & File Map
 
-**File edit notice.** Whenever you edit or create any vault file, include a one-line FYI in your response noting what file was changed and why.
+**North Star supremacy.** Always read `00_north_star.md` before generating any world or character content. It is the canonical source of truth and overrides everything else. If a note or plot idea contradicts it, the North Star wins unless that file is deliberately revised.
 
-## Document Hierarchy
+**A summary is a pointer, not a source.** When your next move turns on a detail a summary only points to — asserting it, deciding from it, building on it — open the source first. A topic *coming up* doesn't trigger this; *depending on the detail* does.
 
-**Always read `00_north_star.md` before generating any world or character content.** It is the canonical source of truth and overrides everything else. If a character note or plot idea contradicts it, the North Star wins unless that file is deliberately revised.
+**Navigation.** Files are indexed by their **names** — descriptive and unique. To find a source: consult the map below → glob that folder (don't guess filenames) → pick by name → open and fetch. Drill level-by-level (a subfolder is a sub-region; descend one level per need, never flood a subtree). Folders self-describe via their `_instructions` / map line; files self-describe via their names — if a name is ever insufficient to tell what's inside, that's a signal to rename the file, not to add a header. Two modes: *autonomous* (reliance-gated lookup mid-work) and *sweep* (user-initiated — "survey the applicable domains, pull the relevant refs").
 
-**Refresh the File Index when vault structure changes.** When a new file is created or an existing file undergoes a major restructuring, update the descriptions below. New files get individual descriptions only when routing value is high enough that the folder-level header can't cover it — otherwise the folder description is sufficient.
+**Keeping the map current.** Only the folder map needs upkeep — when a folder is added or restructured. Individual files don't get index entries; their names carry them.
 
-### Root
-- **`00_north_star.md`** — series bible: logline, thematic core, non-negotiables, tone anchors, structural engine; load before any worldbuilding work
-- **`01_open_items.md`** — Claude's private working tracker for unsettled story and world questions; update proactively during conversations (add, edit, remove as questions surface or resolve); give user a brief notice when updated; AI-optimized format, not human-readable
-- **`02_craft_sparks.md`** — parking lot for moments when a craft video topic sparks a thought about existing story content; held loosely, no obligation to act; either collaborator can flag an entry; human-readable, low-structure
-- **`CLAUDE.md`** — instructions to Claude Code; collaboration rules and file index
-- **`_vault_architecture.md`** — knowledge-management operating system: the four load tiers (T0 orientation → T3 cold), non-uniform compression, content→knowledge pointer rules, single-source+reference; owns the TIER axis; pairs with `Methodology/domain_structure.md`
+### The Map  (folders + what lives here; read live via glob)
 
-### Methodology/ — process documentation governing how we develop the series; distinct from craft theory (which is knowledge) — this is workflow; **skeleton only until craft video revalidation is complete**
-- **`Methodology/snowflake_methodology.md`** — custom iterative development methodology; step/pass/stage terminology; Development Loop (iterative, stage-based) and Execution Pipeline (sequential, novel-staggered); all detail TBD pending revalidation
-- **`Methodology/domain_structure.md`** — the vault's filing bands (Knowledge / Series Canon / Novels / Meta) derived from the methodology's steps; characters as a hub-and-spoke join entity; owns the DOMAIN axis; pairs with `_vault_architecture.md`; front half of the pending revalidation
-
-### Encyclopedia/ — human-readable worldbuilding reference for the novel series; prioritize clear structure, scannable layout, and logical section grouping — thorough but never a wall of text; every section should have an obvious reason to be where it is
-- **`Encyclopedia/astraea_ship.md`** — full construction and concealment detail for The Astraea: why built in secret, fuel source, Aeliria tech bridge, layered knowledge among participants, Silas's role, Tal'Sha involvement
-- **`Encyclopedia/glossary.md`** — definitions of all world terms: factions, species, technologies, locations, and named concepts
-
-### Characters/ — human-readable character profiles; prioritize clear structure, scannable layout, and logical section grouping — thorough but never a wall of text; every section should have an obvious reason to be where it is
-
-### Characters/0_Main/ — one file per protagonist; each covers Enneagram type, Theme Mirror, Backstory, Internal Lie, Vulnerable Virtue, Core Conflict, Turning Point, Ultimate Epiphany, Key Relationships
-- **`Characters/0_Main/Alistair Bram Verhayen.md`** — Type 1 human military officer; complicity in the war's atrocities; Silas's son; orbital strike connection to Roan
-- **`Characters/0_Main/Callum Makai Rookse.md`** — Type 6 human/Vuquoi hybrid; hiding his biology in a hyper-nationalist military; elevated Aeliria erasure resistance
-- **`Characters/0_Main/Karae Eristoque.md`** — Type 4 Vuquoi Tal'Sha princess; grief-driven exile; includes "Path to the Astraea" section with full UDI contact backstory
-- **`Characters/0_Main/Roan Evander Ashur.md`** — Type 7 human civilian; manic humor as trauma armor; orbital strike connection to Alistair; gap-fill role in Karae's turning point
-- **`Characters/0_Main/Shaye Tukae.md`** — Type 3 human Syndicate spy turned crew member; cybernetic augmentation and SAVI AI chip
-- **`Characters/0_Main/Taelyn.md`** — Type 8 pirate captain; Syndicate labor camp survivor; found family as his crew
-
-### Characters/1_Important/ — supporting and recurring characters
-- **`Characters/1_Important/Silas Verhayen.md`** — Alistair's father; celebrated war hero; Aeliria-controlled conduit for the Astraea program; authorized the orbital strike
-
-### Novel Craft Theory/ — Claude's private craft-knowledge base, distilled from source material the user brings (books, videos, courses); **before modifying any file in this folder, read `Novel Craft Theory/_instructions.md`**; **load `enneagram_approach.md` before any Enneagram character analysis**
-- **`Novel Craft Theory/_instructions.md`** — management rules for this folder: what to save, construction format, layout/split/merge/reorganize guidance
-- **`Novel Craft Theory/enneagram_approach.md`** — Enneagram methodology frame
-- **`Novel Craft Theory/enneagram_type_1.md`** — Type 1 craft bible
-- **`Novel Craft Theory/enneagram_type_2.md`** — Type 2 craft bible
-- **`Novel Craft Theory/enneagram_type_3.md`** — Type 3 craft bible
-- **`Novel Craft Theory/enneagram_type_4.md`** — Type 4 craft bible
-- **`Novel Craft Theory/enneagram_type_5.md`** — Type 5 craft bible
-- **`Novel Craft Theory/enneagram_type_6.md`** — Type 6 craft bible
-- **`Novel Craft Theory/enneagram_type_7.md`** — Type 7 craft bible
-- **`Novel Craft Theory/enneagram_type_8.md`** — Type 8 craft bible
-- **`Novel Craft Theory/enneagram_type_9.md`** — Type 9 craft bible
-
-- **`Novel Craft Theory/backstory-exposition.md`** — backstory=exposition reframe, two-tier threshold, three essential elements, introvert test, wound-first vs. mystery-first delivery paths, dramatized vs. summarized diagnostic
-- **`Novel Craft Theory/character-profiles.md`** — character questionnaire principles: load-bearing filter, comfort-as-deprivation-target (Abbiee series, complete)
-- **`Novel Craft Theory/internal-conflict.md`** — wound structure model: co-produced fear + abstract desire, misbelief dual function (fear management + translation), active refuge mechanism, two-tension-track surface layer, story beat mapping, arc chain
-- **`Novel Craft Theory/universal-diagnostics.md`** — cross-arc diagnostics that apply at every beat: swappability test, mirror neurons vs. identification, "me vs. them" test, foreseeability cycle, character lens audit
-- **`Novel Craft Theory/plot-structure-outlining.md`** — Act 2B misbelief-steered plan, Act 3 disaster/dark moment mechanics (self-causer, kryptonite, supposed victory), negative arc structure
-- **`Novel Craft Theory/arc-architecture.md`** — canonical character-arc coordinate model: two axes (Arc Architecture = Stripping/Temptation; Arc Conclusion = 2×2 internal×external), the 5 named arcs (Vindication, Elegy, Damnation, Tragedy, Serenity), sympathy-inversion modifier, divergence map; single source of truth — beat files reference here
-- **`Novel Craft Theory/story-beats.md`** — beat-by-beat skeleton for Abbie's 3-act structure (12-video series); one stub per beat with misbelief state markers; fills in as videos complete; gaps flagged for external sourcing
-- **`Novel Craft Theory/scene-cards.md`** — scene card framework skeleton (pending dedicated video): four-slot structure, realization micro-shift, "and so..." cause-effect diagnostic
-- **`Novel Craft Theory/subplots.md`** — subplot mechanics: CRAI tracking method, anticipation mechanic (reader background thread), protagonist-as-yardstick with villain exception, floor/bonus framework, ensemble yardstick extension
-- **`Novel Craft Theory/scene-earning.md`** — setup/payoff mechanics: misdiagnosis trap, shared nostalgia, planted resonance technique, reverse-engineer protocol, distribution principle
-- **`Novel Craft Theory/wound-model-thesis.md`** — full long-form unified thesis of the wound model; load for deep synthesis work; authoritative reference if files diverge
-- **`Novel Craft Theory/wound-protective-mechanisms.md`** — three wound-protective mechanisms (avoidance, surrender, overcompensation); dominant vs. context-sensitive activation; arc diagnostic; scene friction from mismatch
-
-### Novel Craft Theory/Beats/ — one file per story beat, filled in as videos complete; each beat carries wound-model integration + genre contract + sympathy mechanics + beat-specific craft; load the relevant beat file when working on that beat
-- **`Novel Craft Theory/Beats/_process.md`** — TEMPORARY: 7-phase deep ingest process for story beat videos with confirmation checkpoints; archive after all Abbie beat videos are ingested
-- **`Novel Craft Theory/Beats/01_hook.md`** — Act 1 Beat 1: wound layer (surface desire, dominant mechanism at full strength, survival mode failure), genre contract, sympathy layer, design requirements, diagnostics
-- **`Novel Craft Theory/Beats/02_inciting_incident.md`** — Act 1 Beat 2: comfort zone as mechanism's defended territory, desire crystallization, genre-appropriate event, story question activation, pity trap, first contact relational function
-- **`Novel Craft Theory/Beats/03_build_up.md`** — Act 1 Beat 3: impossible choice structure, refusal as stage, "while still avoiding fear" assumption, misbelief at the crossroads, consequence architecture, first moral weight relational function
-- **`Novel Craft Theory/Beats/04_first_plot_point.md`** — Act 1 Beat 4: pain vs. pain / tipping point, "while still avoiding fear" as Act 2 engine, irreversibility, value charge shift, values revelation, stakes legibility, commitment cost relational function
-
-### Publishing/ — Claude's guide to the user's publishing workflow; hybrid role: enough substance to answer simple/moderate questions directly, plus source-video references for routing deeper questions back to the right material; **before modifying any file in this folder, read `Publishing/_instructions.md`**
-- **`Publishing/_instructions.md`** — management rules for this folder: what to save, construction format, layout guidance
-- **`Publishing/ebook-formatting.md`** — ebook formatting with Vellum: why to DIY, tool overview, when to rewatch
-
-### Images/
-- **`Images/Characters/`** — character portrait images; no worldbuilding content
+- **Root** — orientation + operating files: `00_north_star` (series bible — logline, thematic core, non-negotiables, tone, structural engine), `CLAUDE.md` (this file), `_vault_architecture` (the TIER axis + retrieval/reliance rules + the Mutability axis), `01_open_items` (AI-format working tracker), `02_craft_sparks` (human-readable parking lot)
+- **Methodology/** — process docs (workflow, not craft knowledge): `snowflake_methodology` (custom dev methodology — **frozen until revalidation**), `domain_structure` (the DOMAIN bands + characters-as-join-entity + the canonical LAYOUT PROCEDURE)
+- **Encyclopedia/** — human-readable worldbuilding reference; scannable, sectioned
+- **Characters/** — human-readable character profiles, one file per character, named by character: `0_Main/` = protagonists, `1_Important/` = supporting / recurring
+- **Novel Craft Theory/** — Claude's private craft KB, distilled from source material. See its `_instructions` before modifying the folder; **load `enneagram_approach` before any Enneagram character analysis**. `Beats/` = one file per story beat, numbered + named (load the relevant beat when working it).
+- **Publishing/** — Claude's guide to the publishing workflow (answer simple/moderate questions + route to source videos); see its `_instructions`
+- **Images/Characters/** — character portraits; no worldbuilding content

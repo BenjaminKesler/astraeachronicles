@@ -27,6 +27,4 @@ CONSTRUCTION
   ~30–50 lines per file
 
 LAYOUT
-  add to existing file when a new video fits a topic already covered
-  new file when a video introduces a distinct publishing topic
-  create subfolders if the folder grows large (e.g. Publishing/Marketing/)
+  follow the canonical LAYOUT PROCEDURE in [[domain_structure]] (add / new / split / merge / subfolder; reorganize proactively to current shape)

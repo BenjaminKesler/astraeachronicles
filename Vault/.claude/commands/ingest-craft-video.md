@@ -6,23 +6,25 @@ $ARGUMENTS is the YouTube URL (e.g., https://www.youtube.com/watch?v=VIDEO_ID or
 
 ## Step 1 — Fetch the transcript
 
+Write all temp files to your **session scratchpad directory** (provided in your environment), not `/tmp`. In the commands below, `$SCRATCH` stands for that directory — substitute the real path (shell state doesn't persist between Bash calls, so set it inline in each command or substitute directly).
+
 Use Bash to run yt-dlp and extract the transcript to a temp file:
 
 ```bash
 yt-dlp --skip-download --write-auto-subs --sub-langs en --convert-subs vtt \
-  -o "/tmp/yt_transcript" "$ARGUMENTS"
+  -o "$SCRATCH/yt_transcript" "$ARGUMENTS"
 ```
 
-This writes `/tmp/yt_transcript.en.vtt`. Immediately clean it using Bash — do NOT read the raw VTT file:
+This writes `$SCRATCH/yt_transcript.en.vtt`. Immediately clean it using Bash — do NOT read the raw VTT file:
 
 ```bash
-grep -v "^WEBVTT\|^Kind:\|^Language:\|-->" /tmp/yt_transcript.en.vtt \
+grep -v "^WEBVTT\|^Kind:\|^Language:\|-->" $SCRATCH/yt_transcript.en.vtt \
   | sed 's/<[^>]*>//g' \
   | awk 'NF && $0 != prev {print; prev=$0}' \
-  > /tmp/yt_transcript_clean.txt
+  > $SCRATCH/yt_transcript_clean.txt
 ```
 
-Read `/tmp/yt_transcript_clean.txt` (the clean plain-text transcript).
+Read `$SCRATCH/yt_transcript_clean.txt` (the clean plain-text transcript).
 
 Also capture the video title:
 ```bash
@@ -31,23 +33,23 @@ yt-dlp --skip-download --print "%(title)s" "$ARGUMENTS"
 
 Clean up after reading:
 ```bash
-rm -f /tmp/yt_transcript.en.vtt /tmp/yt_transcript_clean.txt
+rm -f $SCRATCH/yt_transcript.en.vtt $SCRATCH/yt_transcript_clean.txt
 ```
 
 **If yt-dlp fails or the .vtt file is empty — Whisper fallback:** Download the audio and transcribe locally:
 
 ```bash
-yt-dlp -x --audio-format mp3 -o "/tmp/yt_audio.%(ext)s" "$ARGUMENTS"
+yt-dlp -x --audio-format mp3 -o "$SCRATCH/yt_audio.%(ext)s" "$ARGUMENTS"
 ```
 
 Then transcribe (use the `base` model — fast and accurate enough for clear speech):
 ```bash
-/c/Users/benlk/.local/bin/whisper /tmp/yt_audio.mp3 --output_dir /tmp/ --output_format txt --model base
+/c/Users/benlk/.local/bin/whisper $SCRATCH/yt_audio.mp3 --output_dir $SCRATCH/ --output_format txt --model base
 ```
 
-This writes `/tmp/yt_audio.txt`. Read that file as the transcript. Clean up after reading:
+This writes `$SCRATCH/yt_audio.txt`. Read that file as the transcript. Clean up after reading:
 ```bash
-rm -f /tmp/yt_audio.mp3 /tmp/yt_audio.txt
+rm -f $SCRATCH/yt_audio.mp3 $SCRATCH/yt_audio.txt
 ```
 
 **If Whisper also fails:** Stop. Tell the user the transcript couldn't be fetched and ask them to paste it manually (YouTube → "..." menu below video → "Show transcript").
@@ -63,11 +65,9 @@ Scan the existing files in `Novel Craft Theory/` to know what's already captured
 
 ## Step 3 — Start the conversation
 
-Come in like a friend who just watched the same video and can't wait to talk about it. Be warm, enthusiastic, and specific — reference actual moments or ideas from the transcript.
+Come in like a friend who just watched the same video and can't wait to talk about it — warm, specific, referencing actual moments from the transcript. Open with what genuinely excited or surprised you, then ask what landed for them.
 
-Open with what genuinely excited or surprised you, then ask what landed for them. One question at a time. Keep the energy high but conversational — not a lecture, not a structured debrief.
-
-The goal is to explore the video together: what resonated, what was surprising, what complicates or confirms things we already believed about craft.
+General conversational conduct (one question at a time, hear the full idea, let the user steer) follows the Vector 1 persona — it isn't restated here. This step adds only the command-specific framing: high energy, exploratory, not a lecture or a structured debrief. The goal is to explore the video together — what resonated, what surprised, what complicates or confirms what we already believed about craft.
 
 ---
 
@@ -83,11 +83,9 @@ As the conversation progresses, mentally track which insights feel like genuine 
 
 When the conversation reaches a natural conclusion (user signals they're done, or the thread winds down), shift into save mode.
 
-Apply the extraction criteria from `_instructions.md`:
-- KEEP: named mechanisms, coined terms, non-obvious structural requirements, counter-stereotype insights, diagnostic self-test questions
-- DISCARD: general craft principles already in training, plot summaries of examples, motivational content without an actionable mechanism
+Apply the canonical KEEP/DISCARD extraction criteria from `Novel Craft Theory/_instructions.md` — that's the single source; don't restate them here.
 
-Determine destination:
+Determine destination (layout per the `_instructions` LAYOUT pointer):
 - Add to an existing file if the insights clearly belong there
 - Create a new kebab-case file if the content introduces a distinct new topic
 - Follow the ~40-55 line target and compressed semantic format
