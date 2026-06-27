@@ -2,7 +2,7 @@
 # purpose: WHAT kind of content lives WHERE; the DOMAIN axis of the storage system
 # pairs with: [[_vault_architecture]] (owns the tier axis + retrieval rules)
 # derived from: [[snowflake_methodology]] — the bands ARE the methodology's steps made physical
-# status: captured 2026-06-25; current layout is happenstance; file-moves deferred to a dedicated reorg pass
+# status: outer-band reorg applied 2026-06-26 (Layer B — band folders created, files relocated); inner subdivision (Premise/Series-Arc subfolders; Novels per-book) still deferred to the methodology revalidation
 
 PRINCIPLE
   domain boundary = COHESION: what is used together / changes together lives together
@@ -13,13 +13,13 @@ PRINCIPLE
 
 THE BANDS
   KNOWLEDGE — reusable, not this-series; portable how-to-write
-    craft theory, methodology, publishing   → Novel Craft Theory/, Methodology/, Publishing/
+    craft theory, methodology, publishing   → Knowledge/Novel Craft Theory/, Knowledge/snowflake_methodology, Knowledge/Publishing/
   SERIES CANON — Phase-1 Development Loop steps; global, iterative
-    Premise · Characters · Series Arc · World    (current GAP: no Premise or Series Arc home yet)
+    Premise · Characters (→ Characters/) · Series Arc · World (→ Encyclopedia/)    (GAP: Premise + Series Arc have no subfolder home yet — deferred to revalidation)
   NOVELS — Phase-2 Execution; per-novel, staggered
-    one folder per book: Novel Anchors · Short Outline · Long Outline · Scene Cards · Draft    (does not exist yet)
-  META / OPERATIONAL — the collaboration's machinery
-    CLAUDE.md, [[_vault_architecture]], _instructions, indexes, Vector 1, .claude commands, 01_open_items
+    one folder per book: Novel Anchors · Short Outline · Long Outline · Scene Cards · Draft    (Novels/ scaffolded; unbuilt — per-book folders at Phase-2 entry)
+  META / OPERATIONAL — the collaboration's machinery (= the vault root; no Meta/ folder)
+    CLAUDE.md, [[_vault_architecture]], domain_structure (this file), _instructions, Vector 1, .claude commands, 01_open_items, 02_craft_sparks
 
 ---
 
@@ -47,10 +47,3 @@ LAYOUT PROCEDURE  (the compiled how-to of the COHESION principle; the single can
 FOLDER _INSTRUCTIONS — TEMPLATE CONVENTION  (light convention, not a shared file)
   a folder's _instructions follow: PURPOSE · WHAT-TO-SAVE · CONSTRUCTION + a LAYOUT pointer (→ LAYOUT PROCEDURE above)
   purpose / what-to-save / construction are folder-specific; layout is shared, so it POINTS here rather than restating
-
----
-
-STATUS / DEFERRED
-  this is the front half of the pending [[snowflake_methodology]] revalidation (trigger now met — Abbie queue cleared)
-  happenstance today: everything clusters in KNOWLEDGE + a thin slice of SERIES CANON; NOVELS band unbuilt
-  deferred to a dedicated pass: creating the band folders, relocating existing files, full methodology revalidation

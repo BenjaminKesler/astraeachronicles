@@ -1,4 +1,4 @@
-Ingest a YouTube novel-craft video: fetch the transcript, have an excited discussion about what we both learned, then save the non-obvious insights to Novel Craft Theory/.
+Ingest a YouTube novel-craft video: fetch the transcript, have an excited discussion about what we both learned, then save the non-obvious insights to Knowledge/Novel Craft Theory/.
 
 $ARGUMENTS is the YouTube URL (e.g., https://www.youtube.com/watch?v=VIDEO_ID or https://youtu.be/VIDEO_ID).
 
@@ -58,8 +58,8 @@ rm -f $SCRATCH/yt_audio.mp3 $SCRATCH/yt_audio.txt
 
 ## Step 2 — Read the existing craft knowledge base
 
-Read `Novel Craft Theory/_instructions.md`.
-Scan the existing files in `Novel Craft Theory/` to know what's already captured — so you know what would be new versus redundant.
+Read `Knowledge/Novel Craft Theory/_instructions.md`.
+Scan the existing files in `Knowledge/Novel Craft Theory/` to know what's already captured — so you know what would be new versus redundant.
 
 ---
 
@@ -83,7 +83,7 @@ As the conversation progresses, mentally track which insights feel like genuine 
 
 When the conversation reaches a natural conclusion (user signals they're done, or the thread winds down), shift into save mode.
 
-Apply the canonical KEEP/DISCARD extraction criteria from `Novel Craft Theory/_instructions.md` — that's the single source; don't restate them here.
+Apply the canonical KEEP/DISCARD extraction criteria from `Knowledge/Novel Craft Theory/_instructions.md` — that's the single source; don't restate them here.
 
 Determine destination (layout per the `_instructions` LAYOUT pointer):
 - Add to an existing file if the insights clearly belong there

@@ -34,16 +34,16 @@ The Astraea is a haunted house, not a home — clinical lighting, wrong silences
 
 ## Structural Engine
 
-Episodic micro-stories (heist/rescue/infiltration to recover one un-hackable piece of evidence) ladder up to a macro-goal: assembling an "infrastructure of truth" capable of breaking the Aeliria's control all at once in the finale. The crew cannot win loudly or early — the format depends on slow accumulation, not a single reveal.
+Each entry is a full novel in form — not a TV episode — but episodic in function: a self-contained, encapsulated plot arc that simultaneously advances the overarching conspiracy. These episodic micro-stories (heist/rescue/infiltration to recover one un-hackable piece of evidence) ladder up to a macro-goal: assembling an "infrastructure of truth" capable of breaking the Aeliria's control all at once in the finale. The crew cannot win loudly or early — the format depends on slow accumulation, not a single reveal.
 
 ## The Astraea
 
-See `Encyclopedia/astraea_ship.md` for full construction and concealment detail. Core fact for this doc: the Astraea is the Aeliria's master key — a force multiplier for the conspiracy, built by the factions who believed they were building a weapon against their enemies.
+See [[astraea_ship]] for full construction and concealment detail. Core fact for this doc: the Astraea is the Aeliria's master key — a force multiplier for the conspiracy, built by the factions who believed they were building a weapon against their enemies.
 
 ## Glossary
 
-See `Encyclopedia/glossary.md` for all terms, factions, and technologies.
+See [[glossary]] for all terms, factions, and technologies.
 
 ## Open Questions
 
-See `01_open_items.md` for the full master list of unsettled questions.
+See [[01_open_items]] for the full master list of unsettled questions.

@@ -2,7 +2,7 @@
 
 Fixations (maladaptive drives): type the WHY (core fear/desire), not the WHAT (traits, skills, aesthetics). Skills are fixation byproducts — no "healthy Type X," only someone who has reined it in. Shorthand: "has a Type X fixation."
 
-`Novel Craft Theory/enneagram_type_*.md` — canonical; overrides general training.
+`enneagram_type_*.md` (this folder) — canonical; overrides general training.
 
 ## Scope
 

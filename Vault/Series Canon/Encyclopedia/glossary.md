@@ -8,7 +8,7 @@ All established terms, factions, technologies, and concepts used across the seri
 The true architects of the war. A species capable of erasing data and perception — they do not project false images but delete sensory information, letting the brain fill the gap. Genetically engineered by the Ehmeya, but have since infiltrated and now puppet their creators. The Ehmeya believe they are the ones pulling strings; they are not. See North Star Non-Negotiables for the full ruleset governing their abilities.
 
 ## The Astraea
-A prototype stealth ship — the Aeliria's master key for the next generation of their control infrastructure. Built secretly across multiple factions via Syndicate channels, with each participant holding only a fragment of the full picture. See `Encyclopedia/astraea_ship.md` for full construction and concealment detail.
+A prototype stealth ship — the Aeliria's master key for the next generation of their control infrastructure. Built secretly across multiple factions via Syndicate channels, with each participant holding only a fragment of the full picture. See [[astraea_ship]] for full construction and concealment detail.
 
 ## Dark Space
 A region of space heavily redacted by the Aeliria. Humanity and the Vuquoi mistakenly believe Dark Space is simply vast expanses containing no star systems. The Aeliria have also done something to the space itself to make navigation extremely difficult for anyone but themselves. Recurs as a travel/plot device across the season rather than a single location tied to one event.

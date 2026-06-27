@@ -16,7 +16,7 @@ PATH SELECTOR
     endogenous dissolution — abstract desire grows real until mechanism becomes irrelevant; mechanism ERODED
     "while still avoiding fear" superseded — made irrelevant rather than disproved → this file
   SELECTION CRITERION: does the arc's transformation arrive through catastrophic stripping or through finding something genuinely better?
-  → [[story-beats.md]] PATH SELECTOR for full application guidance
+  → [[story-beats]] PATH SELECTOR for full application guidance
 
 ---
 

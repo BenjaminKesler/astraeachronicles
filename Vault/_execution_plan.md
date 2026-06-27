@@ -153,33 +153,44 @@
 
 ## Waves
 
-### Wave B1 — Finalize the band map *(paper, no moves)*
-- [ ] Lock the band map above; confirm no file is unassigned or double-assigned
-- [ ] Snapshot current wikilinks as a baseline to diff against post-move
-- **Gate:** complete, conflict-free map.
+### Wave B1 — Finalize the band map *(paper, no moves)* — ✅ COMPLETE
+- [x] Locked the band map against ground truth (glob): every content item → exactly one band; none unassigned/double-assigned. `.obsidian/` confirmed a deliberate root-pinned non-mover (like `.git/`); `Methodology/` confirmed exactly 2 files (dissolves clean); `Images/` one file.
+- [x] Snapshotted wikilinks + hunted hardcoded paths (baseline for post-move diffing).
+- **Link-audit findings → fix in the named wave:**
+  - *B3 (prose paths → wikilinks, move-proof):* `00_north_star.md` → `` `Encyclopedia/astraea_ship.md` `` + `` `glossary.md` ``; `Encyclopedia/glossary.md` → `` `astraea_ship.md` ``.
+  - *B3 (verify):* path-qualified `[[Beats/…]]` wikilinks in `arc-architecture.md` (folder moves intact → should resolve; confirm).
+  - *B4 (pinned file → moving target):* `.claude/commands/ingest-craft-video.md` hardcodes `Novel Craft Theory/…` (×4) → repoint to the Knowledge-band path.
+  - *B4 (expected rebuild):* CLAUDE.md folder map + north_star supremacy refs (lines 23, 27) → rebuilt + hand-verified.
+  - *Safe, no action:* `vector1-synthesis.md` → `_vault_architecture.md` (stays at root).
+  - *Corrected during B1:* `domain_structure.md:54` false "Abbie queue cleared" → fixed (trigger still future).
+- **Gate:** ✅ complete, conflict-free map; risks catalogued.
 
-### Wave B2 — Scaffold the bands *(empty structure; no content moves)*
-- [ ] Create `Knowledge/`, `Series Canon/`, `Novels/`
-- [ ] Write the Series Canon band-doc with an empty `## Deferred inner structure` ledger (records the frozen Premise / Series-Arc / Novel-Anchors triad + the M2 unfreeze trigger)
-- [ ] Novels stub note (band exists, unbuilt)
-- **Gate:** empty scaffolding exists; Obsidian sees it.
+### Wave B2 — Scaffold the bands *(empty structure; no content moves)* — ✅ COMPLETE
+- [x] Created `Knowledge/`, `Series Canon/`, `Novels/` — each with a uniquely-named band-doc (`_knowledge.md` / `_series_canon.md` / `_novels.md`) that self-describes the band and makes the folder git-trackable.
+- [x] Series Canon band-doc carries the `## Deferred inner structure` ledger (empty; CM-02 arrives in B3). *Scope correction: the deferred Series-Canon gaps are **Premise + Series Arc** — Characters (→ `Characters/`) and World (→ `Encyclopedia/`) already have homes; Novel Anchors is Novels-band, not Series Canon.*
+- [x] Novels band-doc = the stub (band exists, unbuilt; per-book folders appear at Phase-2 entry).
+- **Convention set:** every band self-describes via a uniquely-named `_<band>.md` doc (not a repeated `_band.md`, per the filename-uniqueness guardrail).
+- **Gate:** ✅ scaffolding exists on disk.
 
-### Wave B3 — Migrate *(the breakage-prone wave — verify aggressively)*
-- [ ] `git mv` intact folders → bands (NCT, Publishing, snowflake → Knowledge; Characters, Encyclopedia, Images → Series Canon)
-- [ ] north_star → top of Series Canon; **hand-verify the CLAUDE.md supremacy pointer resolves** (highest-stakes pointer in the vault)
-- [ ] Extract CM-02 episodic structure from CLAUDE.md → loose file in Series Canon + ledger entry
-- [ ] Verify wikilinks resolve after each batch (incl. memory-system `[[ ]]` slug links + `.claude` command refs)
-- **Gate:** all content homed; every link resolves.
+### Wave B3 — Migrate *(the breakage-prone wave — verify aggressively)* — ✅ COMPLETE
+- [x] `git mv` intact folders → bands (NCT, Publishing, snowflake → Knowledge; Characters, Encyclopedia, Images → Series Canon); `domain_structure` → root; `Methodology/` dissolved. All tracked as renames — history preserved.
+- [x] north_star → top of Series Canon; supremacy pointer fixed → `[[00_north_star]]` (move-proof) in CLAUDE.md (lines 23, 27).
+- [x] **CM-02 — MERGED into `[[00_north_star]]`'s Structural Engine** (user decision), *not* loose-filed: the band anchor already owned the topic (LAYOUT PROCEDURE: ADD to the covering file). Removed from CLAUDE.md; ledger stays empty (properly homed, not parked).
+- [x] Prose-path → wikilink fixes (B1 list): north_star → `[[astraea_ship]]`/`[[glossary]]`/`[[01_open_items]]`; glossary → `[[astraea_ship]]`.
+- [x] Verified post-move: structure correct; all remaining stale refs are B4-deferred (no misses).
+- **Gate:** ✅ all content homed; critical links resolve; map rebuild + remaining repoints carried to B4.
 
-### Wave B4 — Re-map + prune
-- [ ] Rebuild CLAUDE.md's folder-map skeleton → band-regions (manifest item 5)
-- [ ] Prune DS-04's STATUS/DEFERRED block — its "once the reorg lands" condition is now met (manifest item 7)
-- [ ] Update the navigation note / map lines to the new structure
-- **Gate:** the map matches the new territory.
+### Wave B4 — Re-map + prune — ✅ COMPLETE
+- [x] Rebuilt CLAUDE.md's folder map → band-regions (Root=Meta / Knowledge / Series Canon / Novels); conditional load-rules re-homed to the band lines (enneagram-before-Enneagram, load-relevant-beat, frozen-methodology); nav note now cites band-docs.
+- [x] Repointed `.claude/commands/ingest-craft-video.md` NCT paths (×4) → `Knowledge/Novel Craft Theory/`.
+- [x] Reconciled `domain_structure.md` to the realized bands: THE BANDS folder mapping, header status line, SERIES CANON realized homes (Characters→`Characters/`, World→`Encyclopedia/`), NOVELS-now-scaffolded, META=root note.
+- [x] Pruned DS-04's STATUS/DEFERRED block — condition met; status now carried by the header line + the Series Canon band-doc ledger + the snowflake trigger.
+- [x] `enneagram_approach.md` partial-path pattern → within-folder ref.
+- **Gate:** ✅ verified — every remaining old-path string is Knowledge-prefixed, a band-doc relative member ref, or working-artifact documentation; no live broken paths.
 
 ### Wave B5 — Audit + commit
-- [ ] Full sweep: every wikilink resolves; CLAUDE.md + commands still load (harness pins intact); no orphaned references
-- [ ] Single Layer B commit
+- [x] Full sweep ✅: change-set coherent (53 renames, **0 deletions** — no content dropped); all 31 distinct wikilink targets resolve to existing files (incl. path-qualified `[[Beats/…]]`); CLAUDE.md + `.claude/` locations unchanged (harness pins intact). Caught + fixed one pre-existing inconsistency: `[[story-beats.md]]` → `[[story-beats]]`.
+- [x] Single Layer B commit — ✅ **Layer B executed 2026-06-26 (waves B1–B5).** The vault is physically restructured into Knowledge / Series Canon / Novels / Meta(=root). Remaining = the **M2 revalidation bundle** (inner-band subfolders, parked-file migration, artifact retirement) — gated on the full Abbie Emmons video queue clearing.
 - **Gate:** clean audit; committed. **Artifacts are NOT retired here** — see the revalidation bundle.
 
 ## Deferred to the methodology-revalidation milestone (M2)  *(trigger: Abbie ingestion queue clears → SM-04 unfreeze)*
