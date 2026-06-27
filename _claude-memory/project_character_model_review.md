@@ -1,0 +1,30 @@
+---
+name: project-character-model-review
+description: Ongoing internal-consistency + external-validity review of the character-first craft corpus; watchlist lives in the vault; cases arbitrate
+metadata: 
+  node_type: memory
+  type: project
+  originSessionId: a3620b86-e4da-4ab0-abf0-be42b59d6e62
+---
+
+In-flight effort (started 2026-06-27): pressure-testing the assembled character-first craft model (wound-model + enneagram + beats) as a holistic theory, before trusting it as a generative manual.
+
+**Method agreed:** validity = *discrimination*, not fit (a model fed only successes can't fail). Scope external tests to the *character architecture* layer only; bracket the "art." Unit of test = a single **character arc**, not a whole novel. The **story arbitrates**, not the expert. Internal-consistency and external-validity are not sequential phases: name the seams cheaply up front, then let real cases resolve them under load. The model must work backward on architecture but is free to fail backward on art.
+
+**The watchlist** (suspected term-collisions/seams, S1–S8 + SYNC items) is committed in the vault at `Knowledge/Novel Craft Theory/_consistency_watchlist.md`. Carry it across cases; promote CALL→RESOLVED only when a real arc forces it. Meta-finding: `wound-model-thesis` lags its own beat layer.
+
+**Case log:** C1 = *Parno's Company* (N.C. Reed), a near-miss — model PASSED on the diagnostic core (diagnosed "no character arc": want-to-be-needed never narrativized into a misbelief; rogue persona = an avoidance mechanism written as personality that never moves; apparent family-love payoff = external author-truth leak; climax = Excitement Trap). But the book has no aha, so it could NOT arbitrate the aha-side seams S1/S4. Logged in the vault watchlist CASE LOG.
+
+C2 = *Mistborn: The Final Empire* (Vin), a positive control — moved **S1 from OPEN to a CALL**: identity ≠ abstract desire (collapse branch closed); the monolithic "misbelief" splits into a *world-verdict* and a *self-verdict*, with the self-verdict foundational and *underwriting* the world-verdict (its grip is parasitic on low self-worth — shown in the dungeon scene). Surfaced a unification hypothesis: this self/world spine looks like the same axis as the model's internal/external two-fear-layer split. Needs a messier non-Sanderson case to confirm before RESOLVED.
+
+C3 = *The Last Samurai* (Algren), a messier guilt/perpetrator arc — **sharpened the S1 CALL by partial disconfirmation**: the three-slot split held on an opposite wound type (now solid across 2 cases), BUT the hierarchy *reversed* (Algren is world-led, not self-foundational), so "self is always foundational" was pruned — **hierarchy-direction is a variable**. New hypothesis (N=2): direction tracks suffered-vs-committed wounds (done TO you → self-led; done BY you → world-led). The fear-axis "internal always foundational" is likely the same over-claim.
+
+C4 = *Iron Man* (Tony Stark), a committed/guilt wound — **broke the wound-type rule**: committed but *self*-led (his guilt localized to his own responsibility; the world-verdict was never the block). So suffered-vs-committed does NOT govern hierarchy direction; the replacement hypothesis is GENERALIZE-vs-LOCALIZE (guilt spilling into a world-verdict → world-led, vs. staying a self-verdict → self-led), candidate driver = agency/authorship over the harm (but Vin had no agency and still localized, so agency isn't the whole rule). Also produced a METHOD refinement, the **bend-vs-architecture test**: a deviation is a *bend* if derivable from existing model pieces re-ordered (Iron Man's front-loading), a *separate architecture* only if it needs a load-path the model can't produce (Temptation). Reserve new arc-paths for the latter, or the model bloats.
+
+C5 = *The Way of Kings* (Kaladin, scoped), a low-agency suffered wound — **confirmed the driver is causal ATTRIBUTION, not agency**: near-zero agency over the deaths, but he self-attributes ("I'm not enough; I'm a danger to those who depend on me"), so self-led (like Vin; opposite Algren, who externalizes despite agency). Sharpenings: a loud world-verdict can stay *secondary* (presence≠leadership); a relational-shaped resolution can still resolve a *self*-verdict (form≠axis). Open deeper question: what drives attribution itself (candidate: it's wound-protective — blame lands where it's most bearable). Pulled via a new **veiled-question protocol** for feel-readers (worth keeping). NOTE: all 5 cases so far have only touched S1; S2–S8 untouched.
+
+**Method refinement:** S1 (identity) and S4 (fixation) live at the aha — only a story whose transformation actually LANDS can test them. A near-miss that fails before the aha validates the core but can't reach those seams.
+
+**S1 — RESOLVED (consolidated 2026-06-27):** the three-slot finding is folded into the model — `wound-model-thesis` Part 1 (two-verdict misbelief: world-verdict + self-verdict, with a variable hierarchy set by attribution), `internal-conflict` (verdict↔fear-layer mapping), `Beats/11_aha_moment` (identity = the self-verdict installed at formation, no longer "introduced at the aha"). Watchlist S1 marked RESOLVED, C2–C5 evidence trail kept.
+
+**Next step when resuming:** S1 is closed and the validation engine is proven end-to-end (suspicion → CALL → 5-case refinement → folded into canon). Open options — (a) PIVOT to a fresh untouched seam (S2 intensify-vs-degrade, S4 fixation, S3 enneagram-orphaned, S5–S8 — none worked yet); or (b) pursue the residual spun-off question "what drives attribution" (candidate: it's wound-protective — blame lands where it's most bearable). Case protocol incl. the veiled-question variant is ready to point at any of them.

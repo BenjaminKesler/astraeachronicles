@@ -34,8 +34,11 @@ state: misbelief recognized and dissolved (cognitive amplification structure gon
       bravery = acting for something recognized as worth having in spite of fear that remains
 
   IDENTITY LAYER (Hauge, Vogler — deeper register of same dissolution)
-    misbelief operates at two registers: cognitive (false rule: "this is how the world works") + identity (false self: "this is who I am")
-    aha unwinds both simultaneously: not only "my rule was wrong" but "I am not who the wound told me I was"
+    the misbelief's two faces (→ [[wound-model-thesis]] Part 1; [[internal-conflict]]): cognitive WORLD-verdict
+      ("this is how the world works") + IDENTITY SELF-verdict / false self ("this is who I am")
+    NOT introduced here — both verdicts were installed at the WOUND; the aha is where they DISSOLVE
+    aha unwinds both: not only "my rule about the world was wrong" but "I am not who the wound told me I was"
+    the FOUNDATIONAL verdict (self-led vs world-led, fixed by attribution at formation) is the deeper unwind → [[wound-model-thesis]] Part 1
     true identity pre-existed the wound; aha reveals it, doesn't construct it
     synthesis not conversion (Vogler): protagonist becomes more fully themselves — not a different person
 

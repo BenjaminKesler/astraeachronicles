@@ -27,6 +27,13 @@ WOUND STRUCTURE (formation layer)
     DUAL FUNCTION:
       (1) manages fear: makes threat feel rational AND controllable ("if I do/avoid X I'll be safe")
       (2) translation layer: converts abstract desire → surface desire (concrete, actionable, wrong goal)
+    TWO VERDICTS (the misbelief's two faces — map onto the two fear layers):
+      world-verdict: "this is how the world works / what it will do to me" — pairs with EXTERNAL fear
+      self-verdict (= IDENTITY / false self): "this is who I am / what I'm disqualified from" — pairs with INTERNAL fear
+      both block the abstract desire from different sides; dissolve on different timelines
+      one is FOUNDATIONAL, underwrites the other; WHICH is wound-specific, set by ATTRIBUTION (where the character
+        lodges the cause), NOT agency — self-lodged → self-led; outward-lodged → world-led
+      cautions: loud ≠ foundational; a relational/worldly-FORM resolution can still resolve a SELF-verdict (read content)
   self-sealing: fear makes misbelief feel necessary; misbelief makes fear feel rational
     the chain traces historical origin — in the character's present the system activates as a whole
 
