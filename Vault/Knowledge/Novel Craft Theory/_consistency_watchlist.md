@@ -64,7 +64,7 @@ S1  IDENTITY / FALSE-SELF ORPHANED FROM THE FORMATION MODEL            [RESOLVED
       S1's orphaning = the model built self/world on the FEAR axis, never carried it to the MISBELIEF axis,
       then re-introduced "identity" as new at the aha. Fix reunifies the belief-layers with the fear-layers.
 
-S2  MECHANISM: INTENSIFY vs DEGRADE                                    [CALL]
+S2  MECHANISM: INTENSIFY vs DEGRADE                                    [RESOLVED 2026-06-27 — folded into the model]
   collision: wound-protective-mechanisms makes MONOTONIC degradation THE arc diagnostic
     (intact → costly → strained → breaks; "same mechanism in Act 2 as Act 1 = arc not moving").
   but: 07_game_changing_midpoint / 08_post_midpoint say the misbelief INTENSIFIES, overcompensation PEAKS,
@@ -73,6 +73,20 @@ S2  MECHANISM: INTENSIFY vs DEGRADE                                    [CALL]
     OUTPUT intensity (overcompensating behavior rising) vs SUSTAINABILITY (costlier, straining toward the break).
   call: two axes; output intensifies WHILE sustainability degrades. Confirm the curve against a real arc.
   risk if unfixed: a writer following the degradation diagnostic literally reads the GCM peak as the arc STALLING.
+  RESOLUTION (C9 Spensa / overcompensation + C10 Neo / avoidance — both mechanism types, both confirm):
+    the call was right but under-counted: "the mechanism degrades" is ONE phrase doing THREE jobs across Act 2 —
+      (1) OUTPUT intensity (rises to a peak; universal curve, volume mechanism-dependent — loud for overcompensation,
+      quiet for avoidance), (2) THE DECOUPLING (external shell held/intensified while the denied truth presses up;
+      reader sees the gap first — the real progress signal), (3) MECHANISM IDENTITY (holds constant; no backup-swap
+      as the main progression).
+    read arc movement on (2), NEVER on (3). over-claim "same mechanism Acts 1–2 = arc not moving" PRUNED — it
+      conflated identity (holds) with cost (climbs); both Spensa and Neo ran one mechanism the whole middle while the
+      arc moved hard. "overcompensator starts avoiding = cracking" demoted to scene-level/late-tremor, not main progression.
+    THE BREAK = RELINQUISHMENT not degradation — fixation stands down, pole's expression shifts fixated→integrated;
+      same event as S3/S4 "fixation relinquished" seen from the mechanism layer. shatter (Spensa) or stage (Neo);
+      action precedes full conversion in both. UNIFIES S2 with S3/S4.
+    folded into: wound-protective-mechanisms (ARC DIAGNOSTIC rewritten to three axes).
+    residual boundary: SURRENDER (third mechanism) untested — minor-arc specimens only; non-blocking.
 
 S3  ENNEAGRAM BODY ORPHANED FROM THE BEATS                             [RESOLVED 2026-06-27 — folded into the model]
   collision: across 15 beat files the Enneagram layer connects at ~one point ("Enneagram kryptonite per type",
@@ -110,21 +124,29 @@ S4  FIXATION = MISBELIEF, or = FEAR/DESIRE POLES?                      [RESOLVED
 
 TIER 2 — real but smaller; disposition / standardization
 
-S5  SURFACE DESIRE: concrete-at-formation vs crystallized-at-II        [OPEN]
+S5  SURFACE DESIRE: concrete-at-formation vs crystallized-at-II        [RESOLVED 2026-06-27 — standardized]
   thesis: the misbelief makes abstract desire "specific, concrete, actionable" AT FORMATION.
   02_inciting_incident: pre-II surface desire is "general, directionless"; the II crystallizes it.
   two jobs on "surface desire": standing disposition (formation) vs crystallized story-goal (II).
+  → STANDARDIZED: not a contradiction — two stages. formation fixes the STRATEGY-KIND (standing disposition);
+    the II fixes the OBJECT/DIRECTION (crystallized story-goal). folded into wound-model-thesis Part 1 + 02_inciting_incident.
 
-S6  KRYPTONITE / RAW WOUND / INTERNAL FEAR — cluster                   [OPEN]
+S6  KRYPTONITE / RAW WOUND / INTERNAL FEAR — cluster                   [RESOLVED 2026-06-27 — standardized]
   three terms for adjacent things: kryptonite (disaster target) / raw wound (thing exposed) / internal fear (encoding).
   layered cluster or true synonyms? tighten.
+  → STANDARDIZED: layered cluster, NOT synonyms — internal fear = the fear-OF; raw wound = the thing feared;
+    kryptonite = the thing feared as disaster-target. glossary in universal-diagnostics (TERM CLUSTER).
 
-S7  "INTERNAL / EXTERNAL" OVERLOADED ×3                                [OPEN]
+S7  "INTERNAL / EXTERNAL" OVERLOADED ×3                                [RESOLVED 2026-06-27 — standardized]
   internal conflict (psych vs plot) | internal fear (identity vs predicted-consequence) | internal outcome (arc direction vs world result).
   not contradictory; a usability hazard for a manual — needs disambiguating glossary lines per use.
+  → STANDARDIZED: three distinct pairings (conflict / fear / outcome); never use "internal/external" bare.
+    glossary in universal-diagnostics (TERM AXES).
 
-S8  SYNONYMS TO STANDARDIZE                                            [OPEN]
+S8  SYNONYMS TO STANDARDIZE                                            [RESOLVED 2026-06-27 — standardized]
   "the lie" == "misbelief" (arc-architecture uses both); "positive/negative arc" == "internal win/loss".
+  → STANDARDIZED: "misbelief" canonical, "the lie" kept as named-arc shorthand only; "positive/negative arc" =
+    "internal WIN/LOSS" (Axis B). declared in arc-architecture CONVENTIONS.
 
 ---
 
@@ -261,3 +283,29 @@ C8  THOR (2011) — Thor  (non-Heart / Gut test; veiled questions; 2026-06-27)
     pole going away — its EXPRESSION shifts fixated→integrated (sovereignty: domination→service); same core energy routed true.
   RESULT: S3/S4 across 3 types (3/4/8), Heart+Gut, both arc directions, ZERO disconfirmation → consolidated to RESOLVED.
     Residual boundary: Head (5/6/7) center not explicitly tested.
+
+C9  SKYWARD — Spensa  (S2 opener; overcompensation, positive arc; veiled questions; 2026-06-27)
+  arbiter: SHARED — Claude knows it + user (re-read, ~1yr cold). Claude locked a three-variable prediction (output↑,
+    sustainability↓, identity holds; over-claim prune) before the user's veiled blind read. user independently produced:
+    output "up to 11" (me-vs-world bravado, ramped with Jorgen); the felt bravado draining INSIDE while worn outside;
+    "exterior armor getting thin" at the loudest moments (the eyes / coward-defect fear underneath); same move never a
+    swap, brief transparent lapses; break = bravado → earnest defiance ("the fire screaming not to go down easy").
+  TARGET: S2 — does output intensify WHILE sustainability degrades (two axes), or move as one?
+  VERDICT: two-axis split CONFIRMED; decoupling fired clean (loudest shell at most-cracked interior). SHARPENINGS (user,
+    past the lock): axis B's concrete face = external shell vs internal conviction (tells the writer WHERE to put the crack);
+    the break is RELINQUISHMENT into integrated expression, not degradation — unifies S2 with S3/S4.
+  RESULT: S2 CALL → confirmed on overcompensation; flagged avoidance-generalization residual → C10.
+
+C10  THE MATRIX — Neo  (S2 avoidance-generalization; avoidance, positive arc; veiled questions; 2026-06-27)
+  arbiter: SHARED — Claude knows it + user (cold-ish). Claude locked a prediction that HEDGED axis A might be flat for an
+    avoider; revealed after the user's veiled read. user independently produced: relief at the Oracle's "not the One";
+    doubt PEAKING at Morpheus's capture ("fully committed to not being the one"); the gap (spoon, "learning too fast");
+    acts to trade his life for Morpheus with NO belief yet (belief only at the rooftop resurrection); "just versions of
+    hang back and doubt," action = following others' lead (no mechanism swap); break = "doubt overtaken by trust in himself,"
+    STAGED (agency-to-act → act as the One → resurrection removes all doubt).
+  TARGET: does the S2 curve generalize from overcompensation to AVOIDANCE?
+  VERDICT: generalizes. Claude's flat-A hedge DISCONFIRMED — avoidance intensification still peaks (quietly): curve universal,
+    volume mechanism-dependent. decoupling holds (shell vs denied truth — here capacity, not fear); identity holds; break =
+    staged relinquishment into self-trust; action precedes conversion. ZERO core disconfirmation (one Claude sub-hedge
+    corrected toward MORE universality).
+  RESULT: S2 RESOLVED across overcompensation + avoidance, both arc-positive. Residual: surrender untested (minor arcs only).

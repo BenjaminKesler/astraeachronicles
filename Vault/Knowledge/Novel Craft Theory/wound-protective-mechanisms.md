@@ -43,12 +43,29 @@ SCENE-LEVEL ACTIVATION (context-sensitive around the dominant mechanism)
 
 ---
 
-ARC DIAGNOSTIC
-  mechanism shifts = visible signal of arc progression
-    overcompensator who starts avoiding in Act 2 = armor cracking
-    character still running identical mechanism across Acts 1 and 2 = arc not moving
-  disaster = dominant mechanism breaks entirely; character stands without primary defense
+ARC DIAGNOSTIC (three independent axes — do NOT collapse into "the mechanism degrades")
+  across Act 2 the dominant mechanism runs on three axes that move independently:
+    (1) OUTPUT intensity — magnitude of the performed mechanism; RISES to a peak before the break.
+        curve universal; VOLUME mechanism-dependent — loud for overcompensation (bravado ramping),
+        quiet for avoidance (a deepening retreat/doubt that still peaks).
+    (2) THE DECOUPLING — external shell held/intensified WHILE the denied truth the mechanism exists to
+        deny presses up underneath; reader sees the gap before the character does (overcompensator performs
+        confidence, the fear rises; avoider performs smallness, the capacity rises — same axis).
+        THIS is the progress signal AND "cracks visible to the reader before the character feels them."
+    (3) MECHANISM IDENTITY — holds CONSTANT through Act 2; the dominant mechanism intensifies, it does NOT
+        swap to a backup as the main progression (brief transparent lapses ≠ a mechanism change).
+  read arc movement on (2), NEVER on (3): "same mechanism across Acts 1–2" is NOT a stall — a character can run
+    one mechanism the whole middle while the arc moves hard. a stall = FLAT decoupling (cost not climbing).
+  the GCM / Act 2B peak = maximum output AND maximum cost at once = the arc moving HARDEST, not stalling.
+  disaster = dominant mechanism breaks; character stands without primary defense. the break is RELINQUISHMENT,
+    not degradation into a backup: the fixation stands down and the pole's expression shifts fixated→integrated
+    (bravado → earnest defiance; deference → self-trust) — same event as the type layer's "fixation relinquished."
+    can shatter (single break) or climb in stages; action through the mechanism often precedes full conversion.
+    → [[enneagram_approach]] "Type & the Wound Model"; [[Beats/11_aha_moment]] volitional shift
+  a mid-Act-2 swap to another mechanism (overcompensator briefly avoiding) = scene-level extreme-threat backup
+    or late pre-disaster tremor — NOT the main progression → see SCENE-LEVEL ACTIVATION above
   dark moment = no practiced backup; wound directly exposed; most unfamiliar state the character has inhabited
+  → [[Beats/07_game_changing_midpoint]] overcompensation peaks; [[Beats/09_second_pinch_point]] felt enclosure + harder doubling down
 
 ---
 

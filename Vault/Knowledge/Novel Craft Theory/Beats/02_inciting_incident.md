@@ -18,9 +18,10 @@ state: dominant mechanism under active external threat for the first time; misbe
     II = external event threatening the outer boundary for the first time in the story
     → [[internal-conflict]] TWO FEAR LAYERS; [[wound-protective-mechanisms]] dominant mechanism
   DESIRE CRYSTALLIZATION (Truby)
-    before II: wound, misbelief, and habitual surface desire pattern — general and directionless
+    before II: wound, misbelief, and habitual surface desire pattern — strategy-kind set at formation, but general as to object / directionless
     after II: surface desire becomes a specific, concrete, directional story goal with a concrete object
     the II is what converts wound-driven habit into active story pursuit
+    → [[wound-model-thesis]] Part 1 (standing disposition vs crystallized goal)
   MECHANISM-SPECIFIC CONTACT
     avoider: the thing being avoided is now unavoidable — the route is closing
     overcompensator: performance of invulnerability directly and publicly challenged

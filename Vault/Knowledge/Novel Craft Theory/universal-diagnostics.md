@@ -37,3 +37,23 @@ CHARACTER LENS AUDIT (planning tool)
   if a decision looks dumb to the reader → characterization failure, not dramatic irony
   use after plot structure is roughed out; re-run at every major beat
   → [[plot-structure-outlining]] Act 2B for original context
+
+---
+
+TERM CLUSTER — KRYPTONITE / RAW WOUND / INTERNAL FEAR (one core, three layers — not synonyms)
+  WOUND          = the formative event (origin)
+  INTERNAL FEAR  = the wound's standing ENCODING — identity-level threat-pattern ("I am fundamentally X");
+                   active from the Build-up on → [[internal-conflict]] TWO FEAR LAYERS
+  RAW WOUND      = that vulnerability RE-EXPOSED when the dominant mechanism is stripped → [[wound-model-thesis]] Part 4
+  KRYPTONITE     = the raw wound in its FUNCTIONAL ROLE — the disaster's design-target; what disarms THIS character
+                   → [[Beats/10_disaster_dark_moment]]
+  one line: internal fear = the fear-OF; raw wound = the thing feared; kryptonite = the thing feared as target.
+    they converge at the disaster (internal fear activated = raw wound exposed = kryptonite hit), distinct elsewhere.
+
+TERM AXES — "INTERNAL / EXTERNAL" (three distinct pairings — always pair the word with its noun)
+  internal/external CONFLICT = psychology (why it matters) vs plot (what happens) → [[internal-conflict]] CORE EQUATION
+  internal/external FEAR     = identity-level threat ("I am X") vs misbelief's predicted world-outcomes ("if X then Y")
+                               → [[internal-conflict]] TWO FEAR LAYERS
+  internal/external OUTCOME  = arc direction (misbelief dissolved vs embraced) vs world result (win vs loss)
+                               → [[arc-architecture]] Axis A/B
+  disambiguator: never use "internal/external" bare — name the noun (conflict / fear / outcome); they do not co-vary.
