@@ -52,3 +52,15 @@ SINGLE SOURCE OF TRUTH + REFERENCE
 PROVENANCE / SHARED METADATA  (T3 discipline)
   source tags / authority lists are COLD — keep for re-validation but demote out of the hot region (footer or manifest)
   do not restate standing metadata per file; hoist shared metadata once to the domain's grounding file
+
+---
+
+DEFERRED — OPEN QUESTIONS FOR THE METHODOLOGY REVALIDATION  (surfaced 2026-06-27, close of character-model validation)
+  SPINE-DOC vs LINK-GRAPH: does the unified story engine's interdependence need a single spine/map overview doc, or is it
+    adequately carried by the [[wikilink]] graph + [[wound-model-thesis]] Part 5 (three-layer picture)? do NOT monolith —
+    a merge breaks the TIER axis, retrieval, and mutability; a spine-doc would be the MAP, not the merged territory.
+  ALTITUDE-BANDING: sub-region Novel Craft Theory by wound-model dependence? three bands — ENGINE (interwoven: wound-model /
+    enneagram / beats / arc) · CONSTRUCTION techniques (scene-cards, backstory-exposition, scene-earning, character-profiles,
+    subplots — attached, swappable) · PROSE lens (dialogue, line-editing, voice, description — independent, mostly unbuilt).
+    flat folder for now; the architecture-vs-"art" line the validation review drew is roughly this same seam.
+    sorting test for any new craft file: "does this need the wound-model to make sense?" yes → engine/construction; no → prose lens.

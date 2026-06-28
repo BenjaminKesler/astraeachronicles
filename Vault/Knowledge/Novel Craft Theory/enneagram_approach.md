@@ -12,7 +12,7 @@ Only type characters with a serious internal wound driving the arc. Diagnostic: 
 
 ## Type & the Wound Model — the bridge
 
-Type and the wound-model are not two systems; type is the **content the wound-model runs on.** Validated across Zuko (3), Jinx (4), Thor (8) — both arc directions, Heart + Gut centers.
+Type and the wound-model are not two systems; type is the **content the wound-model runs on.** Validated across Zuko (3), Jinx (4), Thor (8) — both arc directions, Heart + Gut centers. One layer of an interwoven story-engine (type · wound-model · beats · arc) — pull one thread, pull the others → [[wound-model-thesis]] Part 5.
 
 - **Type = the poles.** The core fear + core desire ARE the type — this is "type the WHY." They are **temperamentally prior** (the fixation can exist as personality with no stated origin) and **permanent**: they survive the aha. A redeemed Eight is still sovereign; a redeemed Three still cares about worth. You never stop being your type — you only rein the fixation in.
 - **Fixation = the misbelief-shape + the maintenance mechanism.** The type's characteristic *misbelief about how to satisfy the pole* ("worth = a prize awarded for performance"; "great = strong / dominant") plus the wound-protective mechanism that defends it. The fixation is the "form of unhealth" — it is what moves.

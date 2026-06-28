@@ -1,6 +1,7 @@
 # Story Beat Skeleton
 # source series: Abbie Emmons — 3-Act Structure (12-video series)
 # worksheet: "3-ACT STORY STRUCTURE - PRINTABLE.pdf"
+# model: the beats are ONE layer of an interwoven story-engine (beats · wound-model · type · arc) — pull one thread, pull the others → [[wound-model-thesis]] Part 5
 
 CONVENTIONS
   state: = protagonist's misbelief position at this beat

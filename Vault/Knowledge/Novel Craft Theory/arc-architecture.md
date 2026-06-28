@@ -6,6 +6,7 @@
 CONVENTIONS
   two orthogonal axes define every arc; the named arcs = inhabited points in their space
   int = internal outcome (arc direction)  |  ext = external outcome  |  → cross-ref
+  model: one layer of an interwoven story-engine (arc · wound-model · type · beats) — pull one thread, pull the others → [[wound-model-thesis]] Part 5
   SYNONYMS (standardized — same referent, not distinct concepts):
     "misbelief" = canonical; "the lie" = the same thing (kept here only in the named-arc shorthand)
     "positive arc" = internal WIN = misbelief dissolved; "negative arc" = internal LOSS = misbelief embraced (Axis B)
