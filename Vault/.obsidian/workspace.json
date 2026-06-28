@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Knowledge/Novel Craft Theory/_consistency_watchlist.md",
+                "file": "Series Canon/Premise/01_Series_Premise_Idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_consistency_watchlist"
+              "title": "01_Series_Premise_Idea"
             }
           }
         ],
@@ -183,13 +183,16 @@
   },
   "active": "5a2734b0f852bd13",
   "lastOpenFiles": [
+    "Knowledge/snowflake_methodology.md",
+    "Series Canon/Premise/01_Series_Premise_Idea.md",
+    "Series Canon/Premise",
+    "Knowledge/Novel Craft Theory/_consistency_watchlist.md",
     "Knowledge/Novel Craft Theory/enneagram_approach.md.tmp.28148.9d4d7388446c",
     "_vault_architecture.md.tmp.28148.da3a712270d1",
     "Knowledge/Novel Craft Theory/_consistency_watchlist.md.tmp.28148.6d84a7d6f0f3",
     "Knowledge/Novel Craft Theory/arc-architecture.md.tmp.28148.aa2995075dbf",
     "Knowledge/Novel Craft Theory/scene-earning.md",
     "Knowledge/Novel Craft Theory/arc-architecture.md",
-    "Knowledge/Novel Craft Theory/_consistency_watchlist.md",
     "Knowledge/Novel Craft Theory/plot-structure-outlining.md",
     "Knowledge/Novel Craft Theory/wound-model-thesis.md.tmp.28968.d6ff86f759ac",
     "Knowledge/Novel Craft Theory/enneagram_approach.md.tmp.28968.2810bd1d394a",
@@ -199,8 +202,6 @@
     "Knowledge/Novel Craft Theory/_consistency_watchlist.md.tmp.8572.b5c7480b1ff9",
     "Knowledge/Novel Craft Theory/internal-conflict.md.tmp.8572.5a63b82297e6",
     "Knowledge/Novel Craft Theory/_consistency_watchlist.md.tmp.8572.0e3793f08c2e",
-    "Knowledge/Novel Craft Theory/_consistency_watchlist.md.tmp.8572.99ad86a0f43a",
-    "_execution_plan.md.tmp.27476.433bd91e3498",
     "01_open_items.md",
     "Knowledge/Publishing/_instructions.md",
     "Knowledge/_knowledge.md",
@@ -218,7 +219,6 @@
     "Series Canon/Characters/0_Main/Callum Makai Rookse.md",
     "Series Canon/Characters/0_Main/Alistair Bram Verhayen.md",
     "domain_structure.md",
-    "Knowledge/snowflake_methodology.md",
     "Knowledge/Publishing/ebook-formatting.md",
     "Images/Characters/Alistair_Portrait.jpg"
   ]
