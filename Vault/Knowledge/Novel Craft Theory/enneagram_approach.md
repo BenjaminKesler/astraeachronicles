@@ -10,6 +10,17 @@ Fixations (maladaptive drives): type the WHY (core fear/desire), not the WHAT (t
 
 Only type characters with a serious internal wound driving the arc. Diagnostic: can you describe a scene where they express and then repress the fixation's specific damage? If not, don't force it. Sidekicks, flat villains, and pre-conventional characters (children, or adults behaving like them) don't need typing.
 
+## Type & the Wound Model — the bridge
+
+Type and the wound-model are not two systems; type is the **content the wound-model runs on.** Validated across Zuko (3), Jinx (4), Thor (8) — both arc directions, Heart + Gut centers.
+
+- **Type = the poles.** The core fear + core desire ARE the type — this is "type the WHY." They are **temperamentally prior** (the fixation can exist as personality with no stated origin) and **permanent**: they survive the aha. A redeemed Eight is still sovereign; a redeemed Three still cares about worth. You never stop being your type — you only rein the fixation in.
+- **Fixation = the misbelief-shape + the maintenance mechanism.** The type's characteristic *misbelief about how to satisfy the pole* ("worth = a prize awarded for performance"; "great = strong / dominant") plus the wound-protective mechanism that defends it. The fixation is the "form of unhealth" — it is what moves.
+- **"Fixation relinquished" = the misbelief + mechanism stand down — NOT the poles.** The precise reading of the backbone-minimum's "fixation relinquished in service of something beyond self." The pole isn't surrendered; its **expression** shifts from fixated to integrated (Eight sovereignty: domination → service; Three honor: bestowed-prize → doing-right). Integration is the same core energy routed true.
+- **Arc direction = what happens to the fixation.** Positive: fixation relinquished → pole freed to its integrated expression. Negative: fixation **sealed** (actively chosen as truth) → pole **chained** to its fixated expression — which is why negative arcs hurt: the want never dies, the seal just guarantees it's never met (Jinx wants love, can only reach for it *as Jinx*, so never gets it as herself).
+- **Type encodes the wound (upstream).** The type is the lens that turns a raw event into a *specific* wound: the same banishment lands as worth-withdrawal for a Three, erasure for a Nine, loss-of-sovereignty for an Eight. You cannot hold the wound-event fixed and swap the type — the type reaches back and molds the wound itself, within the valence band the event affords.
+- **The maintenance mechanism can come from a non-primary tri-type slot.** Primary type supplies the fixation's *content* (the misbelief); a lower slot can supply the *mechanism* that maintains or seals it (Jinx: a 4 identity-content sealed by a 6-flavored can't-trust-the-anchor). *(Single observation — hold loosely.)*
+
 ## Clusters
 
 Cross-cluster gap > adjacent-type gap (4→3 small; 4→5 is a different world).
@@ -52,7 +63,7 @@ One number per cluster, ordered by dominance = character "barcode" (e.g., 3-5-1)
 - **Head** = anxiety management / crisis behavior plane
 - **Gut** = anger expression / boundary violation plane
 
-Primary type = the arc's argument (visible, structural — this is the misbelief and the turning point). Lower two = voice and texture, informing the writer more than the reader. All three converge at high-stakes thematic moments rather than driving separate arcs. If a reader can name the lower two types, they've been over-expressed into behavior rather than absorbed into texture.
+Primary type = the arc's argument (visible, structural — its **fixation** supplies the misbelief and the turning point; the type itself is the pole-pair). Lower two = voice and texture, informing the writer more than the reader. All three converge at high-stakes thematic moments rather than driving separate arcs. If a reader can name the lower two types, they've been over-expressed into behavior rather than absorbed into texture.
 
 ## Multi-Protagonist Series Architecture
 # source: session synthesis — https://youtu.be/kqyAEXLjfoU discussion

@@ -22,6 +22,11 @@ WOUND STRUCTURE (formation layer)
       both layers active simultaneously at the Build-Up beat → [[Beats/03_build_up]]
     abstract desire: the equal and opposite pull — "I need the antidote to this threat"
     cannot have one without the other; Enneagram types always pair core fear + core desire for this reason
+  TYPE = THE POLES (the encoder):
+    for a typed character the core fear + core desire ARE the Enneagram type — temperamentally prior, not made by this wound
+    the wound activates/encodes the poles into a specific wound (same event → different wound per type) within the event's valence band
+    poles persist past the aha; what dissolves (positive arc) or seals (negative arc) is the FIXATION = misbelief-shape + mechanism
+    → [[enneagram_approach]] "Type & the Wound Model"; [[wound-model-thesis]] Part 1 temperament refinement
   misbelief: forms under acute pressure — exposed, afraid, desperate — before distance is possible
     hasty narrativization crystallizing into fixed cognitive rule
     DUAL FUNCTION:

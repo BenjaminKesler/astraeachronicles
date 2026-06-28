@@ -74,15 +74,23 @@ S2  MECHANISM: INTENSIFY vs DEGRADE                                    [CALL]
   call: two axes; output intensifies WHILE sustainability degrades. Confirm the curve against a real arc.
   risk if unfixed: a writer following the degradation diagnostic literally reads the GCM peak as the arc STALLING.
 
-S3  ENNEAGRAM BODY ORPHANED FROM THE BEATS                             [OPEN]
+S3  ENNEAGRAM BODY ORPHANED FROM THE BEATS                             [RESOLVED 2026-06-27 — folded into the model]
   collision: across 15 beat files the Enneagram layer connects at ~one point ("Enneagram kryptonite per type",
     disaster design). The beats run on wound / misbelief / mechanism — not on type.
   but: enneagram_approach claims TYPE = the differentiation engine (makes each character's misbelief feel singular).
     That claim is operationalized NOWHERE in the beats.
   purest cross-body seam: a body asserted load-bearing, then not wired into the structure meant to carry it.
   distinct from S4: S4 = "what IS a type"; S3 = "type isn't plugged in."
+  RESOLUTION (C6 Zuko / C7 Jinx / C8 Thor — 3 types, Heart+Gut, both arc directions): NOT orphaned — CATEGORY ERROR.
+    type is not a body to wire INTO the beat structure; the beats are deliberately TYPE-BLANK load-paths (so they
+    generalize). type is the CONTENT poured in at the wound and carried through every wound-driven beat from the Hook
+    forward — it ENCODES the wound itself (same event → different wound per type, within the event's valence band).
+    the one explicit hook (kryptonite-per-type) is the tip; the dependency is pervasive and begins at the wound.
+    THREE-LAYER PICTURE: beats = type-blank scaffolding · wound-model = mechanism · type = content-encoded-at-the-wound.
+    folded into: enneagram_approach ("Type & the Wound Model"), wound-model-thesis Part 1 + Part 5, internal-conflict
+    (TYPE = THE POLES / encoder).
 
-S4  FIXATION = MISBELIEF, or = FEAR/DESIRE POLES?                      [CALL]
+S4  FIXATION = MISBELIEF, or = FEAR/DESIRE POLES?                      [RESOLVED 2026-06-27 — folded into the model]
   collision: enneagram_approach says BOTH — "type the WHY (core fear/desire)" [the poles, pre-misbelief]
     AND "primary type = ... the misbelief" [the cognitive layer].
   bites at the aha: enneagram "fixation relinquished" vs wound-model "fear may remain; abstract desire finally pursued."
@@ -90,6 +98,13 @@ S4  FIXATION = MISBELIEF, or = FEAR/DESIRE POLES?                      [CALL]
   beats tip it: they feed type into the WOUND/kryptonite layer, not the misbelief → supports the poles reading.
   call: type fixes the POLES; the misbelief is a separate narrativization. This makes the differentiation-engine
     claim coherent (same poles, different misbelief per character) but flags "fixation relinquished" as mis-worded.
+  RESOLUTION (C6/C7/C8): the prior call was an UNDER-CLAIM (mirror of S1's over-claim). NOT poles-XOR-misbelief.
+    TYPE = the poles (temperamentally prior, permanent, survive the aha). FIXATION = the misbelief-shape (how to satisfy
+    the pole) + the maintenance mechanism — the "form of unhealth." arc direction = what happens to the fixation:
+    positive RELINQUISHES it (pole freed to integrated expression); negative SEALS it (pole chained to fixated expression).
+    "fixation relinquished" now precise: the misbelief + mechanism stand down, the pole's EXPRESSION shifts fixated→integrated
+    (Eight sovereignty: domination→service). NOTE: the maintenance mechanism can come from a NON-PRIMARY tri-type slot
+    (C7 Jinx — 4 identity-content sealed by 6-distrust; N=1, held loosely).
 
 ---
 
@@ -208,3 +223,41 @@ C5  THE WAY OF KINGS — Kaladin (scoped)  (low-agency suffered wound; veiled-qu
   RESULT: confirms DRIVER = ATTRIBUTION over AGENCY (near-zero agency, self-attributes → self-led, like Vin; opposite Algren).
   SHARPENINGS: PRESENCE≠LEADERSHIP (loud world-verdict stayed secondary); FORM≠AXIS (relational resolution resolved a
     SELF-verdict — his connection-fear was "I'll fail you," not "you'll betray me"). METHOD: veiled questions worked — kept as a tool.
+
+C6  AVATAR: THE LAST AIRBENDER — Zuko  (S3+S4 opener; Type 3, positive arc; 2026-06-27)
+  arbiter: SHARED — Claude knows it + user (strongest read). Claude OPEN-locked a full prediction (Type 3, via the
+    hollow-homecoming fork) before the user's gut read; user's blind read independently resolved the fork to 3 ("the
+    love felt transactional — for what he did, not who he was") and stated the poles/fixation split unprompted.
+  TARGET: S4 (poles vs misbelief) + S3 (type load-bearing or decorative).
+  VERDICT: Type 3 (heart). poles PERSIST (honor/worth — "honor still matters"); fixation RELINQUISHED (misbelief "honor =
+    transactional approval bestowed by father" + performing mechanism). turn = 3→6 integration (steps down from center,
+    joins the team as teacher). disaster = the hollow homecoming (won prize = ash = the 3 kryptonite specifically, NOT
+    derivable from a generic wound → type is load-bearing).
+  S3 SHARPENING (user): you cannot hold the wound-event fixed and swap type — the type ENCODES the wound (swap to 9 and
+    banishment must be reframed). → reorganized into the THREE-LAYER PICTURE. S1 re-fired: Zuko self-attributes ("unworthy
+    of father's love") despite grounds to externalize onto monstrous Ozai → self-led, attribution-over-agency.
+  RESULT: S3 OPEN→CALL, S4 CALL→sharpened (poles + temperament-priority).
+
+C7  ARCANE S1 — Jinx  (negative-arc + 2nd-type test; veiled questions; 2026-06-27)
+  arbiter: SHARED. Claude privately locked (Type 4, tragedy/negative, fixation SEALS as active choice) → revealed after
+    user's veiled blind read. user independently produced: identity-claimed ("painted Jinx onto her self-identity; would
+    be that person"), poles persist ("wanted love/acceptance — from Vi as Powder, from Silco as Jinx"), active choice
+    ("appearance of couldn't-stop, but it was her choice"), self-sealing ("wants the way back but can't trust it; tiny
+    validations push her deeper").
+  VERDICT: Type 4 (identity-as-wound), negative arc. confirms the split on a 2ND TYPE and a NEGATIVE arc: poles persist
+    (love/belonging, re-pointed Vi→Silco), fixation SEALS (become-the-wound identity, actively chosen). negative arc is
+    tragic BECAUSE the poles persist — the want never dies, the seal guarantees it's never met as herself.
+  NUANCE: maintenance mechanism = 6-flavored can't-trust-the-anchor (non-primary tri-type slot) sealing a 4-primary
+    identity-content → resolves the earlier "mechanism mapping is loose" wrinkle (tri-type supplies the mechanism). N=1.
+  RESULT: split confirmed across both arc directions; center-gap flagged (both cases Heart).
+
+C8  THOR (2011) — Thor  (non-Heart / Gut test; veiled questions; 2026-06-27)
+  arbiter: SHARED. Claude privately locked (Type 8 Gut, positive, fixation relinquished via 8→2 powerless self-sacrifice)
+    → revealed after user's veiled blind read. user independently produced: misbelief ("worthy = merely strength and
+    charisma"), kryptonite ("strength/power gone — find who he is without it"), the FORK ("becomes worthy by placing
+    others above himself" = give-away not take-back = 8→2), and the cleanest poles/fixation line of all three cases
+    ("still wants to be a great ruler for his people; completely different understanding of what a great ruler is").
+  VERDICT: Type 8 (gut). closes the CENTER gap — split holds on Gut, not just Heart. SHARPENING: relinquishment isn't the
+    pole going away — its EXPRESSION shifts fixated→integrated (sovereignty: domination→service); same core energy routed true.
+  RESULT: S3/S4 across 3 types (3/4/8), Heart+Gut, both arc directions, ZERO disconfirmation → consolidated to RESOLVED.
+    Residual boundary: Head (5/6/7) center not explicitly tested.
