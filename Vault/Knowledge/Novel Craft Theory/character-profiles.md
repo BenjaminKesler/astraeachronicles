@@ -15,3 +15,12 @@ COMFORT → STRATEGIC DENIAL
   distinct from [[scene-earning]] planted resonance (that's seeding a payoff; this is mapping deprivation targets)
   author move: place comfort detail early → deny it at precisely the moments it would matter most
 
+DEPTH ALLOCATION (which characters get how much engine)
+  treatment-depth scales with narrative weight; the thing that scales is the WOUND-MODEL engine itself
+  TOP tier (full: profile + wound-model + beat-mapping + backstory): protagonist AND antagonist — same depth
+    antagonist is the predictable miss: writers feel the depth obligation for the hero, skip it for the villain
+    → antagonist's full treatment is design-specific; see [[antagonist-design]]
+  MID tier (slimmed: wound poles + misbelief, no full beat-map): important / recurring characters
+  BASE tier (no arc; serve function, not journey): background / bit characters
+  trace forward as always — depth a character can't pay back in plot|theme|impact is bloat, not richness
+
