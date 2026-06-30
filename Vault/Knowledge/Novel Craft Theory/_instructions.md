@@ -16,6 +16,13 @@ WHAT NOT TO SAVE
   plot summary of examples
   prose explanation of well-documented concepts
 
+HIGHER BAR (mature corpus — default is "nothing new")
+  corpus now covers the fundamentals; assume a new source is redundant until proven otherwise
+  burden is on INCLUSION, not discard — a null result (file nothing) is valid and common; never force a find
+  REACH TEST: not "is this a real insight" but "will I actually pull this in during collaboration?" — merely-interesting fails
+  REDUNDANCY-IN-OTHER-WORDS: reject if we already hold the mechanism at a different altitude/wording, not just on verbatim match
+    verify by READING the candidate neighbor file, not from memory — the read also reveals whether the idea EXTENDS it vs. stands alone
+
 CONSTRUCTION (per file)
   target ~40-55 lines
   use semantic labels and symbol compression to maximize density;

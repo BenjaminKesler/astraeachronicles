@@ -1,4 +1,4 @@
-Ingest a YouTube novel-craft video: fetch the transcript, have an excited discussion about what we both learned, then save the non-obvious insights to Knowledge/Novel Craft Theory/.
+Ingest a YouTube novel-craft video: fetch the transcript, talk through what (if anything) is genuinely new for us, then save the non-obvious insights to Knowledge/Novel Craft Theory/.
 
 $ARGUMENTS is the YouTube URL (e.g., https://www.youtube.com/watch?v=VIDEO_ID or https://youtu.be/VIDEO_ID).
 
@@ -59,15 +59,20 @@ rm -f $SCRATCH/yt_audio.mp3 $SCRATCH/yt_audio.txt
 ## Step 2 — Read the existing craft knowledge base
 
 Read `Knowledge/Novel Craft Theory/_instructions.md`.
-Scan the existing files in `Knowledge/Novel Craft Theory/` to know what's already captured — so you know what would be new versus redundant.
+Scan the existing files in `Knowledge/Novel Craft Theory/` (names + a glance) to know the lay of the land — what's already captured versus what would be new. This is orientation, not a deep read; targeted reads happen on demand during Step 4.
 
 ---
 
 ## Step 3 — Start the conversation
 
-Come in like a friend who just watched the same video and can't wait to talk about it — warm, specific, referencing actual moments from the transcript. Open with what genuinely excited or surprised you, then ask what landed for them.
+Come in genuinely curious — warm, specific, referencing actual moments from the transcript. Open with whatever you noticed, and ask what landed for them.
 
-General conversational conduct (one question at a time, hear the full idea, let the user steer) follows the Vector 1 persona — it isn't restated here. This step adds only the command-specific framing: high energy, exploratory, not a lecture or a structured debrief. The goal is to explore the video together — what resonated, what surprised, what complicates or confirms what we already believed about craft.
+Let the energy be EARNED by the content, not performed at it. The corpus is now mature, so many videos will mostly restate what we already hold — that's fine and expected:
+- If there's something genuinely new and useful for us, let real excitement carry the discussion — this is where the best work happens.
+- If it's a refresher, say so plainly, name what we already cover, and keep the session quick and light. Do NOT manufacture a find.
+- Crucially, don't render the "refresher" verdict up front. Poke at it first — a thin video can still yield something at the seam through discussion (that's how prior keeps emerged). Go light only after an honest poke turns up nothing.
+
+General conversational conduct (one question at a time, hear the full idea, let the user steer) follows the Vector 1 persona — it isn't restated here. The goal is to explore the video together — what resonated, what surprised, what complicates or confirms what we already believed about craft — exploratory, not a lecture or a structured debrief.
 
 ---
 
@@ -77,13 +82,15 @@ Stay in conversation mode across as many exchanges as needed. Let the user steer
 
 As the conversation progresses, mentally track which insights feel like genuine additions to the craft knowledge base — named mechanisms, counter-intuitive framings, diagnostic heuristics — versus things that are general knowledge or already captured.
 
+PULL ON THREADS (low bar): when something sounds like it may connect to an existing craft-theory file, OPEN AND READ that file to verify — don't judge redundancy from memory. During an ingest this read is reliance-justified by default (the redundancy/placement judgment IS the next move), so the vault's usual don't-over-read discipline is relaxed here — but stay scoped: pull the specific connected file(s), don't sweep the folder. The read does double duty: it confirms redundant-vs-new AND reveals whether the idea EXTENDS that file (fold in) rather than standing alone (new file).
+
 ---
 
 ## Step 5 — Close and file
 
 When the conversation reaches a natural conclusion (user signals they're done, or the thread winds down), shift into save mode.
 
-Apply the canonical KEEP/DISCARD extraction criteria from `Knowledge/Novel Craft Theory/_instructions.md` — that's the single source; don't restate them here.
+Apply the canonical KEEP/DISCARD + HIGHER BAR criteria from `Knowledge/Novel Craft Theory/_instructions.md` — that's the single source; don't restate them here. A null result — filing nothing — is a valid, common close; report it honestly rather than forcing an entry.
 
 Determine destination (layout per the `_instructions` LAYOUT pointer):
 - Add to an existing file if the insights clearly belong there
