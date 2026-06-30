@@ -4,25 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9af212f5601723d2",
+        "id": "bf5cd7d81284fe04",
         "type": "tabs",
         "children": [
           {
-            "id": "5a2734b0f852bd13",
+            "id": "b9c2418f004d9bdc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knowledge/Novel Craft Theory/antagonist-design.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "antagonist-design"
+              "title": "New tab"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,45 +176,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "5a2734b0f852bd13",
+  "active": "b9c2418f004d9bdc",
   "lastOpenFiles": [
     "Series Canon/Premise/01_Series_Premise_Idea.md",
+    "Series Canon/Characters/1_Important/Silas Verhayen.md",
+    "Series Canon/Encyclopedia/astraea_ship.md",
+    "Series Canon/00_north_star.md",
+    "01_open_items.md.tmp.36376.245b77a51727",
+    "Series Canon/Encyclopedia/glossary.md.tmp.36376.ac72cbf12188",
+    "Series Canon/Encyclopedia/glossary.md.tmp.36376.76caaedb3bcc",
+    "Series Canon/Story_Core.md",
+    "Series Canon/00_north_star.md.tmp.36376.3fbfdb08e1b0",
+    "Series Canon/00_north_star.md.tmp.36376.aeb9d9b07038",
+    "Series Canon/00_north_star.md.tmp.36376.8b49c959df4c",
+    "03_worldbuilding_threads.md.tmp.36376.4c42e4b72105",
+    "Series Canon/Encyclopedia/aesthetic_guide.md.tmp.36376.4dd002ecf3c1",
+    "_TEMP_astraea_core_redesign.md",
+    "03_worldbuilding_threads.md",
+    "_TEMP_astraea_core_redesign.md.tmp.36376.0b4df035f7c8",
+    "Series Canon/Characters/1_Important/Silas Verhayen.md.tmp.2964.f45cf091d7a9",
+    "CLAUDE.md",
+    "_guidance_inventory.md",
+    "_execution_plan.md",
+    "Series Canon/_series_canon.md",
+    "Series Canon/Encyclopedia/aesthetic_guide.md",
+    "Series Canon/Premise/01_Series_Premise_Idea (Claude Generated).md",
     "Knowledge/Novel Craft Theory/antagonist-design.md",
     "Knowledge/snowflake_methodology.md",
-    "Series Canon/Premise",
     "Knowledge/Novel Craft Theory/_consistency_watchlist.md",
-    "Knowledge/Novel Craft Theory/enneagram_approach.md.tmp.28148.9d4d7388446c",
-    "_vault_architecture.md.tmp.28148.da3a712270d1",
-    "Knowledge/Novel Craft Theory/_consistency_watchlist.md.tmp.28148.6d84a7d6f0f3",
-    "Knowledge/Novel Craft Theory/arc-architecture.md.tmp.28148.aa2995075dbf",
     "Knowledge/Novel Craft Theory/scene-earning.md",
     "Knowledge/Novel Craft Theory/arc-architecture.md",
     "Knowledge/Novel Craft Theory/plot-structure-outlining.md",
-    "Knowledge/Novel Craft Theory/wound-model-thesis.md.tmp.28968.d6ff86f759ac",
-    "Knowledge/Novel Craft Theory/enneagram_approach.md.tmp.28968.2810bd1d394a",
     "Knowledge/Novel Craft Theory/character-profiles.md",
     "Knowledge/Novel Craft Theory/universal-diagnostics.md",
     "Knowledge/Novel Craft Theory/_instructions.md",
-    "Knowledge/Novel Craft Theory/_consistency_watchlist.md.tmp.8572.b5c7480b1ff9",
-    "Knowledge/Novel Craft Theory/internal-conflict.md.tmp.8572.5a63b82297e6",
-    "Knowledge/Novel Craft Theory/_consistency_watchlist.md.tmp.8572.0e3793f08c2e",
     "01_open_items.md",
     "Knowledge/Publishing/_instructions.md",
     "Knowledge/_knowledge.md",
     "Novels/_novels.md",
-    "Series Canon/_series_canon.md",
-    "Series Canon/00_north_star.md",
     "Series Canon/Images/Characters/Alistair_Portrait.jpg",
-    "Series Canon/Encyclopedia/glossary.md",
-    "Series Canon/Encyclopedia/astraea_ship.md",
-    "Series Canon/Characters/1_Important/Silas Verhayen.md",
-    "Series Canon/Characters/0_Main/Taelyn.md",
-    "Series Canon/Characters/0_Main/Shaye Tukae.md",
-    "Series Canon/Characters/0_Main/Roan Evander Ashur.md",
-    "Series Canon/Characters/0_Main/Karae Eristoque.md",
-    "Series Canon/Characters/0_Main/Callum Makai Rookse.md",
-    "Series Canon/Characters/0_Main/Alistair Bram Verhayen.md",
-    "domain_structure.md",
     "Images/Characters/Alistair_Portrait.jpg"
   ]
 }

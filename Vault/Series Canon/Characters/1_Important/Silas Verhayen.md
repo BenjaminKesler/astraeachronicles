@@ -3,7 +3,7 @@
 > _"The system doesn't ask you to be good. It asks you to be useful. I was very, very useful."_
 
 - **Role:** Alistair's father. UDI Admiral. Celebrated war hero — one of the defining military figures of the human empire, the institutional ideal that Alistair's entire identity is built around and eventually has to destroy.
-- **Function in the Story:** He is never a present character — by the time the story begins, he has been fully hollowed out by the Aeliria. He exists as a ghost: in Alistair's internalized perfectionism, in the orbital strike order Alistair carries guilt for, and in the hidden message buried in the Astraea that drives Alistair's arc.
+- **Function in the Story:** He is never a present character — the Aeliria had all but completed his erasure, and at the final threshold he chose truth over becoming their shell, which killed him. He is dead before the story begins, present only as a ghost: in Alistair's internalized perfectionism, in the orbital strike order Alistair carries guilt for, and in the hidden message buried in the Astraea that drives Alistair's arc.
 
 ---
 
@@ -15,7 +15,7 @@ He authorized the orbital strike on a Vuquoi civilian transport believing it was
 
 **The Final Act**
 
-In the last moments before the Aeliria finished erasing him, Silas performed a single, unrepeatable act of defiance: he embedded a hidden message or mechanism inside the Astraea's code. He then hid the act from his own memory — whether that was a deliberate, conscious self-suppression in his last lucid moment, or whether the ongoing erasure process swallowed it incidentally along with everything else, is unresolved (see North Star open questions). Either way, he did not remember doing it. The act is the in-world precedent for the North Star rule that genuine resistance to full Aeliria brainwashing cannot be systematized — it was the last fragment of who he was, spent once.
+At the final threshold — the Aeliria finishing his erasure — Silas faced the choice every fully-caught soul faces: surrender completely and live on as a hollow shell for the Aeliria to use, or hold to the truth and be destroyed by it. He had chosen the lie through the long erosion. At the very end, he chose truth: in one unrepeatable act he embedded a hidden message or mechanism inside the Astraea's code — and that same act of defiance was what ended him. Choosing truth at the threshold destroyed his mind and killed him; he escaped the Aeliria rather than becoming their tool, and there was nothing left of him afterward to remember what he had done. The act is the in-world precedent for the North Star rule that genuine resistance to full Aeliria brainwashing cannot be systematized — it is a free choice at the threshold, not a technique: born of conviction, spent once, at the cost of his life.
 
 ---
 

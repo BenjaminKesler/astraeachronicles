@@ -5,14 +5,10 @@ RUBRIC
   resolved → delete immediately; partial clarity → update in place, no history
   section >5-6 items → consider moving settled nuance to character files
 
-## Blocking — Must Resolve Before Drafting
-- Aeliria interiority — why they do this in a way that makes horrible sense once understood; the antagonist force cannot remain a faceless mechanism for literary fiction at this level; needs motivation with internal logic, not just operational precision
-
 ## World & Conspiracy
 - Why humans have gap-detection sensitivity (not other species)
   - → Callum's hybrid biology relevant but unconfirmed as answer
 - Physical evidence problem — why hasn't non-digital war record exposed the Ka'ar as fake?
-- Dark Space navigation mechanism — how Aeliria restrict others' access
 
 ## The Astraea
 - Ship surveillance boundary — does sensor suite visually register analog communication acts?
@@ -21,11 +17,12 @@ RUBRIC
   - → potential late-series revelation
 - Aeliria intent in tech bridge — deliberate concession or unauthorized access to Aeliria subject?
   - → determines whether Aeliria consider Astraea fully controlled or partially out of hand
+- Finale re-connection — how the severed/blind-spot Astraea re-enters to fire the inverted relay at the climax
+- Two-stage top reveal — order: the Ehmeya revealed, then their doom; sequence to lock
+- Crew assembly — the unifying event that brings the six together (per-character threads exist; the mechanism undefined)
 
 ## Alistair & Silas
 - Silas's public legend — rank, decorations, UDI narrative; how much is Aeliria-manufactured
-- Silas hidden message — deliberate last act or incidental erasure side effect?
-  - → tactician making final calculated move vs. tragic figure who loses memory of own redemption
 - Alistair — knows about hidden message before joining Astraea, or later discovery?
 - How Alistair discovers the memory log — active search or stumbles onto it?
   - → determines whether it's inciting incident or later complication

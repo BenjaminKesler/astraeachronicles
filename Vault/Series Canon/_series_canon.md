@@ -13,4 +13,5 @@ Contents:
 The eventual inner subdivision derives from the Phase-1 Development Loop steps (see [[snowflake_methodology]]). Characters (→ `Characters/`) and World (→ `Encyclopedia/`) already have homes; the gaps — **Premise** and **Series Arc** — get no dedicated subfolder until the methodology revalidation validates the step structure. Trigger: the full Abbie Emmons video queue clears → SM-04 (still future; the completed story-beats sub-sequence was a *separate*, already-fired trigger).
 
 Until then, Premise / Series-Arc grounding content is **loose-filed at the band top** and recorded here:
-- *(none — the only candidate, CM-02 episodic-structure, was merged into [[00_north_star]]'s Structural Engine rather than loose-filed, since the band anchor already owned the topic)*
+- `Story_Core.md` — the thematic argument in the abstract (the series' meaning stripped of plot); currently a stub, to be expanded. Loose-filed pending revalidation; will formalize its placement when the step structure is validated.
+- *(CM-02 episodic-structure was merged into [[00_north_star]]'s Structural Engine rather than loose-filed, since the band anchor already owned the topic)*

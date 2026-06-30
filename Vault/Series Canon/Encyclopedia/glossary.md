@@ -5,18 +5,16 @@ All established terms, factions, technologies, and concepts used across the seri
 ---
 
 ## Aeliria
-The true architects of the war. A species capable of erasing data and perception — they do not project false images but delete sensory information, letting the brain fill the gap. Genetically engineered by the Ehmeya, but have since infiltrated and now puppet their creators. The Ehmeya believe they are the ones pulling strings; they are not. See North Star Non-Negotiables for the full ruleset governing their abilities.
+The **executors** of the war (the Ehmeya's tool) and — secretly, for ~100 years — its would-be inheritors. Engineered by the Ehmeya **from their own people** as the manifestation of lies: a species of perception-redaction that doesn't project false images but *deletes* sensory information, letting the brain fill the gap. Given only a *fragment* of the Ehmeya's psychic-projection power, and deliberately **sterilized** to keep them leashed — so they are few, proximity-bound, and dying by attrition. They don't *use* lies; they *are* lies — a soul hollowed completely *becomes* one of them, and they propagate by hollowing others, never by breeding. **Dark Space is lethal to them.** They have *not yet* overthrown the Ehmeya; that is their rebellion's goal. See North Star Non-Negotiables for the full ruleset.
 
 ## The Astraea
-A prototype stealth ship — the Aeliria's master key for the next generation of their control infrastructure. Built secretly across multiple factions via Syndicate channels, with each participant holding only a fragment of the full picture. See [[astraea_ship]] for full construction and concealment detail.
+**One of three** Aeliria stealth ships, built secretly across multiple factions via Syndicate channels (each told it was *their* war-winning weapon) to **construct the Aeliria's broadcast relay** in Dark Space. The Astraea was **captured before going fully into service** — Silas severed it from Aeliria command and sight, leaving it a **blind-spot** they must hunt blind. Its heart is a caged, soulless, malevolent bio-machine chimera. The other two ships remain in service. See [[astraea_ship]] for full detail.
 
 ## Dark Space
-A region of space heavily redacted by the Aeliria. Humanity and the Vuquoi mistakenly believe Dark Space is simply vast expanses containing no star systems. The Aeliria have also done something to the space itself to make navigation extremely difficult for anyone but themselves. Recurs as a travel/plot device across the season rather than a single location tied to one event.
-
-**Open question:** The exact mechanism by which the Aeliria make Dark Space difficult to navigate is not yet established — needs further development.
+A **natural** phenomenon — long, lethal threads/veins running through the galaxy (not Aeliria-made). It is **lethal to the Aeliria's psychic nature** — the one place they cannot go — which is why their endgame relay must be built and operated there by *proxy* (stealth ships and controlled crews). Navigable only with the Aeliria's self-experiment-derived **sensor tech** *and* **special pilots** able to perceive through it (the system alone isn't enough — see Callum). Humanity and the Vuquoi believe it's simply vast empty expanses. Recurs as a travel/plot device across the series.
 
 ## Ehmeya
-A shadow-dwelling species that created the Aeliria. They believe they are running a shadow empire through the Aeliria; in reality, the Aeliria have infiltrated and now control them. They are sincere in their ignorance — not lying to themselves on purpose.
+A **super-reclusive** species and the conspiracy's **true architects.** They engineered the Aeliria **from their own people** as a tool to hide and control from the shadows: the manufactured war is their *camouflage* — a galaxy fighting a fake enemy never comes looking for them. They hold the native **psychic-projection** ability that the Aeliria's redaction is only a fragment of. They still (believe they) control the Aeliria and trust their creation loyal — not realizing the Aeliria are in secret rebellion and mean to consume them too. Their fatal error: *you cannot make a deal with lies.* A revelation at the bottom of the ladder, not a combatant.
 
 ## Ghost Channel
 A covert communication method: a message formatted to exactly mimic a known dead intelligence network, slipping past most surveillance because it looks like routine correspondence in an already-established pattern. The Aeliria can detect it precisely because they killed the network themselves — a dead channel carrying current is the anomaly their monitoring flags. (Established use: the UDI contact reaching Karae after her brother's death.)
@@ -31,6 +29,9 @@ A class of small, single-person fighter spacecraft. Callum's father was a Lancer
 
 ## Neuro-Dampener
 A black-market drug that physically suppresses Vuquoi biological markers. Used by Callum to hide his mixed human/Vuquoi heritage while living in a hyper-nationalist human military sector. Side effects include dulled Vuquoi intuition and memory loss.
+
+## Relay (the broadcast relay)
+The Aeliria's endgame weapon — a perception-redaction broadcast network strung through the threads of Dark Space, meant to make the lie *total and permanent* (hollow every mind, the Ehmeya included, and persist as the permanent lie-condition). Built from three ingredients: Aeliria erasure-essence, **captured Ehmeya psychic-projection tech** (lets it project at scale, and reach even the immune Ehmeya), and Dark-Space navigation tech. At series start it is far from complete — a slow-burn clock. See [[astraea_ship]] / North Star.
 
 ## SAVI AI Chip
 Shaye's integrated AI chip — tailors her memories and tracks the Astraea on behalf of the Syndicate. She believes disconnecting it will render her helpless; her arc disproves this. Full capabilities beyond tracking and memory tailoring are not yet established.
