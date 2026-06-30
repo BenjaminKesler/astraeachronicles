@@ -34,6 +34,16 @@ FLOOR / BONUS FRAMEWORK
     side characters should echo one protagonist's thematic angle, not introduce a new one
     adding another angle dilutes rather than reinforces
 
+DIVIDED-POV DIAGNOSTIC (multi-protagonist intro)
+  # source: "ADDING/SWITCHING PROTAGONISTS IN A STORY" — Abbiee — https://youtu.be/8qUgH7OOBBs
+  counter-stereotype: a POV opened WITHOUT relational context divides investment — thins BOTH characters, not just the new one (earlier ≠ more bonded)
+  trip-wire: the FELT sense of being pulled too many directions early — not a checklist
+  test: at the moment each POV opens, does the reader already hold a thread that makes this person matter?
+  remedy menu (not a single fix):
+    relational link — tie new POV to an established character; cheapest, but overuse breeds contrivance at ensemble scale (small-world feel)
+    theme-as-yardstick — POV that's a clear facet of the central question isn't cold even with no character link (scales to large casts) → see below
+    converging event — one inciting catastrophe all are caught in gives every POV a held thread independent of who's met whom
+
 ENSEMBLE YARDSTICK EXTENSION
   single-protagonist: protagonist IS the yardstick
   true ensemble: central thematic question can serve as yardstick — ONLY if all protagonists are genuine facets of that question
