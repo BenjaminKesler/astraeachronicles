@@ -8,13 +8,14 @@ A never-exhausted, prioritized store of worldbuilding **threads to develop**, so
 
 ---
 
-- [8] [Syndicate] Analog tradecraft — derive each tool from a real problem a surveilled criminal org faces. Open slots: records/books, operative authentication & trust, op coordination & navigation, product + people movement. (Necessity-first; identity / value / comms already solved in canon via forged papers / cash / ghost channel.)
+- [8] [Syndicate] Analog tradecraft — derive each tool from a real problem a surveilled criminal org faces. Open slots: records/books, operative authentication & trust, op coordination & navigation, product + people movement. (Necessity-first; identity / value / comms already solved in canon via forged papers / cash / ghost channel.) *(records/books slot seeded 2026-07-01 — write-against-confabulation; see [[aesthetic_guide]].)*
 - [8] [Ship] Room-conversion mechanic — what makes a peripheral room "safe," what it costs, how the ship fights back. Cozy-risk: safety must stay provisional. Depends on `01_open_items` → "ship surveillance boundary."
 - [7] [Ship] Detection threshold — how much the crew can reclaim before the ship/conspiracy escalates; the dial that regulates series-wide tension.
 - [7] [Aesthetic] Erasure-moment sensory signature — the void / skin-crawl / "faces blank, conversations dying mid-sentence"; the lie-pole's defining sensation. Karae's bar scene = exemplar. *(Ship-interior version seeded in [[aesthetic_guide]], 2026-06-29; the off-ship/in-the-field version still open.)*
-- [6] [Aesthetic] Top-level palette — the specific color / light / sound that reads "Astraea" on sight, before any one set.
+- [6] [Aesthetic] Top-level palette — the specific color / light / sound that reads "Astraea" on sight, before any one set. *(advanced 2026-07-01: contraband's light = brought flame vs. leaked conduit-glow; see [[aesthetic_guide]].)*
 - [6] [Aesthetic] Astraea interior — the haunted-house digital-pole home the crew can't trust (north-star: clinical lighting, wrong silences). *(Dread/erasure layer seeded in [[aesthetic_guide]], 2026-06-29; palette / materials / layout still open.)*
-- [6] [Syndicate] Concealment-analog vs. sanctuary-analog — same materials, two functions, two textures (furtive/false-bottomed vs. claimed/persistent).
+- [6] [Syndicate] Concealment-analog vs. sanctuary-analog — same materials, two functions, two textures (furtive/false-bottomed vs. claimed/persistent). *(sharpened 2026-07-01: contraband vs. sanctuary = dangerous-every-visit vs. livable — same objects, opposite frame; see [[aesthetic_guide]].)*
+- [6] [Aesthetic] Contraband writing medium — keep paper's *function* (holds the hand, permanent, self-inscribed) but re-source it to what the walls actually produce (grease-carbon ink already implies it). Open fork: read-by-eye (lantern) vs. read-by-touch (embossed/scored) — decides contraband literacy's sensory character, and read-by-touch doubles as an anti-redaction cross-sensory check.
 - [5] [Crew] Taelyn as the analog bridge — criminal concealment-craft brought aboard and repurposed into truth-sanctuary as the crew converts the ship.
 - [9] [Structure] Ladder mapping — which faction = which conspiracy rung = which Aeliria-step; the spine of the ~12-book climb. *(The big next design task.)*
 - [8] [Crew] Character-arc beats woven into the ladder — each book's cost to each of the six; the soul-level next-phase work.

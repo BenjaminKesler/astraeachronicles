@@ -9,6 +9,7 @@ RUBRIC
 - Why humans have gap-detection sensitivity (not other species)
   - → Callum's hybrid biology relevant but unconfirmed as answer
 - Physical evidence problem — why hasn't non-digital war record exposed the Ka'ar as fake?
+  - → partial: in an Aeliria's presence even physical records are *misread* (erase-then-mind-fills); confabulated memory persists, so no one re-reads in absence to catch it. Full answer needs the write-against-confabulation / verification angle → [[aesthetic_guide]]
 
 ## The Astraea
 - Ship surveillance boundary — does sensor suite visually register analog communication acts?
